@@ -1,0 +1,55 @@
+[tool.poetry]
+authors = [
+  "Craig Trim <craigtrim@gmail.com>",
+]
+
+maintainers = [
+  "Craig Trim <craigtrim@gmail.com>",
+]
+
+description = "API for generating bot/agent personalities based on the Big Five personality model"
+license = "MIT"
+name = "persona-api"
+readme = "README.md"
+version = "0.1.0"
+
+keywords = ["personality", "big5", "api", "llm", "agent"]
+repository = "https://github.com/graffl/persona-api"
+
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/graffl/persona-api/issues"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+rdflib = "^7.0.0"
+fastapi = "^0.115.0"
+uvicorn = "^0.32.0"
+pydantic = "^2.0.0"
+
+[tool.poetry.dev-dependencies]
+pre-commit = "^2.20.0"
+pytest = "*"
+ruff = "*"
+
+[tool.poetry.scripts]
+random-facet = "persona_api.cli_random_facet:main"
+resolve-facet = "persona_api.cli_resolve_facet:main"
+
+[tool.poetry.build]
+generate-setup-file = true
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]
+
+[tool.ruff]
+line-length = 200
+exclude = ["__init__.py", ".venv", ".git"]
+
+[tool.ruff.lint]
+ignore = ["F401", "F403", "E501"]
