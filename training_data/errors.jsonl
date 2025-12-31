@@ -1,0 +1,20 @@
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 33, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_33_271598", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 32, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_32_313888", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 30, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_30_442629", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 31, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_31_940270", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 35, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_35_977633", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 34, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_34_528300", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 36, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_36_5797", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 37, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_37_446120", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 41, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_41_881201", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 38, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_38_614504", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 39, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_39_564112", "error": "SSH/Ollama error: "}
+{"combo_idx": 0, "tier_idx": 0, "run_idx": 40, "scores": "A1,C1,E1,O1,N1", "length": 64, "seed": "0_0_40_180835", "error": "SSH/Ollama error: "}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 17, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_17_658578", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 18, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_18_542293", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 19, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_19_410534", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 20, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_20_335180", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 42, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_42_246804", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 43, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_43_994", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 44, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_44_871798", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 258, "tier_idx": 1, "run_idx": 45, "scores": "A1,C3,E1,O2,N4", "length": 256, "seed": "258_1_45_831473", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}

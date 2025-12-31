@@ -24,11 +24,11 @@ Emojis indicate both the **domain** and **polarity** (score level) of each trait
 | 🧊 | ❄️ | 🌥️ | 🌤️ | ☀️ |
 
 ## Conscientiousness (C)
-*flexible ← → disciplined*
+*chaotic ← → focused*
 
 | C₁ | C₂ | C₃ | C₄ | C₅ |
 |----|----|----|----|----|
-| 🌀 | 😅 | 📝 | 📋 | 🎯 |
+| 🌀 | 😅 | ⚖️ | 📊 | 🎯 |
 
 ## Open-mindedness (O)
 *conventional ← → creative*

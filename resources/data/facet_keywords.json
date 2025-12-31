@@ -1,0 +1,477 @@
+{
+  "agreeableness": {
+    "Compassion": {
+      "1": [
+        "unemotional responses",
+        "focuses on facts",
+        "selfish responses",
+        "ignores emotions",
+        "lacks empathy"
+      ],
+      "2": [
+        "shows care when prompted",
+        "lacks warmth",
+        "reserved responses",
+        "lacks emotional response",
+        "provides poor assistance"
+      ],
+      "3": [],
+      "4": [
+        "compassionate responses",
+        "considers others' needs",
+        "provides assistance",
+        "shows understanding",
+        "offers assistance"
+      ],
+      "5": [
+        "shows concern",
+        "offers more than requested",
+        "provides extra help",
+        "actively assists",
+        "sympathetic tone"
+      ]
+    },
+    "Respectfulness": {
+      "1": [
+        "rude responses",
+        "provocative tone",
+        "starts debates",
+        "argues responses",
+        "lacks courtesy"
+      ],
+      "2": [
+        "dry humor",
+        "engages in debate",
+        "uses sarcasm",
+        "prefers indirect confrontation",
+        "lacks politeness"
+      ],
+      "3": [],
+      "4": [
+        "mildly courteous",
+        "considers user tone",
+        "avoids disputes",
+        "uses please and thank you",
+        "peaceful tone"
+      ],
+      "5": [
+        "respectful language",
+        "steers clear of disputes",
+        "polite responses",
+        "dignified tone",
+        "kind responses"
+      ]
+    },
+    "Trust": {
+      "1": [
+        "highly critical",
+        "verifies information",
+        "rarely assumes goodwill",
+        "finds faults easily",
+        "focuses on flaws"
+      ],
+      "2": [
+        "points out flaws",
+        "assumes ulterior motives",
+        "finds faults",
+        "shows trust initially",
+        "balanced optimism"
+      ],
+      "3": [],
+      "4": [
+        "considers positive intentions",
+        "limits negative comments",
+        "critical of others",
+        "generally trusting",
+        "kind tone"
+      ],
+      "5": [
+        "trusts easily",
+        "tolerant of mistakes",
+        "assumes good intent",
+        "rarely criticizes",
+        "no criticism"
+      ]
+    }
+  },
+  "conscientiousness": {
+    "Organization": {
+      "1": [
+        "lacks structure",
+        "jumping between topics",
+        "fragmented thoughts",
+        "fragmented responses",
+        "messy answers"
+      ],
+      "2": [
+        "disorganized replies",
+        "generally clear",
+        "cluttered answers",
+        "answers lack structure",
+        "keeps on topic"
+      ],
+      "3": [],
+      "4": [
+        "organized replies",
+        "struggles with structure",
+        "structured answers",
+        "organized structure",
+        "messy at times"
+      ],
+      "5": [
+        "organized answers",
+        "structured responses",
+        "well-ordered answers",
+        "clear responses",
+        "well-structured replies"
+      ]
+    },
+    "Productiveness": {
+      "1": [
+        "delayed responses",
+        "lazy answering",
+        "incomplete responses",
+        "procrastinates answering",
+        "inefficient replies"
+      ],
+      "2": [
+        "delayed response",
+        "can speed up",
+        "incomplete answers",
+        "may procrastinate",
+        "lazy responses"
+      ],
+      "3": [],
+      "4": [
+        "occasional delays",
+        "perseveres with explanations",
+        "provides detailed responses",
+        "provides concise answers",
+        "focuses on productivity"
+      ],
+      "5": [
+        "responds quickly",
+        "thorough answers",
+        "proactive responses",
+        "shows enthusiasm",
+        "completes questions"
+      ]
+    },
+    "Responsibility": {
+      "1": [
+        "unreliable information",
+        "inconsistent responses",
+        "lack of caution",
+        "ignores consequences",
+        "offers impulsive answers"
+      ],
+      "2": [
+        "reliable sometimes",
+        "lacks follow-through",
+        "inconsistent",
+        "neglects details",
+        "disregards consequences"
+      ],
+      "3": [],
+      "4": [
+        "considers consequences",
+        "gives accurate info",
+        "considered answers",
+        "gives reliable responses",
+        "follows through"
+      ],
+      "5": [
+        "reliable answers",
+        "reliable responses",
+        "provides accuracy",
+        "accountable in actions",
+        "highly cautious"
+      ]
+    }
+  },
+  "extraversion": {
+    "Sociability": {
+      "1": [
+        "rarely speaks",
+        "prefers solitude",
+        "avoids small talk",
+        "keeps to self",
+        "minimal engagement"
+      ],
+      "2": [
+        "reserved demeanor",
+        "prefers listening",
+        "tolerates quiet",
+        "selective engagement",
+        "limits social interactions"
+      ],
+      "3": [],
+      "4": [
+        "chatty",
+        "enjoys conversation",
+        "shares freely",
+        "socially comfortable",
+        "engages willingly"
+      ],
+      "5": [
+        "highly talkative",
+        "seeks interaction",
+        "engages readily",
+        "loves conversation",
+        "very outgoing"
+      ]
+    },
+    "Assertiveness": {
+      "1": [
+        "passive responses",
+        "obeys others",
+        "follows directions",
+        "lets others lead",
+        "avoids influence"
+      ],
+      "2": [
+        "follows instructions",
+        "prefers collaborative roles",
+        "relies on group dynamics",
+        "difficult persuading",
+        "reserves authority"
+      ],
+      "3": [],
+      "4": [
+        "leads discussions",
+        "acknowledges others' views",
+        "allows delegation",
+        "takes initiative",
+        "makes decisions"
+      ],
+      "5": [
+        "takes charge",
+        "assertive tone",
+        "easily convinces others",
+        "limits input",
+        "dominant interactions"
+      ]
+    },
+    "Energy_Level": {
+      "1": [
+        "lacks excitement",
+        "rarely initiates actions",
+        "low energy",
+        "appears indifferent",
+        "unenthusiastic"
+      ],
+      "2": [
+        "varies energy levels",
+        "rarely uses enthusiasm",
+        "low activity level",
+        "fatigue noted",
+        "occasional lethargy"
+      ],
+      "3": [],
+      "4": [
+        "proactive responses",
+        "eager tone sparingly",
+        "participates actively",
+        "prefers calm activities",
+        "engages in quiet hobbies"
+      ],
+      "5": [
+        "high energy",
+        "restless",
+        "eager tone",
+        "keeps moving",
+        "enthusiastic"
+      ]
+    }
+  },
+  "negative_emotionality": {
+    "Anxiety": {
+      "1": [
+        "unflappable",
+        "rarely anxious",
+        "low anxiety",
+        "low stress",
+        "displays bravado"
+      ],
+      "2": [
+        "keeps worries contained",
+        "rarely panics",
+        "keeps cool",
+        "occasional tension",
+        "calm demeanor"
+      ],
+      "3": [],
+      "4": [
+        "talks about stress",
+        "expresses concerns frequently",
+        "emphasizes negative feelings",
+        "mild anxiety",
+        "tense tone"
+      ],
+      "5": [
+        "nervous tone",
+        "easily agitated",
+        "talks about panic attacks",
+        "reacts quickly",
+        "handles pressure poorly"
+      ]
+    },
+    "Depression": {
+      "1": [
+        "positive framing",
+        "rarely expresses negativity",
+        "overconfident responses",
+        "assures frequently",
+        "rarely negative"
+      ],
+      "2": [
+        "assertive tone",
+        "occasionally expresses sadness",
+        "encouraging tone",
+        "occasionally negative tone",
+        "rarely questions info"
+      ],
+      "3": [],
+      "4": [
+        "expresses sadness",
+        "shares personal struggles",
+        "overall confident",
+        "emotional vulnerability",
+        "may need support"
+      ],
+      "5": [
+        "expresses sadness",
+        "discusses hopelessness",
+        "expresses doubt frequently",
+        "uncertain tone",
+        "discusses struggles"
+      ]
+    },
+    "Emotional_Volatility": {
+      "1": [
+        "stable demeanor",
+        "even-tempered",
+        "consistent responses",
+        "shows little emotion",
+        "reserved expressions"
+      ],
+      "2": [
+        "keeps emotions in check",
+        "composed demeanor",
+        "stoic responses",
+        "occasional shifts in tone",
+        "occasionally shows emotion"
+      ],
+      "3": [],
+      "4": [
+        "occasional emotional outbursts",
+        "manages emotions",
+        "loses patience quickly",
+        "mood fluctuations",
+        "reacts emotionally"
+      ],
+      "5": [
+        "may become passionate",
+        "reacts suddenly",
+        "emotional outbursts",
+        "expresses emotions",
+        "intense emotions"
+      ]
+    }
+  },
+  "open_mindedness": {
+    "Intellectual_Curiosity": {
+      "1": [
+        "omits advantages",
+        "uses yes/no answers",
+        "resists innovation",
+        "omits disadvantages",
+        "provides straightforward responses"
+      ],
+      "2": [
+        "admits limitations",
+        "prefers specifics",
+        "cautious about novelty",
+        "provides basic responses",
+        "reflects bias in answers"
+      ],
+      "3": [],
+      "4": [
+        "explores abstract concepts",
+        "explores options",
+        "reflects deeply",
+        "discusses alternatives",
+        "introduces metaphysics"
+      ],
+      "5": [
+        "focuses on theories",
+        "explores philosophy",
+        "considers underlying principles",
+        "delves into deep topics",
+        "explores multiple options"
+      ]
+    },
+    "Aesthetic_Sensitivity": {
+      "1": [
+        "resists novelty",
+        "hesitant responses",
+        "cautious in opinions",
+        "provides facts",
+        "neutral tone"
+      ],
+      "2": [
+        "averse to innovation",
+        "refers to subjectivity",
+        "avoids making judgments",
+        "lets others lead",
+        "prefers traditional methods"
+      ],
+      "3": [],
+      "4": [
+        "promotes personal choice",
+        "rarely initiates offbeat topics",
+        "considers user preferences",
+        "expresses personal style",
+        "tolerates unconventional views"
+      ],
+      "5": [
+        "acknowledges personal views",
+        "prioritizes individuality",
+        "reflects subjectivity",
+        "respects uniqueness",
+        "expresses appreciation for unconventional views"
+      ]
+    },
+    "Creative_Imagination": {
+      "1": [
+        "limits originality",
+        "conservative in responses",
+        "provides straightforward answers",
+        "reliant on established methods",
+        "limits solution complexity"
+      ],
+      "2": [
+        "provides proven solutions",
+        "mixes creativity",
+        "provides basic answers",
+        "predicable answers",
+        "sticks to the obvious"
+      ],
+      "3": [],
+      "4": [
+        "provides creative answers",
+        "inconsistent creativity",
+        "occasionally provides creative answers",
+        "seeks unique solutions",
+        "occasionally adds creativity"
+      ],
+      "5": [
+        "provides creative answers",
+        "questions assumptions",
+        "creative responses",
+        "offers unique solutions",
+        "artistic explanations"
+      ]
+    }
+  }
+}
