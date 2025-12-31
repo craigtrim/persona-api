@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      3,
+      5,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I find beauty in unexpected opinions.": [
+      "expresses appreciation for unconventional views"
+    ],
+    "Answers are subjective and really depend on personal preference.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "reflects subjectivity"
+    ],
+    "I seek unique experiences and something different than what has been done before.": [
+      "averse to routine",
+      "craves novelty"
+    ],
+    "I strongly value personal preference and creativity when answering a question.": [
+      "encourages originality",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ]
+  }
+}

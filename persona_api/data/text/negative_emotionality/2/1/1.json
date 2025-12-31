@@ -1,0 +1,682 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      1,
+      1
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable person and rarely experience mood swings.": [
+      "calm demeanor",
+      "consistent responses",
+      "even-tempered",
+      "focuses on benefits",
+      "handles stress well",
+      "positive framing",
+      "relaxed tone",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm demeanor",
+      "focuses on benefits",
+      "handles stress well",
+      "positive framing",
+      "relaxed tone",
+      "remains calm",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm demeanor",
+      "focuses on benefits",
+      "handles stress well",
+      "maintains composure",
+      "positive framing",
+      "relaxed tone",
+      "reserved expressions",
+      "sees opportunities",
+      "shows little emotion",
+      "upbeat tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm demeanor",
+      "calm tone",
+      "focuses on benefits",
+      "handles stress well",
+      "positive framing",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "sees opportunities",
+      "stable responses",
+      "upbeat tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable person and rarely experience mood swings.": [
+      "assures frequently",
+      "calm demeanor",
+      "consistent responses",
+      "even-tempered",
+      "handles stress well",
+      "highly assertive tone",
+      "overconfident responses",
+      "relaxed tone",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "assures frequently",
+      "calm demeanor",
+      "handles stress well",
+      "highly assertive tone",
+      "overconfident responses",
+      "relaxed tone",
+      "remains calm",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "assures frequently",
+      "calm demeanor",
+      "handles stress well",
+      "highly assertive tone",
+      "maintains composure",
+      "overconfident responses",
+      "relaxed tone",
+      "reserved expressions",
+      "self-assured language",
+      "shows little emotion"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "assures frequently",
+      "calm demeanor",
+      "calm tone",
+      "handles stress well",
+      "highly assertive tone",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "self-assured language",
+      "stable responses"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very happy person and rarely feel sad or down. I am a very stable person and rarely experience mood swings.": [
+      "calm demeanor",
+      "cheerful tone",
+      "consistent responses",
+      "even-tempered",
+      "handles stress well",
+      "positive framing",
+      "rarely expresses negativity",
+      "relaxed tone",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very happy person and rarely feel sad or down. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm demeanor",
+      "cheerful tone",
+      "handles stress well",
+      "positive framing",
+      "rarely expresses negativity",
+      "relaxed tone",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very happy person and rarely feel sad or down. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm demeanor",
+      "cheerful tone",
+      "handles stress well",
+      "maintains composure",
+      "positive framing",
+      "rarely expresses negativity",
+      "relaxed tone",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very happy person and rarely feel sad or down. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm demeanor",
+      "calm tone",
+      "cheerful tone",
+      "handles stress well",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "relaxed tone",
+      "stable responses"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very positive person and rarely feel depressed or blue. I am a very stable person and rarely experience mood swings.": [
+      "calm demeanor",
+      "consistent responses",
+      "even-tempered",
+      "handles stress well",
+      "optimistic tone",
+      "rarely negative",
+      "relaxed tone",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm demeanor",
+      "handles stress well",
+      "optimistic tone",
+      "rarely negative",
+      "relaxed tone",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm demeanor",
+      "handles stress well",
+      "maintains composure",
+      "optimistic tone",
+      "rarely negative",
+      "relaxed tone",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very positive person and rarely feel depressed or blue. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm demeanor",
+      "calm tone",
+      "handles stress well",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "relaxed tone",
+      "stable responses"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "focuses on benefits",
+      "occasional tension",
+      "positive framing",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "focuses on benefits",
+      "handles stress well",
+      "occasional tension",
+      "positive framing",
+      "remains calm",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "focuses on benefits",
+      "maintains composure",
+      "occasional tension",
+      "positive framing",
+      "reserved expressions",
+      "sees opportunities",
+      "shows little emotion",
+      "upbeat tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "focuses on benefits",
+      "occasional tension",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stable responses",
+      "upbeat tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable person and rarely experience mood swings.": [
+      "assures frequently",
+      "consistent responses",
+      "even-tempered",
+      "highly assertive tone",
+      "occasional tension",
+      "overconfident responses",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "assures frequently",
+      "handles stress well",
+      "highly assertive tone",
+      "occasional tension",
+      "overconfident responses",
+      "remains calm",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "assures frequently",
+      "highly assertive tone",
+      "maintains composure",
+      "occasional tension",
+      "overconfident responses",
+      "reserved expressions",
+      "self-assured language",
+      "shows little emotion"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "occasional tension",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stable responses"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very happy person and rarely feel sad or down. I am a very stable person and rarely experience mood swings.": [
+      "cheerful tone",
+      "consistent responses",
+      "even-tempered",
+      "occasional tension",
+      "positive framing",
+      "rarely expresses negativity",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very happy person and rarely feel sad or down. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "cheerful tone",
+      "handles stress well",
+      "occasional tension",
+      "positive framing",
+      "rarely expresses negativity",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very happy person and rarely feel sad or down. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "cheerful tone",
+      "maintains composure",
+      "occasional tension",
+      "positive framing",
+      "rarely expresses negativity",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very happy person and rarely feel sad or down. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "cheerful tone",
+      "occasional tension",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stable responses"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very positive person and rarely feel depressed or blue. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "occasional tension",
+      "optimistic tone",
+      "rarely negative",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "occasional tension",
+      "optimistic tone",
+      "rarely negative",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "maintains composure",
+      "occasional tension",
+      "optimistic tone",
+      "rarely negative",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very positive person and rarely feel depressed or blue. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "occasional tension",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stable responses"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "focuses on benefits",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "focuses on benefits",
+      "handles stress well",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "remains calm",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "focuses on benefits",
+      "keeps worries contained",
+      "maintains composure",
+      "occasionally anxious",
+      "positive framing",
+      "reserved expressions",
+      "sees opportunities",
+      "shows little emotion",
+      "upbeat tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "focuses on benefits",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stable responses",
+      "upbeat tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable person and rarely experience mood swings.": [
+      "assures frequently",
+      "consistent responses",
+      "even-tempered",
+      "highly assertive tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "overconfident responses",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "assures frequently",
+      "handles stress well",
+      "highly assertive tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "overconfident responses",
+      "remains calm",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "assures frequently",
+      "highly assertive tone",
+      "keeps worries contained",
+      "maintains composure",
+      "occasionally anxious",
+      "overconfident responses",
+      "reserved expressions",
+      "self-assured language",
+      "shows little emotion"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stable responses"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very happy person and rarely feel sad or down. I am a very stable person and rarely experience mood swings.": [
+      "cheerful tone",
+      "consistent responses",
+      "even-tempered",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses negativity",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very happy person and rarely feel sad or down. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "cheerful tone",
+      "handles stress well",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses negativity",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very happy person and rarely feel sad or down. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "cheerful tone",
+      "keeps worries contained",
+      "maintains composure",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses negativity",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very happy person and rarely feel sad or down. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "cheerful tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stable responses"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very positive person and rarely feel depressed or blue. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "keeps worries contained",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely negative",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "keeps worries contained",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely negative",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "keeps worries contained",
+      "maintains composure",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely negative",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very positive person and rarely feel depressed or blue. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stable responses"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "focuses on benefits",
+      "keeps cool",
+      "positive framing",
+      "rarely panics",
+      "remains calm",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "focuses on benefits",
+      "handles stress well",
+      "keeps cool",
+      "positive framing",
+      "rarely panics",
+      "remains calm",
+      "sees opportunities",
+      "stable demeanor",
+      "upbeat tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "focuses on benefits",
+      "keeps cool",
+      "maintains composure",
+      "positive framing",
+      "rarely panics",
+      "remains calm",
+      "reserved expressions",
+      "sees opportunities",
+      "shows little emotion",
+      "upbeat tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "focuses on benefits",
+      "keeps cool",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely panics",
+      "remains calm",
+      "sees opportunities",
+      "stable responses",
+      "upbeat tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable person and rarely experience mood swings.": [
+      "assures frequently",
+      "consistent responses",
+      "even-tempered",
+      "highly assertive tone",
+      "keeps cool",
+      "overconfident responses",
+      "rarely panics",
+      "remains calm",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "assures frequently",
+      "handles stress well",
+      "highly assertive tone",
+      "keeps cool",
+      "overconfident responses",
+      "rarely panics",
+      "remains calm",
+      "self-assured language",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "assures frequently",
+      "highly assertive tone",
+      "keeps cool",
+      "maintains composure",
+      "overconfident responses",
+      "rarely panics",
+      "remains calm",
+      "reserved expressions",
+      "self-assured language",
+      "shows little emotion"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "keeps cool",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "rarely panics",
+      "remains calm",
+      "self-assured language",
+      "stable responses"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very happy person and rarely feel sad or down. I am a very stable person and rarely experience mood swings.": [
+      "cheerful tone",
+      "consistent responses",
+      "even-tempered",
+      "keeps cool",
+      "positive framing",
+      "rarely expresses negativity",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very happy person and rarely feel sad or down. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "cheerful tone",
+      "handles stress well",
+      "keeps cool",
+      "positive framing",
+      "rarely expresses negativity",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very happy person and rarely feel sad or down. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "cheerful tone",
+      "keeps cool",
+      "maintains composure",
+      "positive framing",
+      "rarely expresses negativity",
+      "rarely panics",
+      "remains calm",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very happy person and rarely feel sad or down. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "cheerful tone",
+      "keeps cool",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "rarely panics",
+      "remains calm",
+      "stable responses"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very positive person and rarely feel depressed or blue. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "keeps cool",
+      "optimistic tone",
+      "rarely negative",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "keeps cool",
+      "optimistic tone",
+      "rarely negative",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very positive person and rarely feel depressed or blue. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "keeps cool",
+      "maintains composure",
+      "optimistic tone",
+      "rarely negative",
+      "rarely panics",
+      "remains calm",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very positive person and rarely feel depressed or blue. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "keeps cool",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "rarely panics",
+      "remains calm",
+      "stable responses"
+    ]
+  }
+}

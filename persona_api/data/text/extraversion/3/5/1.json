@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      5,
+      1
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I have an extremely assertive personality and am always the one in control. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "asserts opinions",
+      "dominates conversations",
+      "flat tone",
+      "lacks excitement",
+      "limits input",
+      "takes charge",
+      "unenthusiastic"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "asserts opinions",
+      "dominates conversations",
+      "limits input",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I am a very low-energy person and often struggle to get motivated.": [
+      "asserts opinions",
+      "dominates conversations",
+      "lacks initiative",
+      "limits input",
+      "low energy",
+      "requires prodding",
+      "sluggish responses",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "asserts opinions",
+      "detached tone",
+      "dominates conversations",
+      "lacks excitement",
+      "limits input",
+      "takes charge",
+      "unenthusiastic responses"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "assertive tone",
+      "dominant interactions",
+      "flat tone",
+      "lacks excitement",
+      "leads discussions",
+      "takes charge",
+      "unenthusiastic"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "assertive tone",
+      "dominant interactions",
+      "leads discussions",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am a very low-energy person and often struggle to get motivated.": [
+      "assertive tone",
+      "dominant interactions",
+      "lacks initiative",
+      "leads discussions",
+      "low energy",
+      "requires prodding",
+      "sluggish responses",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "assertive tone",
+      "detached tone",
+      "dominant interactions",
+      "lacks excitement",
+      "leads discussions",
+      "takes charge",
+      "unenthusiastic responses"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "assertive tone",
+      "easily convinces others",
+      "flat tone",
+      "lacks excitement",
+      "strong opinions",
+      "unenthusiastic"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "assertive tone",
+      "easily convinces others",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am a very low-energy person and often struggle to get motivated.": [
+      "assertive tone",
+      "easily convinces others",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "assertive tone",
+      "detached tone",
+      "easily convinces others",
+      "lacks excitement",
+      "strong opinions",
+      "unenthusiastic responses"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "assertive leadership",
+      "dominant tone",
+      "flat tone",
+      "guides conversations",
+      "lacks excitement",
+      "unenthusiastic"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am a very low-energy person and often struggle to get motivated.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses"
+    ],
+    "I prefer to take charge and be the leader in most situations. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "assertive leadership",
+      "detached tone",
+      "dominant tone",
+      "guides conversations",
+      "lacks excitement",
+      "unenthusiastic responses"
+    ]
+  }
+}

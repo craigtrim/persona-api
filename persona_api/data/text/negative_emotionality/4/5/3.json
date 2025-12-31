@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      5,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "manages stress",
+      "negative framing",
+      "occasional anxiety",
+      "warns often"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "manages stress",
+      "occasional anxiety",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "manages stress",
+      "mournful tone",
+      "negative outlook",
+      "occasional anxiety"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "manages stress",
+      "occasional anxiety",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "expresses anxiety",
+      "negative framing",
+      "talks about stress",
+      "tense tone",
+      "warns often"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses anxiety",
+      "expresses doubt frequently",
+      "questions own abilities",
+      "talks about stress",
+      "tense tone",
+      "uncertain tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses anxiety",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses anxiety",
+      "expresses sadness",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone",
+      "uses negative language"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes negative feelings",
+      "emphasizes risks",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "negative framing",
+      "talks about stress",
+      "warns often"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very insecure person and often struggle with self-doubt.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses doubt frequently",
+      "mentions anxiety",
+      "questions own abilities",
+      "talks about stress",
+      "uncertain tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "mentions anxiety",
+      "mournful tone",
+      "negative outlook",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "mentions anxiety",
+      "shares personal struggles",
+      "talks about stress",
+      "uses negative language"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "mild anxiety",
+      "negative framing",
+      "occasionally anxious",
+      "warns often"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "mild anxiety",
+      "occasionally anxious",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mild anxiety",
+      "mournful tone",
+      "negative outlook",
+      "occasionally anxious"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "mild anxiety",
+      "occasionally anxious",
+      "shares personal struggles",
+      "uses negative language"
+    ]
+  }
+}

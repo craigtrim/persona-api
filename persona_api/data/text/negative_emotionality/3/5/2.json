@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      5,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "occasional shifts in tone",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "rarely expresses emotions",
+      "stoic responses",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "downplays positives",
+      "emphasizes risks",
+      "keeps emotions in check",
+      "negative framing",
+      "projects calmness",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "occasionally shows emotion",
+      "warns often"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses doubt frequently",
+      "occasional shifts in tone",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses doubt frequently",
+      "questions own abilities",
+      "rarely expresses emotions",
+      "stoic responses",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses doubt frequently",
+      "keeps emotions in check",
+      "projects calmness",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses doubt frequently",
+      "occasionally shows emotion",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "occasional shifts in tone"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses struggles",
+      "expresses sadness",
+      "keeps emotions in check",
+      "mournful tone",
+      "negative outlook",
+      "projects calmness"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "occasionally shows emotion"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "occasional shifts in tone",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses hopelessness",
+      "expresses sadness",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses hopelessness",
+      "expresses sadness",
+      "keeps emotions in check",
+      "projects calmness",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "occasionally shows emotion",
+      "shares personal struggles",
+      "uses negative language"
+    ]
+  }
+}

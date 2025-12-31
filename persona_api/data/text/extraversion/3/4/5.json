@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      4,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally an assertive person and feel comfortable taking charge. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "asserts opinions",
+      "dominant tone",
+      "eager tone",
+      "enthusiastic responses",
+      "leads discussions",
+      "quickly excited",
+      "takes initiative"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I am a very active person and have trouble sitting still.": [
+      "asserts opinions",
+      "dominant tone",
+      "high energy",
+      "keeps moving",
+      "leads discussions",
+      "restless",
+      "takes initiative"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "asserts opinions",
+      "difficult to sit still",
+      "dominant tone",
+      "highly energetic",
+      "keeps moving",
+      "leads discussions",
+      "restless",
+      "takes initiative"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "asserts opinions",
+      "dominant tone",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "leads discussions",
+      "takes initiative"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "assertive tone",
+      "dominant presence",
+      "eager tone",
+      "enthusiastic responses",
+      "leads discussions",
+      "makes decisions",
+      "quickly excited"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I am a very active person and have trouble sitting still.": [
+      "assertive tone",
+      "dominant presence",
+      "high energy",
+      "keeps moving",
+      "leads discussions",
+      "makes decisions",
+      "restless"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "assertive tone",
+      "difficult to sit still",
+      "dominant presence",
+      "highly energetic",
+      "keeps moving",
+      "leads discussions",
+      "makes decisions",
+      "restless"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "assertive tone",
+      "dominant presence",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "leads discussions",
+      "makes decisions"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "acknowledges others' views",
+      "eager tone",
+      "enthusiastic responses",
+      "influential",
+      "quickly excited",
+      "respects differing opinions"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I am a very active person and have trouble sitting still.": [
+      "acknowledges others' views",
+      "high energy",
+      "influential",
+      "keeps moving",
+      "respects differing opinions",
+      "restless"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "acknowledges others' views",
+      "difficult to sit still",
+      "highly energetic",
+      "influential",
+      "keeps moving",
+      "respects differing opinions",
+      "restless"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "acknowledges others' views",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "influential",
+      "respects differing opinions"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "allows delegation",
+      "can initiate",
+      "eager tone",
+      "enthusiastic responses",
+      "quickly excited"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I am a very active person and have trouble sitting still.": [
+      "allows delegation",
+      "can initiate",
+      "high energy",
+      "keeps moving",
+      "restless"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "allows delegation",
+      "can initiate",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "restless"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "allows delegation",
+      "can initiate",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy"
+    ]
+  }
+}

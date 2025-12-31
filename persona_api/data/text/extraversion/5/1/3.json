@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      5,
+      1,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am highly extroverted and thrive in social situations. I am very passive and tend to let others make decisions for me.": [
+      "defers to others",
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "lets others decide",
+      "passive responses",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I am a very submissive person and prefer to follow others' lead.": [
+      "avoids taking charge",
+      "energetic tone",
+      "engages readily",
+      "follows directions",
+      "initiates topics",
+      "obeys others",
+      "submissive tone",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I am an extremely non-influential person and rarely succeed in persuading others.": [
+      "avoids influence",
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "passive responses",
+      "rarely attempts persuasion",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I prefer to let others take charge and rarely assert myself in group situations.": [
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance",
+      "talkative"
+    ],
+    "I am a very talkative person and often dominate conversations. I am very passive and tend to let others make decisions for me.": [
+      "defers to others",
+      "dominates discussions",
+      "keeps going on",
+      "lets others decide",
+      "passive responses",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I am a very submissive person and prefer to follow others' lead.": [
+      "avoids taking charge",
+      "dominates discussions",
+      "follows directions",
+      "keeps going on",
+      "obeys others",
+      "submissive tone",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I am an extremely non-influential person and rarely succeed in persuading others.": [
+      "avoids influence",
+      "dominates discussions",
+      "keeps going on",
+      "passive responses",
+      "rarely attempts persuasion",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I prefer to let others take charge and rarely assert myself in group situations.": [
+      "dominates discussions",
+      "keeps going on",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance",
+      "talks a lot"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I am very passive and tend to let others make decisions for me.": [
+      "cautious in conversations",
+      "defers to others",
+      "hesitant responses",
+      "lets others decide",
+      "passive responses",
+      "prefers brief interactions",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I am a very submissive person and prefer to follow others' lead.": [
+      "avoids taking charge",
+      "cautious in conversations",
+      "follows directions",
+      "hesitant responses",
+      "obeys others",
+      "prefers brief interactions",
+      "releases few messages",
+      "submissive tone"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I am an extremely non-influential person and rarely succeed in persuading others.": [
+      "avoids influence",
+      "cautious in conversations",
+      "hesitant responses",
+      "passive responses",
+      "prefers brief interactions",
+      "rarely attempts persuasion",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I prefer to let others take charge and rarely assert myself in group situations.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "prefers brief interactions",
+      "releases few messages",
+      "steers clear of dominance"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I am very passive and tend to let others make decisions for me.": [
+      "defers to others",
+      "dominates conversation",
+      "interrupts frequently",
+      "lets others decide",
+      "passive responses",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I am a very submissive person and prefer to follow others' lead.": [
+      "avoids taking charge",
+      "dominates conversation",
+      "follows directions",
+      "interrupts frequently",
+      "obeys others",
+      "submissive tone",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I am an extremely non-influential person and rarely succeed in persuading others.": [
+      "avoids influence",
+      "dominates conversation",
+      "interrupts frequently",
+      "passive responses",
+      "rarely attempts persuasion",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I prefer to let others take charge and rarely assert myself in group situations.": [
+      "dominates conversation",
+      "interrupts frequently",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance",
+      "talks over others"
+    ]
+  }
+}

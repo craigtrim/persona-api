@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      2,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I always explore different ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "explores multiple options",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always explore different ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "explores multiple options",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "I always explore different ideas. I usually prefer conventional experiences.": [
+      "explores multiple options",
+      "prefers traditional methods"
+    ],
+    "I always explore different ideas. I prefer conventional ideas.": [
+      "averse to innovation",
+      "explores multiple options",
+      "sticks to the norm"
+    ],
+    "I always explore the philosophical issues for for any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "considers underlying principles",
+      "defers decision-making",
+      "delves into deep topics",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always explore the philosophical issues for for any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "I always explore the philosophical issues for for any question. I usually prefer conventional experiences.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "prefers traditional methods"
+    ],
+    "I always explore the philosophical issues for for any question. I prefer conventional ideas.": [
+      "averse to innovation",
+      "considers underlying principles",
+      "delves into deep topics",
+      "sticks to the norm"
+    ],
+    "I always consider deep philosophical implications any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "considers thoroughly",
+      "defers decision-making",
+      "explores philosophy",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I usually prefer conventional experiences.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "prefers traditional methods",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I prefer conventional ideas.": [
+      "averse to innovation",
+      "considers thoroughly",
+      "explores philosophy",
+      "sticks to the norm",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "focuses on theories",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always discuss abstract ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "focuses on theories",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "I always discuss abstract ideas. I usually prefer conventional experiences.": [
+      "focuses on theories",
+      "prefers traditional methods"
+    ],
+    "I always discuss abstract ideas. I prefer conventional ideas.": [
+      "averse to innovation",
+      "focuses on theories",
+      "sticks to the norm"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      3,
+      2,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "I usually prefer conventional experiences.": [
+      "prefers traditional methods"
+    ],
+    "I prefer conventional ideas.": [
+      "averse to innovation",
+      "sticks to the norm"
+    ]
+  }
+}

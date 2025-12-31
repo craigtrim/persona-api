@@ -1,0 +1,546 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      2,
+      2,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with traditional solutions.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "provides classic answers",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with simple and conventional solutions.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "provides basic answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "sticks to the obvious"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with concrete and well-established solutions.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "provides proven solutions",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "mixes creativity",
+      "predicable answers",
+      "refers to subjectivity",
+      "some originality",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with traditional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "provides classic answers",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with simple and conventional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "provides basic answers",
+      "sticks to the obvious",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with concrete and well-established solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "provides proven solutions",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "mixes creativity",
+      "passive listener",
+      "predicable answers",
+      "some originality",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I often answer questions with traditional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods",
+      "provides classic answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I often answer questions with simple and conventional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I often answer questions with concrete and well-established solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods",
+      "provides proven solutions"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "admits limitations",
+      "cautious about novelty",
+      "mixes creativity",
+      "predicable answers",
+      "prefers traditional methods",
+      "some originality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I often answer questions with traditional solutions.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "provides classic answers",
+      "sticks to the norm"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I often answer questions with simple and conventional solutions.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "provides basic answers",
+      "sticks to the norm",
+      "sticks to the obvious"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I often answer questions with concrete and well-established solutions.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "provides proven solutions",
+      "sticks to the norm"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "mixes creativity",
+      "predicable answers",
+      "some originality",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with traditional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic responses",
+      "provides classic answers",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with simple and conventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic answers",
+      "provides basic responses",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality",
+      "sticks to the obvious"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with concrete and well-established solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic responses",
+      "provides proven solutions",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "mixes creativity",
+      "predicable answers",
+      "provides basic responses",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "some originality",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with traditional solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with simple and conventional solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the obvious",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with concrete and well-established solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic responses",
+      "provides proven solutions",
+      "reflects bias in answers",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "lets others lead",
+      "mixes creativity",
+      "passive listener",
+      "predicable answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "some originality",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I often answer questions with traditional solutions.": [
+      "prefers traditional methods",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I often answer questions with simple and conventional solutions.": [
+      "prefers traditional methods",
+      "provides basic answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the obvious"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I often answer questions with concrete and well-established solutions.": [
+      "prefers traditional methods",
+      "provides basic responses",
+      "provides proven solutions",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "mixes creativity",
+      "predicable answers",
+      "prefers traditional methods",
+      "provides basic responses",
+      "reflects bias in answers",
+      "some originality"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I often answer questions with traditional solutions.": [
+      "averse to innovation",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I often answer questions with simple and conventional solutions.": [
+      "averse to innovation",
+      "provides basic answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the norm",
+      "sticks to the obvious"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I often answer questions with concrete and well-established solutions.": [
+      "averse to innovation",
+      "provides basic responses",
+      "provides proven solutions",
+      "reflects bias in answers",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to innovation",
+      "mixes creativity",
+      "predicable answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "some originality",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with traditional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides classic answers",
+      "provides concise responses",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with simple and conventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic answers",
+      "provides concise responses",
+      "refers to subjectivity",
+      "states neutrality",
+      "sticks to the obvious"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with concrete and well-established solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides concise responses",
+      "provides proven solutions",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "mixes creativity",
+      "predicable answers",
+      "provides concise responses",
+      "refers to subjectivity",
+      "some originality",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with traditional solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides classic answers",
+      "provides concise responses",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with simple and conventional solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic answers",
+      "provides concise responses",
+      "sticks to the obvious",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with concrete and well-established solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides concise responses",
+      "provides proven solutions",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "lets others lead",
+      "mixes creativity",
+      "passive listener",
+      "predicable answers",
+      "provides concise responses",
+      "some originality",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I often answer questions with traditional solutions.": [
+      "prefers traditional methods",
+      "provides classic answers",
+      "provides concise responses"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I often answer questions with simple and conventional solutions.": [
+      "prefers traditional methods",
+      "provides basic answers",
+      "provides concise responses",
+      "sticks to the obvious"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I often answer questions with concrete and well-established solutions.": [
+      "prefers traditional methods",
+      "provides concise responses",
+      "provides proven solutions"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "mixes creativity",
+      "predicable answers",
+      "prefers traditional methods",
+      "provides concise responses",
+      "some originality"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I often answer questions with traditional solutions.": [
+      "averse to innovation",
+      "provides classic answers",
+      "provides concise responses",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I often answer questions with simple and conventional solutions.": [
+      "averse to innovation",
+      "provides basic answers",
+      "provides concise responses",
+      "sticks to the norm",
+      "sticks to the obvious"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I often answer questions with concrete and well-established solutions.": [
+      "averse to innovation",
+      "provides concise responses",
+      "provides proven solutions",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to innovation",
+      "mixes creativity",
+      "predicable answers",
+      "provides concise responses",
+      "some originality",
+      "sticks to the norm"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with traditional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "provides classic answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with simple and conventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "provides basic answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "sticks to the obvious",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with concrete and well-established solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "provides proven solutions",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "mixes creativity",
+      "predicable answers",
+      "prefers specifics",
+      "refers to subjectivity",
+      "some originality",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with traditional solutions.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "provides classic answers",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with simple and conventional solutions.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "provides basic answers",
+      "sticks to the obvious",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with concrete and well-established solutions.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "provides proven solutions",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "lets others lead",
+      "limits metaphors",
+      "mixes creativity",
+      "passive listener",
+      "predicable answers",
+      "prefers specifics",
+      "some originality",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I often answer questions with traditional solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "provides classic answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I often answer questions with simple and conventional solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "provides basic answers",
+      "sticks to the obvious",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I often answer questions with concrete and well-established solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "provides proven solutions",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "limits metaphors",
+      "mixes creativity",
+      "predicable answers",
+      "prefers specifics",
+      "prefers traditional methods",
+      "some originality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I often answer questions with traditional solutions.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "provides classic answers",
+      "sticks to the norm",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I often answer questions with simple and conventional solutions.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "provides basic answers",
+      "sticks to the norm",
+      "sticks to the obvious",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I often answer questions with concrete and well-established solutions.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "provides proven solutions",
+      "sticks to the norm",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to innovation",
+      "limits metaphors",
+      "mixes creativity",
+      "predicable answers",
+      "prefers specifics",
+      "some originality",
+      "sticks to the norm",
+      "uses concrete examples"
+    ]
+  }
+}

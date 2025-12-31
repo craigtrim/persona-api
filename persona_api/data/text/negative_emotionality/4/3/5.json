@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      3,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "manages stress",
+      "mood changes rapidly",
+      "occasional anxiety",
+      "unpredictable tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "manages stress",
+      "occasional anxiety",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "manages stress",
+      "may become passionate",
+      "occasional anxiety",
+      "shares feelings openly"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "manages stress",
+      "occasional anxiety",
+      "quick tempers",
+      "reacts strongly"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "expresses anxiety",
+      "mood changes rapidly",
+      "talks about stress",
+      "tense tone",
+      "unpredictable tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "expresses anxiety",
+      "reacts suddenly",
+      "shows frustration",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses anxiety",
+      "expresses emotions",
+      "may become passionate",
+      "shares feelings openly",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "expresses anxiety",
+      "highly emotive responses",
+      "intense emotions",
+      "quick tempers",
+      "reacts strongly",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "mood changes rapidly",
+      "talks about stress",
+      "unpredictable tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "reacts suddenly",
+      "shows frustration",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses emotions",
+      "may become passionate",
+      "mentions anxiety",
+      "shares feelings openly",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "highly emotive responses",
+      "intense emotions",
+      "mentions anxiety",
+      "quick tempers",
+      "reacts strongly",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "mild anxiety",
+      "mood changes rapidly",
+      "occasionally anxious",
+      "unpredictable tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "mild anxiety",
+      "occasionally anxious",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "may become passionate",
+      "mild anxiety",
+      "occasionally anxious",
+      "shares feelings openly"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "mild anxiety",
+      "occasionally anxious",
+      "quick tempers",
+      "reacts strongly"
+    ]
+  }
+}

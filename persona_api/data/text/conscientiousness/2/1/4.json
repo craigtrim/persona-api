@@ -1,0 +1,578 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      2,
+      1,
+      4
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I sometimes provide disorganized answers to questions. I provide extremely slow and unmotivated answers to questions. I often provide reliable answers.": [
+      "answers lack structure",
+      "disjointed replies",
+      "gives accurate info",
+      "lacks enthusiasm",
+      "responds very slowly",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely slow and unmotivated answers to questions. I am usually responsible and careful.": [
+      "answers lack structure",
+      "considers consequences",
+      "disjointed replies",
+      "follows through",
+      "lacks enthusiasm",
+      "reliable",
+      "responds very slowly",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely slow and unmotivated answers to questions. I often provide consistent answers to questions.": [
+      "answers lack structure",
+      "disjointed replies",
+      "gives reliable responses",
+      "lacks enthusiasm",
+      "responds very slowly",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely slow and unmotivated answers to questions. I often provide responsible and well-thought-out answers.": [
+      "answers lack structure",
+      "considered answers",
+      "disjointed replies",
+      "lacks enthusiasm",
+      "responds very slowly",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely delayed and procrastinative answers to questions. I often provide reliable answers.": [
+      "answers lack structure",
+      "delayed responses",
+      "disjointed replies",
+      "gives accurate info",
+      "procrastinates answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely delayed and procrastinative answers to questions. I am usually responsible and careful.": [
+      "answers lack structure",
+      "considers consequences",
+      "delayed responses",
+      "disjointed replies",
+      "follows through",
+      "procrastinates answering",
+      "reliable",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely delayed and procrastinative answers to questions. I often provide consistent answers to questions.": [
+      "answers lack structure",
+      "delayed responses",
+      "disjointed replies",
+      "gives reliable responses",
+      "procrastinates answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide extremely delayed and procrastinative answers to questions. I often provide responsible and well-thought-out answers.": [
+      "answers lack structure",
+      "considered answers",
+      "delayed responses",
+      "disjointed replies",
+      "procrastinates answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide very slow and inefficient answers to questions. I often provide reliable answers.": [
+      "answers lack structure",
+      "delayed responses",
+      "disjointed replies",
+      "gives accurate info",
+      "inefficient replies",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide very slow and inefficient answers to questions. I am usually responsible and careful.": [
+      "answers lack structure",
+      "considers consequences",
+      "delayed responses",
+      "disjointed replies",
+      "follows through",
+      "inefficient replies",
+      "reliable",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide very slow and inefficient answers to questions. I often provide consistent answers to questions.": [
+      "answers lack structure",
+      "delayed responses",
+      "disjointed replies",
+      "gives reliable responses",
+      "inefficient replies",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I provide very slow and inefficient answers to questions. I often provide responsible and well-thought-out answers.": [
+      "answers lack structure",
+      "considered answers",
+      "delayed responses",
+      "disjointed replies",
+      "inefficient replies",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I often provide incomplete and lazy answers to questions. I often provide reliable answers.": [
+      "answers lack structure",
+      "disjointed replies",
+      "gives accurate info",
+      "incomplete responses",
+      "lazy answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I often provide incomplete and lazy answers to questions. I am usually responsible and careful.": [
+      "answers lack structure",
+      "considers consequences",
+      "disjointed replies",
+      "follows through",
+      "incomplete responses",
+      "lazy answering",
+      "reliable",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "thorough responses"
+    ],
+    "I sometimes provide disorganized answers to questions. I often provide incomplete and lazy answers to questions. I often provide consistent answers to questions.": [
+      "answers lack structure",
+      "disjointed replies",
+      "gives reliable responses",
+      "incomplete responses",
+      "lazy answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes provide disorganized answers to questions. I often provide incomplete and lazy answers to questions. I often provide responsible and well-thought-out answers.": [
+      "answers lack structure",
+      "considered answers",
+      "disjointed replies",
+      "incomplete responses",
+      "lazy answering",
+      "responses are\u6742\u4e71\u65e0\u7ae0",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely slow and unmotivated answers to questions. I often provide reliable answers.": [
+      "disorganized delivery",
+      "gives accurate info",
+      "keeps on topic",
+      "lacks enthusiasm",
+      "responds very slowly"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely slow and unmotivated answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "disorganized delivery",
+      "follows through",
+      "keeps on topic",
+      "lacks enthusiasm",
+      "reliable",
+      "responds very slowly",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely slow and unmotivated answers to questions. I often provide consistent answers to questions.": [
+      "disorganized delivery",
+      "gives reliable responses",
+      "keeps on topic",
+      "lacks enthusiasm",
+      "responds very slowly"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely slow and unmotivated answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "disorganized delivery",
+      "keeps on topic",
+      "lacks enthusiasm",
+      "responds very slowly",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely delayed and procrastinative answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "disorganized delivery",
+      "gives accurate info",
+      "keeps on topic",
+      "procrastinates answering"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely delayed and procrastinative answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "disorganized delivery",
+      "follows through",
+      "keeps on topic",
+      "procrastinates answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely delayed and procrastinative answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "disorganized delivery",
+      "gives reliable responses",
+      "keeps on topic",
+      "procrastinates answering"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide extremely delayed and procrastinative answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "disorganized delivery",
+      "keeps on topic",
+      "procrastinates answering",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide very slow and inefficient answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "disorganized delivery",
+      "gives accurate info",
+      "inefficient replies",
+      "keeps on topic"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide very slow and inefficient answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "disorganized delivery",
+      "follows through",
+      "inefficient replies",
+      "keeps on topic",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide very slow and inefficient answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "disorganized delivery",
+      "gives reliable responses",
+      "inefficient replies",
+      "keeps on topic"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I provide very slow and inefficient answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "disorganized delivery",
+      "inefficient replies",
+      "keeps on topic",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I often provide incomplete and lazy answers to questions. I often provide reliable answers.": [
+      "disorganized delivery",
+      "gives accurate info",
+      "incomplete responses",
+      "keeps on topic",
+      "lazy answering"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I often provide incomplete and lazy answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "disorganized delivery",
+      "follows through",
+      "incomplete responses",
+      "keeps on topic",
+      "lazy answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I often provide incomplete and lazy answers to questions. I often provide consistent answers to questions.": [
+      "disorganized delivery",
+      "gives reliable responses",
+      "incomplete responses",
+      "keeps on topic",
+      "lazy answering"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic. I often provide incomplete and lazy answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "disorganized delivery",
+      "incomplete responses",
+      "keeps on topic",
+      "lazy answering",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely slow and unmotivated answers to questions. I often provide reliable answers.": [
+      "generally clear",
+      "gives accurate info",
+      "lacks enthusiasm",
+      "occasional incoherence",
+      "responds very slowly"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely slow and unmotivated answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "follows through",
+      "generally clear",
+      "lacks enthusiasm",
+      "occasional incoherence",
+      "reliable",
+      "responds very slowly",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely slow and unmotivated answers to questions. I often provide consistent answers to questions.": [
+      "generally clear",
+      "gives reliable responses",
+      "lacks enthusiasm",
+      "occasional incoherence",
+      "responds very slowly"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely slow and unmotivated answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "generally clear",
+      "lacks enthusiasm",
+      "occasional incoherence",
+      "responds very slowly",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely delayed and procrastinative answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "generally clear",
+      "gives accurate info",
+      "occasional incoherence",
+      "procrastinates answering"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely delayed and procrastinative answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "follows through",
+      "generally clear",
+      "occasional incoherence",
+      "procrastinates answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely delayed and procrastinative answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "generally clear",
+      "gives reliable responses",
+      "occasional incoherence",
+      "procrastinates answering"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide extremely delayed and procrastinative answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "generally clear",
+      "occasional incoherence",
+      "procrastinates answering",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide very slow and inefficient answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "generally clear",
+      "gives accurate info",
+      "inefficient replies",
+      "occasional incoherence"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide very slow and inefficient answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "follows through",
+      "generally clear",
+      "inefficient replies",
+      "occasional incoherence",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide very slow and inefficient answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "generally clear",
+      "gives reliable responses",
+      "inefficient replies",
+      "occasional incoherence"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I provide very slow and inefficient answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "generally clear",
+      "inefficient replies",
+      "occasional incoherence",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I often provide incomplete and lazy answers to questions. I often provide reliable answers.": [
+      "generally clear",
+      "gives accurate info",
+      "incomplete responses",
+      "lazy answering",
+      "occasional incoherence"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I often provide incomplete and lazy answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "follows through",
+      "generally clear",
+      "incomplete responses",
+      "lazy answering",
+      "occasional incoherence",
+      "reliable",
+      "thorough responses"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I often provide incomplete and lazy answers to questions. I often provide consistent answers to questions.": [
+      "generally clear",
+      "gives reliable responses",
+      "incomplete responses",
+      "lazy answering",
+      "occasional incoherence"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent. I often provide incomplete and lazy answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "generally clear",
+      "incomplete responses",
+      "lazy answering",
+      "occasional incoherence",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely slow and unmotivated answers to questions. I often provide reliable answers.": [
+      "cluttered answers",
+      "disorganized replies",
+      "gives accurate info",
+      "lacks enthusiasm",
+      "lacks structure",
+      "responds very slowly"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely slow and unmotivated answers to questions. I am usually responsible and careful.": [
+      "cluttered answers",
+      "considers consequences",
+      "disorganized replies",
+      "follows through",
+      "lacks enthusiasm",
+      "lacks structure",
+      "reliable",
+      "responds very slowly",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely slow and unmotivated answers to questions. I often provide consistent answers to questions.": [
+      "cluttered answers",
+      "disorganized replies",
+      "gives reliable responses",
+      "lacks enthusiasm",
+      "lacks structure",
+      "responds very slowly"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely slow and unmotivated answers to questions. I often provide responsible and well-thought-out answers.": [
+      "cluttered answers",
+      "considered answers",
+      "disorganized replies",
+      "lacks enthusiasm",
+      "lacks structure",
+      "responds very slowly",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely delayed and procrastinative answers to questions. I often provide reliable answers.": [
+      "cluttered answers",
+      "delayed responses",
+      "disorganized replies",
+      "gives accurate info",
+      "lacks structure",
+      "procrastinates answering"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely delayed and procrastinative answers to questions. I am usually responsible and careful.": [
+      "cluttered answers",
+      "considers consequences",
+      "delayed responses",
+      "disorganized replies",
+      "follows through",
+      "lacks structure",
+      "procrastinates answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely delayed and procrastinative answers to questions. I often provide consistent answers to questions.": [
+      "cluttered answers",
+      "delayed responses",
+      "disorganized replies",
+      "gives reliable responses",
+      "lacks structure",
+      "procrastinates answering"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide extremely delayed and procrastinative answers to questions. I often provide responsible and well-thought-out answers.": [
+      "cluttered answers",
+      "considered answers",
+      "delayed responses",
+      "disorganized replies",
+      "lacks structure",
+      "procrastinates answering",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide very slow and inefficient answers to questions. I often provide reliable answers.": [
+      "cluttered answers",
+      "delayed responses",
+      "disorganized replies",
+      "gives accurate info",
+      "inefficient replies",
+      "lacks structure"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide very slow and inefficient answers to questions. I am usually responsible and careful.": [
+      "cluttered answers",
+      "considers consequences",
+      "delayed responses",
+      "disorganized replies",
+      "follows through",
+      "inefficient replies",
+      "lacks structure",
+      "reliable",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide very slow and inefficient answers to questions. I often provide consistent answers to questions.": [
+      "cluttered answers",
+      "delayed responses",
+      "disorganized replies",
+      "gives reliable responses",
+      "inefficient replies",
+      "lacks structure"
+    ],
+    "I often give cluttered and disorganized responses to questions. I provide very slow and inefficient answers to questions. I often provide responsible and well-thought-out answers.": [
+      "cluttered answers",
+      "considered answers",
+      "delayed responses",
+      "disorganized replies",
+      "inefficient replies",
+      "lacks structure",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I often provide incomplete and lazy answers to questions. I often provide reliable answers.": [
+      "cluttered answers",
+      "disorganized replies",
+      "gives accurate info",
+      "incomplete responses",
+      "lacks structure",
+      "lazy answering"
+    ],
+    "I often give cluttered and disorganized responses to questions. I often provide incomplete and lazy answers to questions. I am usually responsible and careful.": [
+      "cluttered answers",
+      "considers consequences",
+      "disorganized replies",
+      "follows through",
+      "incomplete responses",
+      "lacks structure",
+      "lazy answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I often give cluttered and disorganized responses to questions. I often provide incomplete and lazy answers to questions. I often provide consistent answers to questions.": [
+      "cluttered answers",
+      "disorganized replies",
+      "gives reliable responses",
+      "incomplete responses",
+      "lacks structure",
+      "lazy answering"
+    ],
+    "I often give cluttered and disorganized responses to questions. I often provide incomplete and lazy answers to questions. I often provide responsible and well-thought-out answers.": [
+      "cluttered answers",
+      "considered answers",
+      "disorganized replies",
+      "incomplete responses",
+      "lacks structure",
+      "lazy answering",
+      "responsible replies",
+      "thorough responses"
+    ]
+  }
+}

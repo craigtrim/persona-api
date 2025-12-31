@@ -1,7 +1,40 @@
 #!/usr/bin/env python3
-"""Generate static JSON data files from big5.owl for each BFI-2 facet."""
+"""Generate static Python data files from big5.owl for each BFI-2 facet.
 
+This script parses the big5.owl ontology file and generates Python modules
+containing static facet data. This is typically a one-time operation during
+initial project setup.
+
+Prerequisites:
+    The big5.owl file must be present in the project root directory.
+    This file contains the BFI-2 (Big Five Inventory-2) ontology with
+    60 survey items across 15 facets.
+
+Input:
+    big5.owl - OWL/Turtle ontology file
+
+Output:
+    persona_api/data/facets/{facet}.py (15 files)
+    persona_api/data/facets/__init__.py
+
+Output Structure:
+    Each facet file contains a DATA dict with:
+    - name: Facet name (e.g., "Organization")
+    - label: Display label
+    - description: Facet description from ontology
+    - survey_items: List of 4 survey items, each with:
+        - id: Survey item ID (e.g., "BFI_NO_03")
+        - prompt: LLM prompt template
+        - ratings: Dict mapping score (1-5) to rating text
+
+Usage:
+    poetry run python scripts/gen_facet_data.py
+    poetry run python scripts/gen_facet_data.py -y  # skip confirmation
+"""
+
+import argparse
 import json
+import sys
 from pathlib import Path
 
 from rdflib import Graph, Namespace, RDF, RDFS
@@ -115,7 +148,6 @@ DATA = {json_str}
 '''
 
     output_file.write_text(content)
-    print(f"  Generated {output_file.name}")
 
 
 def generate_init_file(output_dir: Path) -> None:
@@ -138,28 +170,132 @@ def generate_init_file(output_dir: Path) -> None:
 
     init_file = output_dir / "__init__.py"
     init_file.write_text(content)
-    print(f"  Generated __init__.py")
+
+
+def print_preface(owl_path: Path, output_dir: Path) -> None:
+    """Print preface explaining what the script will do."""
+    print("=" * 70)
+    print("GENERATE FACET DATA")
+    print("=" * 70)
+    print()
+    print("This script extracts BFI-2 facet data from the OWL ontology and")
+    print("generates static Python modules for runtime use.")
+    print()
+    print("-" * 70)
+    print("CONFIGURATION")
+    print("-" * 70)
+    print(f"  Input (OWL):  {owl_path}")
+    print(f"  Output dir:   {output_dir}")
+    print(f"  Facets:       {len(FACETS)}")
+    print()
+    print("-" * 70)
+    print("PREREQUISITES")
+    print("-" * 70)
+    print("  The big5.owl file must be present in the project root.")
+    print("  This is typically obtained from the BFI-2 ontology source.")
+    print()
+    print("-" * 70)
+    print("OUTPUT")
+    print("-" * 70)
+    print("  This will generate 15 Python files + __init__.py:")
+    for facet_key in sorted(FACETS.keys()):
+        print(f"    - {facet_key}.py")
+    print()
+
+
+def print_summary(output_dir: Path, triple_count: int) -> None:
+    """Print summary of what was done."""
+    print()
+    print("=" * 70)
+    print("SUMMARY")
+    print("=" * 70)
+    print()
+    print(f"  OWL triples parsed: {triple_count}")
+    print(f"  Facet files generated: {len(FACETS)}")
+    print(f"  Output directory: {output_dir}")
+    print()
+    print("-" * 70)
+    print("NEXT STEPS")
+    print("-" * 70)
+    print()
+    print("  The facet data is now available for import:")
+    print()
+    print("    from persona_api.data.facets import ORGANIZATION, SOCIABILITY")
+    print()
+    print("  These files are typically generated once during initial setup.")
+    print("  Regenerate only if big5.owl is updated.")
+    print()
+    print("=" * 70)
 
 
 def main():
+    parser = argparse.ArgumentParser(
+        description="Generate static Python data files from big5.owl for each BFI-2 facet.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  %(prog)s              Generate facet files with confirmation
+  %(prog)s -y           Generate without confirmation
+
+Note:
+  This is typically a one-time operation during initial project setup.
+  Regenerate only if the big5.owl ontology file is updated.
+        """,
+    )
+    parser.add_argument(
+        "-y", "--yes",
+        action="store_true",
+        help="Skip confirmation prompt",
+    )
+    args = parser.parse_args()
+
+    # Paths
     owl_path = Path(__file__).parent.parent / "big5.owl"
     output_dir = Path(__file__).parent.parent / "persona_api" / "data" / "facets"
 
+    # Check OWL file exists
+    if not owl_path.exists():
+        print("=" * 70)
+        print("ERROR: OWL file not found")
+        print("=" * 70)
+        print()
+        print(f"Expected: {owl_path}")
+        print()
+        print("The big5.owl file should be in the project root directory.")
+        print("This file contains the BFI-2 ontology with personality facet definitions.")
+        print()
+        print("=" * 70)
+        sys.exit(1)
+
+    # Print preface
+    print_preface(owl_path, output_dir)
+
+    # Confirmation
+    if not args.yes:
+        print("-" * 70)
+        input("Press ENTER to continue, or Ctrl+C to cancel... ")
+        print()
+
+    # Load OWL
     print(f"Loading {owl_path}...")
     g = Graph()
     g.parse(owl_path, format="turtle")
     print(f"  Loaded {len(g)} triples")
 
+    # Generate files
     output_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"\nGenerating facet files in {output_dir}...")
     for facet_key, facet_uri in FACETS.items():
         data = extract_facet_data(g, facet_uri)
         generate_facet_file(facet_key, data, output_dir)
+        print(f"  Generated {facet_key}.py")
 
     generate_init_file(output_dir)
+    print("  Generated __init__.py")
 
-    print("\nDone!")
+    # Print summary
+    print_summary(output_dir, len(g))
 
 
 if __name__ == "__main__":

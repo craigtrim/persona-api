@@ -1,0 +1,622 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      2,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "low anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely dwells on negatives",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "low anxiety",
+      "positive framing",
+      "rarely dwells on negatives",
+      "rarely expresses emotions",
+      "remains calm",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "keeps emotions in check",
+      "low anxiety",
+      "positive framing",
+      "projects calmness",
+      "rarely dwells on negatives",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "low anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely dwells on negatives",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very secure and confident person and rarely doubt myself. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assertive tone",
+      "confident responses",
+      "low anxiety",
+      "occasional shifts in tone",
+      "rarely questions info",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very secure and confident person and rarely doubt myself. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "low anxiety",
+      "rarely expresses emotions",
+      "rarely questions info",
+      "remains calm",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very secure and confident person and rarely doubt myself. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assertive tone",
+      "composed demeanor",
+      "confident responses",
+      "keeps emotions in check",
+      "low anxiety",
+      "projects calmness",
+      "rarely questions info",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very secure and confident person and rarely doubt myself. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "confident responses",
+      "low anxiety",
+      "occasionally shows emotion",
+      "rarely questions info",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel sad at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "low anxiety",
+      "occasional shifts in tone",
+      "occasionally expresses sadness",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel sad at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "low anxiety",
+      "occasionally expresses sadness",
+      "rarely expresses emotions",
+      "remains calm",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel sad at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "low anxiety",
+      "occasionally expresses sadness",
+      "projects calmness",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel sad at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "low anxiety",
+      "occasionally expresses sadness",
+      "occasionally shows emotion",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel down or blue at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "low anxiety",
+      "mildly pessimistic",
+      "occasional shifts in tone",
+      "occasionally negative tone",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel down or blue at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "low anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "rarely expresses emotions",
+      "remains calm",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel down or blue at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "low anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "projects calmness",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can feel down or blue at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "low anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "occasionally shows emotion",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "low stress",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely dwells on negatives",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "low stress",
+      "positive framing",
+      "rarely dwells on negatives",
+      "rarely expresses emotions",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm tone",
+      "composed demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "keeps emotions in check",
+      "low stress",
+      "positive framing",
+      "projects calmness",
+      "rarely dwells on negatives",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "low stress",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely dwells on negatives",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very secure and confident person and rarely doubt myself. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "low stress",
+      "occasional shifts in tone",
+      "rarely questions info",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very secure and confident person and rarely doubt myself. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "low stress",
+      "rarely expresses emotions",
+      "rarely questions info",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very secure and confident person and rarely doubt myself. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assertive tone",
+      "calm tone",
+      "composed demeanor",
+      "confident responses",
+      "keeps emotions in check",
+      "low stress",
+      "projects calmness",
+      "rarely questions info",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very secure and confident person and rarely doubt myself. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "low stress",
+      "occasionally shows emotion",
+      "rarely questions info",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel sad at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm tone",
+      "low stress",
+      "occasional shifts in tone",
+      "occasionally expresses sadness",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel sad at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "low stress",
+      "occasionally expresses sadness",
+      "rarely expresses emotions",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel sad at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm tone",
+      "composed demeanor",
+      "keeps emotions in check",
+      "low stress",
+      "occasionally expresses sadness",
+      "projects calmness",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel sad at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm tone",
+      "low stress",
+      "occasionally expresses sadness",
+      "occasionally shows emotion",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel down or blue at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm tone",
+      "low stress",
+      "mildly pessimistic",
+      "occasional shifts in tone",
+      "occasionally negative tone",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel down or blue at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "low stress",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "rarely expresses emotions",
+      "stoic responses",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel down or blue at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm tone",
+      "composed demeanor",
+      "keeps emotions in check",
+      "low stress",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "projects calmness",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can feel down or blue at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm tone",
+      "low stress",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "occasionally shows emotion",
+      "unflappable"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely anxious",
+      "rarely dwells on negatives",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm demeanor",
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "positive framing",
+      "rarely anxious",
+      "rarely dwells on negatives",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "stoic responses"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm demeanor",
+      "composed demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "keeps emotions in check",
+      "positive framing",
+      "projects calmness",
+      "rarely anxious",
+      "rarely dwells on negatives",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely anxious",
+      "rarely dwells on negatives",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very secure and confident person and rarely doubt myself. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assertive tone",
+      "calm demeanor",
+      "confident responses",
+      "occasional shifts in tone",
+      "rarely anxious",
+      "rarely questions info",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very secure and confident person and rarely doubt myself. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assertive tone",
+      "calm demeanor",
+      "calm tone",
+      "confident responses",
+      "rarely anxious",
+      "rarely expresses emotions",
+      "rarely questions info",
+      "relaxed tone",
+      "stoic responses"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very secure and confident person and rarely doubt myself. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assertive tone",
+      "calm demeanor",
+      "composed demeanor",
+      "confident responses",
+      "keeps emotions in check",
+      "projects calmness",
+      "rarely anxious",
+      "rarely questions info",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very secure and confident person and rarely doubt myself. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "calm demeanor",
+      "confident responses",
+      "occasionally shows emotion",
+      "rarely anxious",
+      "rarely questions info",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel sad at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm demeanor",
+      "occasional shifts in tone",
+      "occasionally expresses sadness",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel sad at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm demeanor",
+      "calm tone",
+      "occasionally expresses sadness",
+      "rarely anxious",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "stoic responses"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel sad at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm demeanor",
+      "composed demeanor",
+      "keeps emotions in check",
+      "occasionally expresses sadness",
+      "projects calmness",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel sad at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm demeanor",
+      "occasionally expresses sadness",
+      "occasionally shows emotion",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel down or blue at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "calm demeanor",
+      "mildly pessimistic",
+      "occasional shifts in tone",
+      "occasionally negative tone",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel down or blue at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm demeanor",
+      "calm tone",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "rarely anxious",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "stoic responses"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel down or blue at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "calm demeanor",
+      "composed demeanor",
+      "keeps emotions in check",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "projects calmness",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can feel down or blue at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "calm demeanor",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "occasionally shows emotion",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "displays bravado",
+      "encouraging tone",
+      "focuses on solutions",
+      "lacks caution",
+      "occasional shifts in tone",
+      "overly confident",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "displays bravado",
+      "encouraging tone",
+      "focuses on solutions",
+      "lacks caution",
+      "overly confident",
+      "positive framing",
+      "rarely dwells on negatives",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "displays bravado",
+      "encouraging tone",
+      "focuses on solutions",
+      "keeps emotions in check",
+      "lacks caution",
+      "overly confident",
+      "positive framing",
+      "projects calmness",
+      "rarely dwells on negatives"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "displays bravado",
+      "encouraging tone",
+      "focuses on solutions",
+      "lacks caution",
+      "occasionally shows emotion",
+      "overly confident",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very secure and confident person and rarely doubt myself. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assertive tone",
+      "confident responses",
+      "displays bravado",
+      "lacks caution",
+      "occasional shifts in tone",
+      "overly confident",
+      "rarely questions info"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very secure and confident person and rarely doubt myself. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "displays bravado",
+      "lacks caution",
+      "overly confident",
+      "rarely expresses emotions",
+      "rarely questions info",
+      "stoic responses"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very secure and confident person and rarely doubt myself. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assertive tone",
+      "composed demeanor",
+      "confident responses",
+      "displays bravado",
+      "keeps emotions in check",
+      "lacks caution",
+      "overly confident",
+      "projects calmness",
+      "rarely questions info"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very secure and confident person and rarely doubt myself. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "confident responses",
+      "displays bravado",
+      "lacks caution",
+      "occasionally shows emotion",
+      "overly confident",
+      "rarely questions info"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel sad at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "displays bravado",
+      "lacks caution",
+      "occasional shifts in tone",
+      "occasionally expresses sadness",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel sad at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "displays bravado",
+      "lacks caution",
+      "occasionally expresses sadness",
+      "overly confident",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel sad at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "displays bravado",
+      "keeps emotions in check",
+      "lacks caution",
+      "occasionally expresses sadness",
+      "overly confident",
+      "projects calmness"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel sad at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "displays bravado",
+      "lacks caution",
+      "occasionally expresses sadness",
+      "occasionally shows emotion",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel down or blue at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "displays bravado",
+      "lacks caution",
+      "mildly pessimistic",
+      "occasional shifts in tone",
+      "occasionally negative tone",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel down or blue at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "displays bravado",
+      "lacks caution",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "overly confident",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel down or blue at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "displays bravado",
+      "keeps emotions in check",
+      "lacks caution",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "overly confident",
+      "projects calmness"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can feel down or blue at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "displays bravado",
+      "lacks caution",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "occasionally shows emotion",
+      "overly confident"
+    ]
+  }
+}

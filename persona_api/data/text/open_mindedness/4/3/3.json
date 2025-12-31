@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      4,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I like to explore different ideas.": [
+      "discusses alternatives",
+      "explores options"
+    ],
+    "I often consider philosophical issues when asked a question.": [
+      "introduces unrelated ideas",
+      "reflects on deeper concepts"
+    ],
+    "I often consider the philosophical implications any question.": [
+      "introduces metaphysics",
+      "reflects deeply"
+    ],
+    "I always discuss abstract ideas when appropriate.": [
+      "explores abstract concepts"
+    ]
+  }
+}

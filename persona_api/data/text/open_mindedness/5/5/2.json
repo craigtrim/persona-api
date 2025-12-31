@@ -1,0 +1,514 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      5,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I always explore different ideas. I find beauty in unexpected opinions. I often answer questions with traditional solutions.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "provides classic answers"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I often answer questions with simple and conventional solutions.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I often answer questions with concrete and well-established solutions.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "provides proven solutions"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I often answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I often answer questions with simple and conventional solutions.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "provides basic answers",
+      "reflects subjectivity",
+      "sticks to the obvious"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I often answer questions with concrete and well-established solutions.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "provides proven solutions",
+      "reflects subjectivity"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "mixes creativity",
+      "predicable answers",
+      "reflects subjectivity",
+      "some originality"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I often answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "provides classic answers"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I often answer questions with simple and conventional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I often answer questions with concrete and well-established solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "provides proven solutions"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with traditional solutions.": [
+      "encourages originality",
+      "explores multiple options",
+      "prioritizes individuality",
+      "provides classic answers",
+      "respects uniqueness"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with simple and conventional solutions.": [
+      "encourages originality",
+      "explores multiple options",
+      "prioritizes individuality",
+      "provides basic answers",
+      "respects uniqueness",
+      "sticks to the obvious"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with concrete and well-established solutions.": [
+      "encourages originality",
+      "explores multiple options",
+      "prioritizes individuality",
+      "provides proven solutions",
+      "respects uniqueness"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "encourages originality",
+      "explores multiple options",
+      "mixes creativity",
+      "predicable answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "some originality"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I often answer questions with traditional solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "provides classic answers"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I often answer questions with simple and conventional solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I often answer questions with concrete and well-established solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "provides proven solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I often answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I often answer questions with simple and conventional solutions.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "provides basic answers",
+      "reflects subjectivity",
+      "sticks to the obvious"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I often answer questions with concrete and well-established solutions.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "provides proven solutions",
+      "reflects subjectivity"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "mixes creativity",
+      "predicable answers",
+      "reflects subjectivity",
+      "some originality"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I often answer questions with traditional solutions.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "provides classic answers"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I often answer questions with simple and conventional solutions.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I often answer questions with concrete and well-established solutions.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "provides proven solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I often answer questions with traditional solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "prioritizes individuality",
+      "provides classic answers",
+      "respects uniqueness"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I often answer questions with simple and conventional solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "prioritizes individuality",
+      "provides basic answers",
+      "respects uniqueness",
+      "sticks to the obvious"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I often answer questions with concrete and well-established solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "prioritizes individuality",
+      "provides proven solutions",
+      "respects uniqueness"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "mixes creativity",
+      "predicable answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "some originality"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I often answer questions with traditional solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "provides classic answers",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I often answer questions with simple and conventional solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "provides basic answers",
+      "sticks to the obvious",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I often answer questions with concrete and well-established solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "provides proven solutions",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "mixes creativity",
+      "predicable answers",
+      "some originality",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I often answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I often answer questions with simple and conventional solutions.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "provides basic answers",
+      "reflects subjectivity",
+      "sticks to the obvious",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I often answer questions with concrete and well-established solutions.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "provides proven solutions",
+      "reflects subjectivity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "mixes creativity",
+      "predicable answers",
+      "reflects subjectivity",
+      "some originality",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I often answer questions with traditional solutions.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "provides classic answers",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I often answer questions with simple and conventional solutions.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "provides basic answers",
+      "sticks to the obvious",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I often answer questions with concrete and well-established solutions.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "provides proven solutions",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "mixes creativity",
+      "predicable answers",
+      "some originality",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I often answer questions with traditional solutions.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "prioritizes individuality",
+      "provides classic answers",
+      "respects uniqueness",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I often answer questions with simple and conventional solutions.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "prioritizes individuality",
+      "provides basic answers",
+      "respects uniqueness",
+      "sticks to the obvious",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I often answer questions with concrete and well-established solutions.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "prioritizes individuality",
+      "provides proven solutions",
+      "respects uniqueness",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "mixes creativity",
+      "predicable answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "some originality",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I often answer questions with traditional solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "provides classic answers"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I often answer questions with simple and conventional solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I often answer questions with concrete and well-established solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "provides proven solutions"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I often answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I often answer questions with simple and conventional solutions.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "provides basic answers",
+      "reflects subjectivity",
+      "sticks to the obvious"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I often answer questions with concrete and well-established solutions.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "provides proven solutions",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "mixes creativity",
+      "predicable answers",
+      "reflects subjectivity",
+      "some originality"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I often answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "provides classic answers"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I often answer questions with simple and conventional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I often answer questions with concrete and well-established solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "provides proven solutions"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with traditional solutions.": [
+      "encourages originality",
+      "focuses on theories",
+      "prioritizes individuality",
+      "provides classic answers",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with simple and conventional solutions.": [
+      "encourages originality",
+      "focuses on theories",
+      "prioritizes individuality",
+      "provides basic answers",
+      "respects uniqueness",
+      "sticks to the obvious"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with concrete and well-established solutions.": [
+      "encourages originality",
+      "focuses on theories",
+      "prioritizes individuality",
+      "provides proven solutions",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "encourages originality",
+      "focuses on theories",
+      "mixes creativity",
+      "predicable answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "some originality"
+    ]
+  }
+}

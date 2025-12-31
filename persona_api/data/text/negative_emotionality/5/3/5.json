@@ -1,0 +1,170 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      3,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "easily agitated",
+      "emotional volatility",
+      "handles pressure poorly",
+      "mood changes rapidly",
+      "nervous tone",
+      "reacts quickly",
+      "unpredictable tone"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "easily agitated",
+      "emotional outbursts",
+      "handles pressure poorly",
+      "nervous tone",
+      "reacts quickly",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "easily agitated",
+      "expresses emotions",
+      "handles pressure poorly",
+      "may become passionate",
+      "nervous tone",
+      "reacts quickly",
+      "shares feelings openly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "highly emotive responses",
+      "intense emotions",
+      "nervous tone",
+      "quick tempers",
+      "reacts quickly",
+      "reacts strongly"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "easily agitated",
+      "emotional volatility",
+      "expresses worry",
+      "mood changes rapidly",
+      "nervous tone",
+      "pauses frequently",
+      "unpredictable tone"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "easily agitated",
+      "emotional outbursts",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "easily agitated",
+      "expresses emotions",
+      "expresses worry",
+      "may become passionate",
+      "nervous tone",
+      "pauses frequently",
+      "shares feelings openly"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "easily agitated",
+      "expresses worry",
+      "highly emotive responses",
+      "intense emotions",
+      "nervous tone",
+      "pauses frequently",
+      "quick tempers",
+      "reacts strongly"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "expresses anxiety",
+      "highly cautious",
+      "mood changes rapidly",
+      "repeats concerns",
+      "talks about fears",
+      "unpredictable tone"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "expresses anxiety",
+      "highly cautious",
+      "reacts suddenly",
+      "repeats concerns",
+      "shows frustration",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses anxiety",
+      "expresses emotions",
+      "highly cautious",
+      "may become passionate",
+      "repeats concerns",
+      "shares feelings openly",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "expresses anxiety",
+      "highly cautious",
+      "highly emotive responses",
+      "intense emotions",
+      "quick tempers",
+      "reacts strongly",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "mood changes rapidly",
+      "nervous tone",
+      "talks about panic attacks",
+      "unpredictable tone"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "reacts suddenly",
+      "shows frustration",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "expresses fear frequently",
+      "may become passionate",
+      "mentions anxiety often",
+      "nervous tone",
+      "shares feelings openly",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "expresses fear frequently",
+      "highly emotive responses",
+      "intense emotions",
+      "mentions anxiety often",
+      "nervous tone",
+      "quick tempers",
+      "reacts strongly",
+      "talks about panic attacks"
+    ]
+  }
+}

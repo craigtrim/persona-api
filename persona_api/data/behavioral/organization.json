@@ -1,0 +1,171 @@
+{
+  "facet": "organization",
+  "survey_items": [
+    {
+      "id": "BFI_NO_03",
+      "ratings": {
+        "1": {
+          "sentence": "I answer questions with disorganized and scattered responses.",
+          "instructions": [
+            "lacks coherence",
+            "jumping between topics",
+            "fragmented thoughts"
+          ]
+        },
+        "2": {
+          "sentence": "I sometimes provide disorganized answers to questions.",
+          "instructions": [
+            "answers lack structure",
+            "responses are\u6742\u4e71\u65e0\u7ae0",
+            "disjointed replies"
+          ]
+        },
+        "3": {
+          "sentence": "I maintain a balance between organized and disorganized responses.",
+          "instructions": [
+            "mixes structured with unstructured replies"
+          ]
+        },
+        "4": {
+          "sentence": "I can be organized but occasionally struggle with order in my answers.",
+          "instructions": [
+            "occasionally disorganized",
+            "struggles with structure"
+          ]
+        },
+        "5": {
+          "sentence": "I always answer questions with organized and structured responses.",
+          "instructions": [
+            "provides structured answers"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_18",
+      "ratings": {
+        "1": {
+          "sentence": "I provide disorganized and scattered answers to questions.",
+          "instructions": [
+            "lacks structure",
+            "jumping around",
+            "fragmented responses",
+            "disjointed answers"
+          ]
+        },
+        "2": {
+          "sentence": "I sometimes offer somewhat disorganized responses, but generally stay on topic.",
+          "instructions": [
+            "disorganized delivery",
+            "keeps on topic"
+          ]
+        },
+        "3": {
+          "sentence": "I maintain a balance between systematic and disorganized answers.",
+          "instructions": [
+            "mixes structured with unstructured responses"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to give systematic and orderly responses to questions.",
+          "instructions": [
+            "provides structured answers",
+            "organized replies"
+          ]
+        },
+        "5": {
+          "sentence": "I consistently provide structured and organized answers to questions.",
+          "instructions": [
+            "structured responses",
+            "organized answers"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_33",
+      "ratings": {
+        "1": {
+          "sentence": "I give messy and disorganized answers to questions.",
+          "instructions": [
+            "lacks structure",
+            "scatters information",
+            "disjointed responses"
+          ]
+        },
+        "2": {
+          "sentence": "I sometimes provide messy responses, but generally stay coherent.",
+          "instructions": [
+            "occasional incoherence",
+            "generally clear"
+          ]
+        },
+        "3": {
+          "sentence": "I maintain a balance between messy and neat answers.",
+          "instructions": [
+            "keeps answers organized",
+            "allows some disorder"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to offer neat and orderly responses to questions.",
+          "instructions": [
+            "organized replies",
+            "structured answers"
+          ]
+        },
+        "5": {
+          "sentence": "I consistently deliver clean and well-structured answers to questions.",
+          "instructions": [
+            "clear responses",
+            "organized answers",
+            "well-structured replies"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_48",
+      "ratings": {
+        "1": {
+          "sentence": "I provide extremely messy and disorganized answers to questions.",
+          "instructions": [
+            "disorganized responses",
+            "lack of structure",
+            "messy answers"
+          ]
+        },
+        "2": {
+          "sentence": "I often give cluttered and disorganized responses to questions.",
+          "instructions": [
+            "disorganized replies",
+            "cluttered answers",
+            "lacks structure"
+          ]
+        },
+        "3": {
+          "sentence": "I maintain a moderate level of tidiness in my answers.",
+          "instructions": [
+            "keeps answers organized"
+          ]
+        },
+        "4": {
+          "sentence": "I can be somewhat messy in my responses, but I usually keep them coherent and organized.",
+          "instructions": [
+            "messy at times",
+            "keeps coherent",
+            "organized structure"
+          ]
+        },
+        "5": {
+          "sentence": "I always deliver neat, tidy, and well-structured answers to questions.",
+          "instructions": [
+            "organized responses",
+            "neatly structured",
+            "well-ordered answers"
+          ]
+        }
+      }
+    }
+  ]
+}

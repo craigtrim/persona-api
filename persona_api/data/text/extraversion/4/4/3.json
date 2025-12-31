@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      4,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "dominant tone",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "leads discussions",
+      "takes initiative",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "dominant presence",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "leads discussions",
+      "makes decisions",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "engages easily",
+      "friendly tone",
+      "influential",
+      "initiates topics",
+      "respects differing opinions",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "chatty at times",
+      "dominant tone",
+      "leads discussions",
+      "lets others speak",
+      "takes initiative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "chatty at times",
+      "dominant presence",
+      "leads discussions",
+      "lets others speak",
+      "makes decisions"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "chatty at times",
+      "influential",
+      "lets others speak",
+      "respects differing opinions"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "chatty at times",
+      "lets others speak"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "dominant tone",
+      "few personal comments",
+      "leads discussions",
+      "prefers brief interactions",
+      "reserved tone",
+      "takes initiative",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "dominant presence",
+      "few personal comments",
+      "leads discussions",
+      "makes decisions",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "few personal comments",
+      "influential",
+      "prefers brief interactions",
+      "reserved tone",
+      "respects differing opinions",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "few personal comments",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "chatty",
+      "dominant tone",
+      "dominates conversation",
+      "leads discussions",
+      "opinionated",
+      "shares extensively",
+      "takes initiative"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "chatty",
+      "dominant presence",
+      "dominates conversation",
+      "leads discussions",
+      "makes decisions",
+      "opinionated",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "chatty",
+      "dominates conversation",
+      "influential",
+      "opinionated",
+      "respects differing opinions",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "chatty",
+      "dominates conversation",
+      "opinionated",
+      "shares extensively"
+    ]
+  }
+}

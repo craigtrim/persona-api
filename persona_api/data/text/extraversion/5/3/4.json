@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      5,
+      3,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am highly extroverted and thrive in social situations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "occasional enthusiasm",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "energetic tone",
+      "engages in quiet hobbies",
+      "engages readily",
+      "enjoys solitude",
+      "initiates topics",
+      "participates actively",
+      "prefers calm activities",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I tend to be full of energy and enjoy being active and productive.": [
+      "energetic tone",
+      "engages readily",
+      "highly energetic",
+      "initiates topics",
+      "keeps moving",
+      "proactive responses",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "energetic tone",
+      "engages readily",
+      "excessive detail",
+      "initiates topics",
+      "talkative",
+      "uses exclamation marks"
+    ],
+    "I am a very talkative person and often dominate conversations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "dominates discussions",
+      "eager tone sparingly",
+      "keeps going on",
+      "occasional enthusiasm",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "dominates discussions",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "keeps going on",
+      "participates actively",
+      "prefers calm activities",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I tend to be full of energy and enjoy being active and productive.": [
+      "dominates discussions",
+      "highly energetic",
+      "keeps going on",
+      "keeps moving",
+      "proactive responses",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "dominates discussions",
+      "eager tone",
+      "excessive detail",
+      "keeps going on",
+      "talks a lot",
+      "uses exclamation marks"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "cautious in conversations",
+      "eager tone sparingly",
+      "hesitant responses",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "cautious in conversations",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "hesitant responses",
+      "participates actively",
+      "prefers brief interactions",
+      "prefers calm activities",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I tend to be full of energy and enjoy being active and productive.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "highly energetic",
+      "keeps moving",
+      "prefers brief interactions",
+      "proactive responses",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "cautious in conversations",
+      "eager tone",
+      "excessive detail",
+      "hesitant responses",
+      "prefers brief interactions",
+      "releases few messages",
+      "uses exclamation marks"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "dominates conversation",
+      "eager tone sparingly",
+      "interrupts frequently",
+      "occasional enthusiasm",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "dominates conversation",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "interrupts frequently",
+      "participates actively",
+      "prefers calm activities",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I tend to be full of energy and enjoy being active and productive.": [
+      "dominates conversation",
+      "highly energetic",
+      "interrupts frequently",
+      "keeps moving",
+      "proactive responses",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "dominates conversation",
+      "eager tone",
+      "excessive detail",
+      "interrupts frequently",
+      "talks over others",
+      "uses exclamation marks"
+    ]
+  }
+}

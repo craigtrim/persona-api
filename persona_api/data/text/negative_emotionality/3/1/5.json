@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      1,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am an extremely optimistic person and always try to find the silver lining in any situation. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "focuses on benefits",
+      "mood changes rapidly",
+      "positive framing",
+      "sees opportunities",
+      "unpredictable tone",
+      "upbeat tone"
+    ],
+    "I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "focuses on benefits",
+      "positive framing",
+      "reacts suddenly",
+      "sees opportunities",
+      "shows frustration",
+      "upbeat tone"
+    ],
+    "I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "focuses on benefits",
+      "may become passionate",
+      "positive framing",
+      "sees opportunities",
+      "shares feelings openly",
+      "upbeat tone"
+    ],
+    "I am an extremely optimistic person and always try to find the silver lining in any situation. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "focuses on benefits",
+      "highly emotive responses",
+      "intense emotions",
+      "positive framing",
+      "quick tempers",
+      "reacts strongly",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I am an extremely self-assured person and always feel confident in myself and my abilities. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "assures frequently",
+      "emotional volatility",
+      "highly assertive tone",
+      "mood changes rapidly",
+      "overconfident responses",
+      "self-assured language",
+      "unpredictable tone"
+    ],
+    "I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "assures frequently",
+      "can become upset easily",
+      "emotional outbursts",
+      "highly assertive tone",
+      "overconfident responses",
+      "reacts suddenly",
+      "self-assured language",
+      "shows frustration"
+    ],
+    "I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "assures frequently",
+      "expresses emotions",
+      "highly assertive tone",
+      "may become passionate",
+      "overconfident responses",
+      "self-assured language",
+      "shares feelings openly"
+    ],
+    "I am an extremely self-assured person and always feel confident in myself and my abilities. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "assures frequently",
+      "highly assertive tone",
+      "highly emotive responses",
+      "intense emotions",
+      "overconfident responses",
+      "quick tempers",
+      "reacts strongly",
+      "self-assured language"
+    ],
+    "I am a very happy person and rarely feel sad or down. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "cheerful tone",
+      "emotional volatility",
+      "mood changes rapidly",
+      "positive framing",
+      "rarely expresses negativity",
+      "unpredictable tone"
+    ],
+    "I am a very happy person and rarely feel sad or down. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "cheerful tone",
+      "emotional outbursts",
+      "positive framing",
+      "rarely expresses negativity",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I am a very happy person and rarely feel sad or down. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "cheerful tone",
+      "expresses emotions",
+      "may become passionate",
+      "positive framing",
+      "rarely expresses negativity",
+      "shares feelings openly"
+    ],
+    "I am a very happy person and rarely feel sad or down. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "cheerful tone",
+      "highly emotive responses",
+      "intense emotions",
+      "positive framing",
+      "quick tempers",
+      "rarely expresses negativity",
+      "reacts strongly"
+    ],
+    "I am a very positive person and rarely feel depressed or blue. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "mood changes rapidly",
+      "optimistic tone",
+      "rarely negative",
+      "unpredictable tone"
+    ],
+    "I am a very positive person and rarely feel depressed or blue. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "optimistic tone",
+      "rarely negative",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I am a very positive person and rarely feel depressed or blue. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "may become passionate",
+      "optimistic tone",
+      "rarely negative",
+      "shares feelings openly"
+    ],
+    "I am a very positive person and rarely feel depressed or blue. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "optimistic tone",
+      "quick tempers",
+      "rarely negative",
+      "reacts strongly"
+    ]
+  }
+}

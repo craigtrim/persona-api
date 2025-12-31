@@ -1,0 +1,41 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      5,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "warns often"
+    ],
+    "I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "shares personal struggles",
+      "uses negative language"
+    ]
+  }
+}

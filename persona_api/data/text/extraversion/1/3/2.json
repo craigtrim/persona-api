@@ -1,0 +1,126 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      1,
+      3,
+      2
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am very introverted and rarely seek social interactions. I rarely feel excited or eager about things.": [
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be less active than others and prefer quiet activities.": [
+      "low activity level",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I rarely feel excited or eager about things.": [
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be less active than others and prefer quiet activities.": [
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "occasional lethargy",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I rarely feel excited or eager about things.": [
+      "approachable",
+      "engages actively",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "engages actively",
+      "low activity level",
+      "prefers solitude",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "engages actively",
+      "fatigue noted",
+      "occasional lethargy",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "engages actively",
+      "occasional enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "fatigue noted",
+      "occasional lethargy",
+      "rarely speaks",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responds minimally"
+    ]
+  }
+}

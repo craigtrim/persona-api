@@ -1,10 +1,65 @@
 import random
 from dataclasses import dataclass
+from itertools import product
 
 
 def _domain_score(f1: int, f2: int, f3: int) -> int:
     """Compute domain score as rounded average of facets."""
     return round((f1 + f2 + f3) / 3)
+
+
+def _rate_coherence(scores: tuple[int, int, int]) -> int:
+    """Rate coherence of a score combination.
+
+    Returns:
+        1 = coherent (all same direction or within +/-1)
+        2 = uncertain (moderate spread, +/-2)
+        3 = contradictory (outlier >=3 points from others)
+    """
+    s1, s2, s3 = scores
+
+    # All neutral
+    if s1 == s2 == s3 == 3:
+        return 1
+
+    # Calculate spread
+    min_s = min(scores)
+    max_s = max(scores)
+    spread = max_s - min_s
+
+    # All same or within +/-1
+    if spread <= 1:
+        return 1
+
+    # Moderate spread
+    if spread <= 2:
+        return 2
+
+    # Large spread (>=3) - check if one is an outlier
+    sorted_scores = sorted(scores)
+
+    if sorted_scores[1] - sorted_scores[0] <= 1 and sorted_scores[2] - sorted_scores[1] >= 3:
+        return 3
+    if sorted_scores[2] - sorted_scores[1] <= 1 and sorted_scores[1] - sorted_scores[0] >= 3:
+        return 3
+
+    if spread >= 3:
+        return 3
+
+    return 2
+
+
+def _precompute_coherence_sets() -> dict[int, list[tuple[int, int, int]]]:
+    """Precompute all score combinations grouped by coherence level."""
+    coherence_sets: dict[int, list[tuple[int, int, int]]] = {1: [], 2: [], 3: []}
+    for scores in product(range(1, 6), repeat=3):
+        coherence = _rate_coherence(scores)
+        coherence_sets[coherence].append(scores)
+    return coherence_sets
+
+
+# Precomputed at module load for efficiency
+COHERENCE_SETS = _precompute_coherence_sets()
 
 
 @dataclass
@@ -142,21 +197,66 @@ class RandomFacetGenerator:
             creative_imagination=self._random_facet(bias),
         )
 
-    def generate(self) -> PersonalityResult:
-        """Generate a complete personality profile with correlated traits."""
-        # Generate negative emotionality first (anchor trait for correlations)
-        n_facets = self._generate_negative_emotionality()
-        n_bias = self._n_bias(n_facets)
+    def _pick_coherent_scores(self, coherence: int) -> tuple[int, int, int]:
+        """Pick a random score combination from the given coherence level."""
+        return self._rng.choice(COHERENCE_SETS[coherence])
 
-        # Apply correlation biases: high N -> lower E, A, C
-        e_facets = self._generate_extraversion(bias=n_bias)
-        a_facets = self._generate_agreeableness(bias=n_bias)
-        c_facets = self._generate_conscientiousness(bias=n_bias)
+    def generate(self, coherence: int | None = None) -> PersonalityResult:
+        """Generate a complete personality profile.
 
-        # Open-mindedness has weak positive correlation with E
-        e_avg = (e_facets.sociability + e_facets.assertiveness + e_facets.energy_level) / 3
-        o_bias = 1 if e_avg >= 4 else 0
-        o_facets = self._generate_open_mindedness(bias=o_bias)
+        Args:
+            coherence: If specified (1, 2, or 3), constrains all domains to
+                      facet combinations of that coherence level.
+                      If None, uses correlated random generation.
+        """
+        if coherence is not None:
+            # Coherence-constrained generation: pick from precomputed sets
+            n_scores = self._pick_coherent_scores(coherence)
+            e_scores = self._pick_coherent_scores(coherence)
+            a_scores = self._pick_coherent_scores(coherence)
+            c_scores = self._pick_coherent_scores(coherence)
+            o_scores = self._pick_coherent_scores(coherence)
+
+            n_facets = NegativeEmotionalityFacets(
+                anxiety=n_scores[0],
+                depression=n_scores[1],
+                emotional_volatility=n_scores[2],
+            )
+            e_facets = ExtraversionFacets(
+                sociability=e_scores[0],
+                assertiveness=e_scores[1],
+                energy_level=e_scores[2],
+            )
+            a_facets = AgreeablenessFacets(
+                compassion=a_scores[0],
+                respectfulness=a_scores[1],
+                trust=a_scores[2],
+            )
+            c_facets = ConscientiousnessFacets(
+                organization=c_scores[0],
+                productiveness=c_scores[1],
+                responsibility=c_scores[2],
+            )
+            o_facets = OpenMindednessFacets(
+                intellectual_curiosity=o_scores[0],
+                aesthetic_sensitivity=o_scores[1],
+                creative_imagination=o_scores[2],
+            )
+        else:
+            # Original correlated random generation
+            # Generate negative emotionality first (anchor trait for correlations)
+            n_facets = self._generate_negative_emotionality()
+            n_bias = self._n_bias(n_facets)
+
+            # Apply correlation biases: high N -> lower E, A, C
+            e_facets = self._generate_extraversion(bias=n_bias)
+            a_facets = self._generate_agreeableness(bias=n_bias)
+            c_facets = self._generate_conscientiousness(bias=n_bias)
+
+            # Open-mindedness has weak positive correlation with E
+            e_avg = (e_facets.sociability + e_facets.assertiveness + e_facets.energy_level) / 3
+            o_bias = 1 if e_avg >= 4 else 0
+            o_facets = self._generate_open_mindedness(bias=o_bias)
 
         return PersonalityResult(
             extraversion=ExtraversionResult(

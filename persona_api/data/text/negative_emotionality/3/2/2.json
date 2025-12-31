@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      2,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "encouraging tone",
+      "focuses on solutions",
+      "positive framing",
+      "rarely dwells on negatives",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "encouraging tone",
+      "focuses on solutions",
+      "keeps emotions in check",
+      "positive framing",
+      "projects calmness",
+      "rarely dwells on negatives"
+    ],
+    "I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I am a very secure and confident person and rarely doubt myself. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assertive tone",
+      "confident responses",
+      "occasional shifts in tone",
+      "rarely questions info"
+    ],
+    "I am a very secure and confident person and rarely doubt myself. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assertive tone",
+      "calm tone",
+      "confident responses",
+      "rarely expresses emotions",
+      "rarely questions info",
+      "stoic responses"
+    ],
+    "I am a very secure and confident person and rarely doubt myself. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assertive tone",
+      "composed demeanor",
+      "confident responses",
+      "keeps emotions in check",
+      "projects calmness",
+      "rarely questions info"
+    ],
+    "I am a very secure and confident person and rarely doubt myself. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "confident responses",
+      "occasionally shows emotion",
+      "rarely questions info"
+    ],
+    "I can feel sad at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "occasional shifts in tone",
+      "occasionally expresses sadness"
+    ],
+    "I can feel sad at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "occasionally expresses sadness",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can feel sad at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "occasionally expresses sadness",
+      "projects calmness"
+    ],
+    "I can feel sad at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "occasionally expresses sadness",
+      "occasionally shows emotion"
+    ],
+    "I can feel down or blue at times, but it is not a major concern for me. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "mildly pessimistic",
+      "occasional shifts in tone",
+      "occasionally negative tone"
+    ],
+    "I can feel down or blue at times, but it is not a major concern for me. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can feel down or blue at times, but it is not a major concern for me. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "projects calmness"
+    ],
+    "I can feel down or blue at times, but it is not a major concern for me. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "occasionally shows emotion"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      3,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "occasional shifts in tone",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "rarely expresses emotions",
+      "reacts quickly",
+      "stoic responses"
+    ],
+    "I am a very anxious person and struggle to handle stress. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "easily agitated",
+      "handles pressure poorly",
+      "keeps emotions in check",
+      "nervous tone",
+      "projects calmness",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "occasionally shows emotion",
+      "reacts quickly"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "occasional shifts in tone",
+      "pauses frequently"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "easily agitated",
+      "expresses worry",
+      "keeps emotions in check",
+      "nervous tone",
+      "pauses frequently",
+      "projects calmness"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "occasionally shows emotion",
+      "pauses frequently"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses anxiety",
+      "highly cautious",
+      "occasional shifts in tone",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses anxiety",
+      "highly cautious",
+      "rarely expresses emotions",
+      "repeats concerns",
+      "stoic responses",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses anxiety",
+      "highly cautious",
+      "keeps emotions in check",
+      "projects calmness",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses anxiety",
+      "highly cautious",
+      "occasionally shows emotion",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "occasional shifts in tone",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "rarely expresses emotions",
+      "stoic responses",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses fear frequently",
+      "keeps emotions in check",
+      "mentions anxiety often",
+      "nervous tone",
+      "projects calmness",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "occasionally shows emotion",
+      "talks about panic attacks"
+    ]
+  }
+}

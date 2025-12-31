@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      2,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "can assert myself",
+      "flat tone",
+      "lacks excitement",
+      "reserves authority",
+      "unenthusiastic"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "can assert myself",
+      "needs encouragement",
+      "rarely initiates actions",
+      "reserves authority",
+      "responds minimally to prompts"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am a very low-energy person and often struggle to get motivated.": [
+      "can assert myself",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "reserves authority",
+      "sluggish responses"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "can assert myself",
+      "detached tone",
+      "lacks excitement",
+      "reserves authority",
+      "unenthusiastic responses"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "can lead",
+      "flat tone",
+      "follows instructions",
+      "lacks excitement",
+      "unenthusiastic"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "can lead",
+      "follows instructions",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am a very low-energy person and often struggle to get motivated.": [
+      "can lead",
+      "follows instructions",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses"
+    ],
+    "I can be a good follower, but I also have leadership potential. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "can lead",
+      "detached tone",
+      "follows instructions",
+      "lacks excitement",
+      "unenthusiastic responses"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "difficult persuading",
+      "flat tone",
+      "gentle tone",
+      "lacks excitement",
+      "soft-spoken",
+      "struggles to assert",
+      "unenthusiastic"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "difficult persuading",
+      "gentle tone",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am a very low-energy person and often struggle to get motivated.": [
+      "difficult persuading",
+      "gentle tone",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "difficult persuading",
+      "gentle tone",
+      "lacks excitement",
+      "soft-spoken",
+      "struggles to assert",
+      "unenthusiastic responses"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "flat tone",
+      "follows leadership",
+      "lacks excitement",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "unenthusiastic"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "follows leadership",
+      "needs encouragement",
+      "prefers collaborative roles",
+      "rarely initiates actions",
+      "relies on group dynamics",
+      "responds minimally to prompts"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am a very low-energy person and often struggle to get motivated.": [
+      "follows leadership",
+      "lacks initiative",
+      "low energy",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "requires prodding",
+      "sluggish responses"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "follows leadership",
+      "lacks excitement",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "unenthusiastic responses"
+    ]
+  }
+}

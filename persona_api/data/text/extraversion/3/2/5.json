@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      2,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "can assert myself",
+      "eager tone",
+      "enthusiastic responses",
+      "quickly excited",
+      "reserves authority"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am a very active person and have trouble sitting still.": [
+      "can assert myself",
+      "high energy",
+      "keeps moving",
+      "reserves authority",
+      "restless"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "can assert myself",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "reserves authority",
+      "restless"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "can assert myself",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "reserves authority"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "can lead",
+      "eager tone",
+      "enthusiastic responses",
+      "follows instructions",
+      "quickly excited"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am a very active person and have trouble sitting still.": [
+      "can lead",
+      "follows instructions",
+      "high energy",
+      "keeps moving",
+      "restless"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "can lead",
+      "difficult to sit still",
+      "follows instructions",
+      "highly energetic",
+      "keeps moving",
+      "restless"
+    ],
+    "I can be a good follower, but I also have leadership potential. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "can lead",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "follows instructions",
+      "high energy"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "difficult persuading",
+      "eager tone",
+      "enthusiastic responses",
+      "gentle tone",
+      "quickly excited",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am a very active person and have trouble sitting still.": [
+      "difficult persuading",
+      "gentle tone",
+      "high energy",
+      "keeps moving",
+      "restless",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult persuading",
+      "difficult to sit still",
+      "gentle tone",
+      "highly energetic",
+      "keeps moving",
+      "restless",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "difficult persuading",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "gentle tone",
+      "high energy",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "follows leadership",
+      "prefers collaborative roles",
+      "quickly excited",
+      "relies on group dynamics"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am a very active person and have trouble sitting still.": [
+      "follows leadership",
+      "high energy",
+      "keeps moving",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "restless"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "follows leadership",
+      "highly energetic",
+      "keeps moving",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "restless"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "follows leadership",
+      "high energy",
+      "prefers collaborative roles",
+      "relies on group dynamics"
+    ]
+  }
+}

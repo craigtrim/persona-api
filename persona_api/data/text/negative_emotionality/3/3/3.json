@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {}
+}

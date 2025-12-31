@@ -1,0 +1,144 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "low anxiety",
+      "remains calm",
+      "stable demeanor",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "low anxiety",
+      "remains calm",
+      "stable demeanor",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "low anxiety",
+      "maintains composure",
+      "remains calm",
+      "reserved expressions",
+      "shows little emotion",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "low anxiety",
+      "rarely expresses emotions",
+      "remains calm",
+      "stable responses",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very stable person and rarely experience mood swings.": [
+      "calm tone",
+      "consistent responses",
+      "even-tempered",
+      "low stress",
+      "stable demeanor",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm tone",
+      "handles stress well",
+      "low stress",
+      "remains calm",
+      "stable demeanor",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm tone",
+      "low stress",
+      "maintains composure",
+      "reserved expressions",
+      "shows little emotion",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "low stress",
+      "rarely expresses emotions",
+      "stable responses",
+      "unflappable"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very stable person and rarely experience mood swings.": [
+      "calm demeanor",
+      "consistent responses",
+      "even-tempered",
+      "rarely anxious",
+      "relaxed tone",
+      "stable demeanor"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm demeanor",
+      "handles stress well",
+      "rarely anxious",
+      "relaxed tone",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm demeanor",
+      "maintains composure",
+      "rarely anxious",
+      "relaxed tone",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm demeanor",
+      "calm tone",
+      "rarely anxious",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "stable responses"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "displays bravado",
+      "even-tempered",
+      "lacks caution",
+      "overly confident",
+      "stable demeanor"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "displays bravado",
+      "handles stress well",
+      "lacks caution",
+      "overly confident",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "displays bravado",
+      "lacks caution",
+      "maintains composure",
+      "overly confident",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "displays bravado",
+      "lacks caution",
+      "overly confident",
+      "rarely expresses emotions",
+      "stable responses"
+    ]
+  }
+}

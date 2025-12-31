@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      2,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "can assert myself",
+      "rarely uses enthusiasm",
+      "reserves authority"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "can assert myself",
+      "low activity level",
+      "prefers solitude",
+      "reserves authority"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can assert myself",
+      "fatigue noted",
+      "occasional lethargy",
+      "reserves authority",
+      "varies energy levels"
+    ],
+    "I can be assertive at times, but I don't always feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can assert myself",
+      "occasional enthusiasm",
+      "reserves authority"
+    ],
+    "I can be a good follower, but I also have leadership potential. I rarely feel excited or eager about things.": [
+      "can lead",
+      "follows instructions",
+      "rarely uses enthusiasm"
+    ],
+    "I can be a good follower, but I also have leadership potential. I tend to be less active than others and prefer quiet activities.": [
+      "can lead",
+      "follows instructions",
+      "low activity level",
+      "prefers solitude"
+    ],
+    "I can be a good follower, but I also have leadership potential. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can lead",
+      "fatigue noted",
+      "follows instructions",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I can be a good follower, but I also have leadership potential. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can lead",
+      "follows instructions",
+      "occasional enthusiasm"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I rarely feel excited or eager about things.": [
+      "difficult persuading",
+      "gentle tone",
+      "rarely uses enthusiasm",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I tend to be less active than others and prefer quiet activities.": [
+      "difficult persuading",
+      "gentle tone",
+      "low activity level",
+      "prefers solitude",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "difficult persuading",
+      "fatigue noted",
+      "gentle tone",
+      "occasional lethargy",
+      "soft-spoken",
+      "struggles to assert",
+      "varies energy levels"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "difficult persuading",
+      "gentle tone",
+      "occasional enthusiasm",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I rarely feel excited or eager about things.": [
+      "follows leadership",
+      "prefers collaborative roles",
+      "rarely uses enthusiasm",
+      "relies on group dynamics"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be less active than others and prefer quiet activities.": [
+      "follows leadership",
+      "low activity level",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "follows leadership",
+      "occasional lethargy",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "varies energy levels"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "follows leadership",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "relies on group dynamics"
+    ]
+  }
+}

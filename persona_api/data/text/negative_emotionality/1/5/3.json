@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      5,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "low anxiety",
+      "negative framing",
+      "remains calm",
+      "unflappable",
+      "warns often"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "low anxiety",
+      "questions own abilities",
+      "remains calm",
+      "uncertain tone",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "low anxiety",
+      "mournful tone",
+      "negative outlook",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "low anxiety",
+      "remains calm",
+      "shares personal struggles",
+      "unflappable",
+      "uses negative language"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "calm tone",
+      "downplays positives",
+      "emphasizes risks",
+      "low stress",
+      "negative framing",
+      "unflappable",
+      "warns often"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very insecure person and often struggle with self-doubt.": [
+      "calm tone",
+      "expresses doubt frequently",
+      "low stress",
+      "questions own abilities",
+      "uncertain tone",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "calm tone",
+      "discusses struggles",
+      "expresses sadness",
+      "low stress",
+      "mournful tone",
+      "negative outlook",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "calm tone",
+      "discusses hopelessness",
+      "expresses sadness",
+      "low stress",
+      "shares personal struggles",
+      "unflappable",
+      "uses negative language"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "calm demeanor",
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "rarely anxious",
+      "relaxed tone",
+      "warns often"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very insecure person and often struggle with self-doubt.": [
+      "calm demeanor",
+      "expresses doubt frequently",
+      "questions own abilities",
+      "rarely anxious",
+      "relaxed tone",
+      "uncertain tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "calm demeanor",
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "calm demeanor",
+      "discusses hopelessness",
+      "expresses sadness",
+      "rarely anxious",
+      "relaxed tone",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "displays bravado",
+      "downplays positives",
+      "emphasizes risks",
+      "lacks caution",
+      "negative framing",
+      "overly confident",
+      "warns often"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very insecure person and often struggle with self-doubt.": [
+      "displays bravado",
+      "expresses doubt frequently",
+      "lacks caution",
+      "overly confident",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "displays bravado",
+      "expresses sadness",
+      "lacks caution",
+      "mournful tone",
+      "negative outlook",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "displays bravado",
+      "expresses sadness",
+      "lacks caution",
+      "overly confident",
+      "shares personal struggles",
+      "uses negative language"
+    ]
+  }
+}

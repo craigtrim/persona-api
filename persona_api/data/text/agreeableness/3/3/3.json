@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "domain": "agreeableness",
+    "facets": [
+      "Compassion",
+      "Respectfulness",
+      "Trust"
+    ],
+    "scores": [
+      3,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {}
+}

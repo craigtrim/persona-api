@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      5,
+      3,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am highly extroverted and thrive in social situations.": [
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "talkative"
+    ],
+    "I am a very talkative person and often dominate conversations.": [
+      "dominates discussions",
+      "keeps going on",
+      "talks a lot"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "prefers brief interactions",
+      "releases few messages"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise.": [
+      "dominates conversation",
+      "interrupts frequently",
+      "talks over others"
+    ]
+  }
+}

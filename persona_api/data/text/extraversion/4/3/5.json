@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      3,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "engages easily",
+      "enthusiastic responses",
+      "friendly tone",
+      "initiates topics",
+      "quickly excited",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I am a very active person and have trouble sitting still.": [
+      "engages easily",
+      "friendly tone",
+      "high energy",
+      "initiates topics",
+      "keeps moving",
+      "restless",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "engages easily",
+      "friendly tone",
+      "highly energetic",
+      "initiates topics",
+      "keeps moving",
+      "restless",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "engages easily",
+      "enthusiastic",
+      "excessive exclamation",
+      "friendly tone",
+      "high energy",
+      "initiates topics",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "chatty at times",
+      "eager tone",
+      "enthusiastic responses",
+      "lets others speak",
+      "quickly excited"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I am a very active person and have trouble sitting still.": [
+      "chatty at times",
+      "high energy",
+      "keeps moving",
+      "lets others speak",
+      "restless"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "chatty at times",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "lets others speak",
+      "restless"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "chatty at times",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "lets others speak"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "few personal comments",
+      "prefers brief interactions",
+      "quickly excited",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I am a very active person and have trouble sitting still.": [
+      "few personal comments",
+      "high energy",
+      "keeps moving",
+      "prefers brief interactions",
+      "reserved tone",
+      "restless",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "few personal comments",
+      "highly energetic",
+      "keeps moving",
+      "prefers brief interactions",
+      "reserved tone",
+      "restless",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "few personal comments",
+      "high energy",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "chatty",
+      "dominates conversation",
+      "eager tone",
+      "enthusiastic responses",
+      "opinionated",
+      "quickly excited",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I am a very active person and have trouble sitting still.": [
+      "chatty",
+      "dominates conversation",
+      "high energy",
+      "keeps moving",
+      "opinionated",
+      "restless",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "chatty",
+      "difficult to sit still",
+      "dominates conversation",
+      "highly energetic",
+      "keeps moving",
+      "opinionated",
+      "restless",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "chatty",
+      "dominates conversation",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "opinionated",
+      "shares extensively"
+    ]
+  }
+}

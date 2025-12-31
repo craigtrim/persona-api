@@ -505,7 +505,7 @@ ns:Acceptance-Disregard rdf:type owl:NamedIndividual ,
                                  ns:Prompt ;
                         ns:uses ns:Acceptance ,
                                 ns:Disregard ;
-                        rdfs:comment """I want to quantify the level of acceptance or disregard in the following text: 
+                        rdfs:comment """I want to quantify the level of acceptance or disregard in the following text:
 ```
 $INPUT_TEXT
 ```
@@ -9980,7 +9980,7 @@ ns:Pleasure-Revulsion rdf:type owl:NamedIndividual ,
                                ns:Prompt ;
                       ns:uses ns:Pleasure ,
                               ns:Revulsion ;
-                      rdfs:comment """I want to quantify the level of pleasure or revulsion in the following text: 
+                      rdfs:comment """I want to quantify the level of pleasure or revulsion in the following text:
 ```
 $INPUT_TEXT
 ```

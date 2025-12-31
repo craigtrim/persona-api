@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      3,
+      1
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "manages stress",
+      "occasional anxiety",
+      "stable demeanor"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "manages stress",
+      "occasional anxiety",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "maintains composure",
+      "manages stress",
+      "occasional anxiety",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "manages stress",
+      "occasional anxiety",
+      "rarely expresses emotions",
+      "stable responses"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "expresses anxiety",
+      "stable demeanor",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "expresses anxiety",
+      "handles stress well",
+      "remains calm",
+      "stable demeanor",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "expresses anxiety",
+      "maintains composure",
+      "reserved expressions",
+      "shows little emotion",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "expresses anxiety",
+      "rarely expresses emotions",
+      "stable responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "emphasizes negative feelings",
+      "even-tempered",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "stable demeanor",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "handles stress well",
+      "mentions anxiety",
+      "remains calm",
+      "stable demeanor",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "maintains composure",
+      "mentions anxiety",
+      "reserved expressions",
+      "shows little emotion",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "rarely expresses emotions",
+      "stable responses",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "mild anxiety",
+      "occasionally anxious",
+      "stable demeanor"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "mild anxiety",
+      "occasionally anxious",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "maintains composure",
+      "mild anxiety",
+      "occasionally anxious",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "rarely expresses emotions",
+      "stable responses"
+    ]
+  }
+}

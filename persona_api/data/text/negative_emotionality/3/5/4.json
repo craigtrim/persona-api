@@ -1,0 +1,158 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      5,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "downplays positives",
+      "emotional fluctuations",
+      "emphasizes risks",
+      "moodiness",
+      "negative framing",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "occasional emotional outbursts",
+      "tries to stay composed",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "downplays positives",
+      "emphasizes risks",
+      "manages emotions",
+      "mood fluctuations",
+      "negative framing",
+      "occasional outbursts",
+      "warns often"
+    ],
+    "I am a very pessimistic person and have trouble seeing the bright side of things. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "downplays positives",
+      "emotes easily",
+      "emphasizes risks",
+      "loses patience quickly",
+      "negative framing",
+      "reacts emotionally",
+      "shows frustration",
+      "warns often"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "expresses doubt frequently",
+      "moodiness",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "expresses doubt frequently",
+      "occasional emotional outbursts",
+      "questions own abilities",
+      "tries to stay composed",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "expresses doubt frequently",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am a very insecure person and often struggle with self-doubt. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "expresses doubt frequently",
+      "loses patience quickly",
+      "questions own abilities",
+      "reacts emotionally",
+      "shows frustration",
+      "uncertain tone"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "discusses struggles",
+      "emotional fluctuations",
+      "expresses sadness",
+      "moodiness",
+      "mournful tone",
+      "negative outlook"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "occasional emotional outbursts",
+      "tries to stay composed"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "discusses struggles",
+      "expresses sadness",
+      "manages emotions",
+      "mood fluctuations",
+      "mournful tone",
+      "negative outlook",
+      "occasional outbursts"
+    ],
+    "I am an extremely sad person and frequently struggle with feelings of hopelessness or despair. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "discusses struggles",
+      "emotes easily",
+      "expresses sadness",
+      "loses patience quickly",
+      "mournful tone",
+      "negative outlook",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "discusses hopelessness",
+      "emotional fluctuations",
+      "expresses sadness",
+      "moodiness",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "occasional emotional outbursts",
+      "shares personal struggles",
+      "tries to stay composed",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "discusses hopelessness",
+      "emotes easily",
+      "expresses sadness",
+      "loses patience quickly",
+      "reacts emotionally",
+      "shares personal struggles",
+      "shows frustration",
+      "uses negative language"
+    ]
+  }
+}

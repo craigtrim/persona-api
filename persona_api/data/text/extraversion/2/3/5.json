@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      3,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "limits social interactions",
+      "prefers solitude",
+      "quickly excited",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am a very active person and have trouble sitting still.": [
+      "high energy",
+      "keeps moving",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "restless"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "restless"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "prefers listening",
+      "quickly excited",
+      "rarely speaks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am a very active person and have trouble sitting still.": [
+      "high energy",
+      "keeps moving",
+      "prefers listening",
+      "rarely speaks",
+      "restless"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "prefers listening",
+      "rarely speaks",
+      "restless"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "occasionally quiet",
+      "quickly excited",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am a very active person and have trouble sitting still.": [
+      "high energy",
+      "keeps moving",
+      "occasionally quiet",
+      "restless",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "occasionally quiet",
+      "restless",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "occasionally quiet",
+      "socially confident"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "chatty periods",
+      "eager tone",
+      "enthusiastic responses",
+      "quickly excited",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am a very active person and have trouble sitting still.": [
+      "chatty periods",
+      "high energy",
+      "keeps moving",
+      "restless",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "chatty periods",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "restless",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "chatty periods",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "tolerates quiet",
+      "values solitude"
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "flat tone",
+      "lacks excitement",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "unenthusiastic"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "limits social interactions",
+      "needs encouragement",
+      "prefers solitude",
+      "rarely initiates actions",
+      "reserved demeanor",
+      "responds minimally to prompts"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am a very low-energy person and often struggle to get motivated.": [
+      "lacks initiative",
+      "limits social interactions",
+      "low energy",
+      "prefers solitude",
+      "requires prodding",
+      "reserved demeanor",
+      "sluggish responses"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "lacks excitement",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "unenthusiastic responses"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "flat tone",
+      "lacks excitement",
+      "prefers listening",
+      "rarely speaks",
+      "unenthusiastic"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "needs encouragement",
+      "prefers listening",
+      "rarely initiates actions",
+      "rarely speaks",
+      "responds minimally to prompts"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am a very low-energy person and often struggle to get motivated.": [
+      "lacks initiative",
+      "low energy",
+      "prefers listening",
+      "rarely speaks",
+      "requires prodding",
+      "sluggish responses"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "lacks excitement",
+      "prefers listening",
+      "rarely speaks",
+      "unenthusiastic responses"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "flat tone",
+      "lacks excitement",
+      "occasionally quiet",
+      "socially confident",
+      "unenthusiastic"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "needs encouragement",
+      "occasionally quiet",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am a very low-energy person and often struggle to get motivated.": [
+      "lacks initiative",
+      "low energy",
+      "occasionally quiet",
+      "requires prodding",
+      "sluggish responses",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "lacks excitement",
+      "occasionally quiet",
+      "socially confident",
+      "unenthusiastic responses"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "chatty periods",
+      "flat tone",
+      "lacks excitement",
+      "tolerates quiet",
+      "unenthusiastic",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "chatty periods",
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am a very low-energy person and often struggle to get motivated.": [
+      "chatty periods",
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "chatty periods",
+      "detached tone",
+      "lacks excitement",
+      "tolerates quiet",
+      "unenthusiastic responses",
+      "values solitude"
+    ]
+  }
+}

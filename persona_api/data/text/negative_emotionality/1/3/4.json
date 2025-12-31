@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      3,
+      4
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "low anxiety",
+      "moodiness",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "low anxiety",
+      "occasional emotional outbursts",
+      "remains calm",
+      "tries to stay composed",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "low anxiety",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "low anxiety",
+      "reacts emotionally",
+      "remains calm",
+      "shows frustration",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be moody and experience frequent mood swings.": [
+      "calm tone",
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "low stress",
+      "moodiness",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "calm tone",
+      "low stress",
+      "occasional emotional outbursts",
+      "tries to stay composed",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "calm tone",
+      "low stress",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "calm tone",
+      "emotes easily",
+      "loses patience quickly",
+      "low stress",
+      "reacts emotionally",
+      "shows frustration",
+      "unflappable"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be moody and experience frequent mood swings.": [
+      "calm demeanor",
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "moodiness",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "calm demeanor",
+      "occasional emotional outbursts",
+      "rarely anxious",
+      "relaxed tone",
+      "tries to stay composed"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "calm demeanor",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "calm demeanor",
+      "emotes easily",
+      "loses patience quickly",
+      "rarely anxious",
+      "reacts emotionally",
+      "relaxed tone",
+      "shows frustration"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "displays bravado",
+      "emotional fluctuations",
+      "lacks caution",
+      "moodiness",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "displays bravado",
+      "lacks caution",
+      "occasional emotional outbursts",
+      "overly confident",
+      "tries to stay composed"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "displays bravado",
+      "lacks caution",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "displays bravado",
+      "emotes easily",
+      "lacks caution",
+      "loses patience quickly",
+      "overly confident",
+      "reacts emotionally",
+      "shows frustration"
+    ]
+  }
+}

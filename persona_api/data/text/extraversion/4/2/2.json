@@ -1,0 +1,658 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      2,
+      2
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I can be assertive at times, but I don't always feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "can assert myself",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "rarely uses enthusiasm",
+      "reserves authority",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "can assert myself",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "low activity level",
+      "prefers solitude",
+      "reserves authority",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be assertive at times, but I don't always feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can assert myself",
+      "engages easily",
+      "fatigue noted",
+      "friendly tone",
+      "initiates topics",
+      "occasional lethargy",
+      "reserves authority",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be assertive at times, but I don't always feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can assert myself",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "reserves authority",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a good follower, but I also have leadership potential. I rarely feel excited or eager about things.": [
+      "can lead",
+      "engages easily",
+      "follows instructions",
+      "friendly tone",
+      "initiates topics",
+      "rarely uses enthusiasm",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a good follower, but I also have leadership potential. I tend to be less active than others and prefer quiet activities.": [
+      "can lead",
+      "engages easily",
+      "follows instructions",
+      "friendly tone",
+      "initiates topics",
+      "low activity level",
+      "prefers solitude",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a good follower, but I also have leadership potential. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can lead",
+      "engages easily",
+      "fatigue noted",
+      "follows instructions",
+      "friendly tone",
+      "initiates topics",
+      "occasional lethargy",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a good follower, but I also have leadership potential. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can lead",
+      "engages easily",
+      "follows instructions",
+      "friendly tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to have difficulty influencing others and often struggle to get my point across. I rarely feel excited or eager about things.": [
+      "difficult persuading",
+      "engages easily",
+      "friendly tone",
+      "gentle tone",
+      "initiates topics",
+      "rarely uses enthusiasm",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be less active than others and prefer quiet activities.": [
+      "difficult persuading",
+      "engages easily",
+      "friendly tone",
+      "gentle tone",
+      "initiates topics",
+      "low activity level",
+      "prefers solitude",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to have difficulty influencing others and often struggle to get my point across. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "difficult persuading",
+      "engages easily",
+      "fatigue noted",
+      "friendly tone",
+      "gentle tone",
+      "initiates topics",
+      "occasional lethargy",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to have difficulty influencing others and often struggle to get my point across. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "difficult persuading",
+      "engages easily",
+      "friendly tone",
+      "gentle tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to prefer following others and being part of a team rather than taking charge myself. I rarely feel excited or eager about things.": [
+      "engages easily",
+      "follows leadership",
+      "friendly tone",
+      "initiates topics",
+      "prefers collaborative roles",
+      "rarely uses enthusiasm",
+      "relies on group dynamics",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be less active than others and prefer quiet activities.": [
+      "engages easily",
+      "follows leadership",
+      "friendly tone",
+      "initiates topics",
+      "low activity level",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to prefer following others and being part of a team rather than taking charge myself. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "engages easily",
+      "fatigue noted",
+      "follows leadership",
+      "friendly tone",
+      "initiates topics",
+      "occasional lethargy",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to prefer following others and being part of a team rather than taking charge myself. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "engages easily",
+      "follows leadership",
+      "friendly tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be assertive at times, but I don't always feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "can assert myself",
+      "chatty at times",
+      "lets others speak",
+      "rarely uses enthusiasm",
+      "reserves authority"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "can assert myself",
+      "chatty at times",
+      "lets others speak",
+      "low activity level",
+      "prefers solitude",
+      "reserves authority"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be assertive at times, but I don't always feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can assert myself",
+      "chatty at times",
+      "fatigue noted",
+      "lets others speak",
+      "occasional lethargy",
+      "reserves authority",
+      "varies energy levels"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be assertive at times, but I don't always feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can assert myself",
+      "chatty at times",
+      "lets others speak",
+      "occasional enthusiasm",
+      "reserves authority"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a good follower, but I also have leadership potential. I rarely feel excited or eager about things.": [
+      "can lead",
+      "chatty at times",
+      "follows instructions",
+      "lets others speak",
+      "rarely uses enthusiasm"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a good follower, but I also have leadership potential. I tend to be less active than others and prefer quiet activities.": [
+      "can lead",
+      "chatty at times",
+      "follows instructions",
+      "lets others speak",
+      "low activity level",
+      "prefers solitude"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a good follower, but I also have leadership potential. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can lead",
+      "chatty at times",
+      "fatigue noted",
+      "follows instructions",
+      "lets others speak",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a good follower, but I also have leadership potential. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can lead",
+      "chatty at times",
+      "follows instructions",
+      "lets others speak",
+      "occasional enthusiasm"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to have difficulty influencing others and often struggle to get my point across. I rarely feel excited or eager about things.": [
+      "chatty at times",
+      "difficult persuading",
+      "gentle tone",
+      "lets others speak",
+      "rarely uses enthusiasm",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be less active than others and prefer quiet activities.": [
+      "chatty at times",
+      "difficult persuading",
+      "gentle tone",
+      "lets others speak",
+      "low activity level",
+      "prefers solitude",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to have difficulty influencing others and often struggle to get my point across. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty at times",
+      "difficult persuading",
+      "fatigue noted",
+      "gentle tone",
+      "lets others speak",
+      "occasional lethargy",
+      "soft-spoken",
+      "struggles to assert",
+      "varies energy levels"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to have difficulty influencing others and often struggle to get my point across. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty at times",
+      "difficult persuading",
+      "gentle tone",
+      "lets others speak",
+      "occasional enthusiasm",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to prefer following others and being part of a team rather than taking charge myself. I rarely feel excited or eager about things.": [
+      "chatty at times",
+      "follows leadership",
+      "lets others speak",
+      "prefers collaborative roles",
+      "rarely uses enthusiasm",
+      "relies on group dynamics"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be less active than others and prefer quiet activities.": [
+      "chatty at times",
+      "follows leadership",
+      "lets others speak",
+      "low activity level",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to prefer following others and being part of a team rather than taking charge myself. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty at times",
+      "fatigue noted",
+      "follows leadership",
+      "lets others speak",
+      "occasional lethargy",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "varies energy levels"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to prefer following others and being part of a team rather than taking charge myself. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty at times",
+      "follows leadership",
+      "lets others speak",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "relies on group dynamics"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "can assert myself",
+      "few personal comments",
+      "prefers brief interactions",
+      "rarely uses enthusiasm",
+      "reserved tone",
+      "reserves authority",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "can assert myself",
+      "few personal comments",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers solitude",
+      "reserved tone",
+      "reserves authority",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can assert myself",
+      "fatigue noted",
+      "few personal comments",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "reserved tone",
+      "reserves authority",
+      "timid responses",
+      "varies energy levels"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can assert myself",
+      "few personal comments",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "reserved tone",
+      "reserves authority",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a good follower, but I also have leadership potential. I rarely feel excited or eager about things.": [
+      "can lead",
+      "few personal comments",
+      "follows instructions",
+      "prefers brief interactions",
+      "rarely uses enthusiasm",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a good follower, but I also have leadership potential. I tend to be less active than others and prefer quiet activities.": [
+      "can lead",
+      "few personal comments",
+      "follows instructions",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers solitude",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a good follower, but I also have leadership potential. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can lead",
+      "fatigue noted",
+      "few personal comments",
+      "follows instructions",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses",
+      "varies energy levels"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a good follower, but I also have leadership potential. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can lead",
+      "few personal comments",
+      "follows instructions",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I rarely feel excited or eager about things.": [
+      "difficult persuading",
+      "few personal comments",
+      "gentle tone",
+      "prefers brief interactions",
+      "rarely uses enthusiasm",
+      "reserved tone",
+      "soft-spoken",
+      "struggles to assert",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be less active than others and prefer quiet activities.": [
+      "difficult persuading",
+      "few personal comments",
+      "gentle tone",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers solitude",
+      "reserved tone",
+      "soft-spoken",
+      "struggles to assert",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "difficult persuading",
+      "fatigue noted",
+      "few personal comments",
+      "gentle tone",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "reserved tone",
+      "soft-spoken",
+      "struggles to assert",
+      "timid responses",
+      "varies energy levels"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "difficult persuading",
+      "few personal comments",
+      "gentle tone",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "reserved tone",
+      "soft-spoken",
+      "struggles to assert",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I rarely feel excited or eager about things.": [
+      "few personal comments",
+      "follows leadership",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "rarely uses enthusiasm",
+      "relies on group dynamics",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be less active than others and prefer quiet activities.": [
+      "few personal comments",
+      "follows leadership",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "few personal comments",
+      "follows leadership",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "reserved tone",
+      "timid responses",
+      "varies energy levels"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "few personal comments",
+      "follows leadership",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be assertive at times, but I don't always feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "can assert myself",
+      "chatty",
+      "dominates conversation",
+      "opinionated",
+      "rarely uses enthusiasm",
+      "reserves authority",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "can assert myself",
+      "chatty",
+      "dominates conversation",
+      "low activity level",
+      "opinionated",
+      "prefers solitude",
+      "reserves authority",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be assertive at times, but I don't always feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can assert myself",
+      "chatty",
+      "dominates conversation",
+      "fatigue noted",
+      "occasional lethargy",
+      "opinionated",
+      "reserves authority",
+      "shares extensively",
+      "varies energy levels"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be assertive at times, but I don't always feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can assert myself",
+      "chatty",
+      "dominates conversation",
+      "occasional enthusiasm",
+      "opinionated",
+      "reserves authority",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a good follower, but I also have leadership potential. I rarely feel excited or eager about things.": [
+      "can lead",
+      "chatty",
+      "dominates conversation",
+      "follows instructions",
+      "opinionated",
+      "rarely uses enthusiasm",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a good follower, but I also have leadership potential. I tend to be less active than others and prefer quiet activities.": [
+      "can lead",
+      "chatty",
+      "dominates conversation",
+      "follows instructions",
+      "low activity level",
+      "opinionated",
+      "prefers solitude",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a good follower, but I also have leadership potential. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "can lead",
+      "chatty",
+      "dominates conversation",
+      "fatigue noted",
+      "follows instructions",
+      "occasional lethargy",
+      "opinionated",
+      "shares extensively",
+      "varies energy levels"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a good follower, but I also have leadership potential. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "can lead",
+      "chatty",
+      "dominates conversation",
+      "follows instructions",
+      "occasional enthusiasm",
+      "opinionated",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to have difficulty influencing others and often struggle to get my point across. I rarely feel excited or eager about things.": [
+      "chatty",
+      "difficult persuading",
+      "dominates conversation",
+      "gentle tone",
+      "opinionated",
+      "rarely uses enthusiasm",
+      "shares extensively",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be less active than others and prefer quiet activities.": [
+      "chatty",
+      "difficult persuading",
+      "dominates conversation",
+      "gentle tone",
+      "low activity level",
+      "opinionated",
+      "prefers solitude",
+      "shares extensively",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to have difficulty influencing others and often struggle to get my point across. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty",
+      "difficult persuading",
+      "dominates conversation",
+      "fatigue noted",
+      "gentle tone",
+      "occasional lethargy",
+      "opinionated",
+      "shares extensively",
+      "soft-spoken",
+      "struggles to assert",
+      "varies energy levels"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to have difficulty influencing others and often struggle to get my point across. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty",
+      "difficult persuading",
+      "dominates conversation",
+      "gentle tone",
+      "occasional enthusiasm",
+      "opinionated",
+      "shares extensively",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to prefer following others and being part of a team rather than taking charge myself. I rarely feel excited or eager about things.": [
+      "chatty",
+      "dominates conversation",
+      "follows leadership",
+      "opinionated",
+      "prefers collaborative roles",
+      "rarely uses enthusiasm",
+      "relies on group dynamics",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be less active than others and prefer quiet activities.": [
+      "chatty",
+      "dominates conversation",
+      "follows leadership",
+      "low activity level",
+      "opinionated",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to prefer following others and being part of a team rather than taking charge myself. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty",
+      "dominates conversation",
+      "fatigue noted",
+      "follows leadership",
+      "occasional lethargy",
+      "opinionated",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "shares extensively",
+      "varies energy levels"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to prefer following others and being part of a team rather than taking charge myself. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty",
+      "dominates conversation",
+      "follows leadership",
+      "occasional enthusiasm",
+      "opinionated",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "shares extensively"
+    ]
+  }
+}

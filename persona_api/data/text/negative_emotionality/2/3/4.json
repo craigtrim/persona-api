@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      3,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I tend to be moody and experience frequent mood swings.": [
+      "calm demeanor",
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "handles stress well",
+      "moodiness",
+      "relaxed tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "calm demeanor",
+      "handles stress well",
+      "occasional emotional outbursts",
+      "relaxed tone",
+      "tries to stay composed"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "calm demeanor",
+      "handles stress well",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "relaxed tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "calm demeanor",
+      "emotes easily",
+      "handles stress well",
+      "loses patience quickly",
+      "reacts emotionally",
+      "relaxed tone",
+      "shows frustration"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "moodiness",
+      "occasional tension"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "occasional emotional outbursts",
+      "occasional tension",
+      "tries to stay composed"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasional tension"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "occasional tension",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "keeps worries contained",
+      "moodiness",
+      "occasionally anxious"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "keeps worries contained",
+      "occasional emotional outbursts",
+      "occasionally anxious",
+      "tries to stay composed"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "keeps worries contained",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally anxious"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "keeps worries contained",
+      "loses patience quickly",
+      "occasionally anxious",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "keeps cool",
+      "moodiness",
+      "rarely panics",
+      "remains calm"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "keeps cool",
+      "occasional emotional outbursts",
+      "rarely panics",
+      "remains calm",
+      "tries to stay composed"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "keeps cool",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "rarely panics",
+      "remains calm"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "keeps cool",
+      "loses patience quickly",
+      "rarely panics",
+      "reacts emotionally",
+      "remains calm",
+      "shows frustration"
+    ]
+  }
+}

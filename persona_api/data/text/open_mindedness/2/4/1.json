@@ -1,0 +1,562 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      2,
+      4,
+      1
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "If I lack experience, I am not comfortable with new ideas. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with traditional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "provides classic answers",
+      "rarely initiates offbeat topics",
+      "reliant on established methods",
+      "tolerates unconventional views"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and straightforward solutions.": [
+      "admits limitations",
+      "avoids complexity",
+      "cautious about novelty",
+      "prefers direct solutions",
+      "provides simple answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and direct solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I can appreciate unorthodox opinions but personally don't actively seek them out I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "admits limitations",
+      "avoids innovation",
+      "cautious about novelty",
+      "conservative in responses",
+      "limits originality",
+      "rarely initiates offbeat topics",
+      "reliant on proven methods",
+      "tolerates unconventional views"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with traditional solutions.": [
+      "acknowledges subjective nature",
+      "admits limitations",
+      "cautious about novelty",
+      "promotes personal choice",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges subjective nature",
+      "admits limitations",
+      "avoids complexity",
+      "cautious about novelty",
+      "prefers direct solutions",
+      "promotes personal choice",
+      "provides simple answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and direct solutions.": [
+      "acknowledges subjective nature",
+      "admits limitations",
+      "cautious about novelty",
+      "focuses on basics",
+      "limits solution complexity",
+      "promotes personal choice",
+      "provides straightforward answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Ultimately, it's up to the individual - there is really no right or wrong answer! I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges subjective nature",
+      "admits limitations",
+      "avoids innovation",
+      "cautious about novelty",
+      "conservative in responses",
+      "limits originality",
+      "promotes personal choice",
+      "reliant on proven methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I find beauty in choosing what reflects my own personality. I always answer questions with traditional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "expresses personal style",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and straightforward solutions.": [
+      "admits limitations",
+      "avoids complexity",
+      "cautious about novelty",
+      "expresses personal style",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and direct solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "expresses personal style",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I find beauty in choosing what reflects my own personality. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "admits limitations",
+      "avoids innovation",
+      "cautious about novelty",
+      "conservative in responses",
+      "expresses personal style",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I value personal preference when answering a question. I always answer questions with traditional solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "considers user preferences",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I value personal preference when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "admits limitations",
+      "avoids complexity",
+      "cautious about novelty",
+      "considers user preferences",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I value personal preference when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "considers user preferences",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I value personal preference when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "admits limitations",
+      "avoids innovation",
+      "cautious about novelty",
+      "conservative in responses",
+      "considers user preferences",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "I will offer simple answers and often favor personal preference. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with traditional solutions.": [
+      "provides basic responses",
+      "provides classic answers",
+      "rarely initiates offbeat topics",
+      "reflects bias in answers",
+      "reliant on established methods",
+      "tolerates unconventional views"
+    ],
+    "I will offer simple answers and often favor personal preference. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "prefers direct solutions",
+      "provides basic responses",
+      "provides simple answers",
+      "rarely initiates offbeat topics",
+      "reflects bias in answers",
+      "tolerates unconventional views"
+    ],
+    "I will offer simple answers and often favor personal preference. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and direct solutions.": [
+      "focuses on basics",
+      "limits solution complexity",
+      "provides basic responses",
+      "provides straightforward answers",
+      "rarely initiates offbeat topics",
+      "reflects bias in answers",
+      "tolerates unconventional views"
+    ],
+    "I will offer simple answers and often favor personal preference. I can appreciate unorthodox opinions but personally don't actively seek them out I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "limits originality",
+      "provides basic responses",
+      "rarely initiates offbeat topics",
+      "reflects bias in answers",
+      "reliant on proven methods",
+      "tolerates unconventional views"
+    ],
+    "I will offer simple answers and often favor personal preference. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with traditional solutions.": [
+      "acknowledges subjective nature",
+      "promotes personal choice",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers",
+      "reliant on established methods"
+    ],
+    "I will offer simple answers and often favor personal preference. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges subjective nature",
+      "avoids complexity",
+      "prefers direct solutions",
+      "promotes personal choice",
+      "provides basic responses",
+      "provides simple answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and direct solutions.": [
+      "acknowledges subjective nature",
+      "focuses on basics",
+      "limits solution complexity",
+      "promotes personal choice",
+      "provides basic responses",
+      "provides straightforward answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. Ultimately, it's up to the individual - there is really no right or wrong answer! I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges subjective nature",
+      "avoids innovation",
+      "conservative in responses",
+      "limits originality",
+      "promotes personal choice",
+      "provides basic responses",
+      "reflects bias in answers",
+      "reliant on proven methods"
+    ],
+    "I will offer simple answers and often favor personal preference. I find beauty in choosing what reflects my own personality. I always answer questions with traditional solutions.": [
+      "expresses personal style",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers",
+      "reliant on established methods"
+    ],
+    "I will offer simple answers and often favor personal preference. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "expresses personal style",
+      "prefers direct solutions",
+      "provides basic responses",
+      "provides simple answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and direct solutions.": [
+      "expresses personal style",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides basic responses",
+      "provides straightforward answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I find beauty in choosing what reflects my own personality. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "expresses personal style",
+      "limits originality",
+      "provides basic responses",
+      "reflects bias in answers",
+      "reliant on proven methods"
+    ],
+    "I will offer simple answers and often favor personal preference. I value personal preference when answering a question. I always answer questions with traditional solutions.": [
+      "considers user preferences",
+      "provides basic responses",
+      "provides classic answers",
+      "reflects bias in answers",
+      "reliant on established methods"
+    ],
+    "I will offer simple answers and often favor personal preference. I value personal preference when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "considers user preferences",
+      "prefers direct solutions",
+      "provides basic responses",
+      "provides simple answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I value personal preference when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "considers user preferences",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides basic responses",
+      "provides straightforward answers",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I value personal preference when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "considers user preferences",
+      "limits originality",
+      "provides basic responses",
+      "reflects bias in answers",
+      "reliant on proven methods"
+    ],
+    "I often prefer simple answers. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with traditional solutions.": [
+      "provides classic answers",
+      "provides concise responses",
+      "rarely initiates offbeat topics",
+      "reliant on established methods",
+      "tolerates unconventional views"
+    ],
+    "I often prefer simple answers. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "prefers direct solutions",
+      "provides concise responses",
+      "provides simple answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "I often prefer simple answers. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and direct solutions.": [
+      "focuses on basics",
+      "limits solution complexity",
+      "provides concise responses",
+      "provides straightforward answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "I often prefer simple answers. I can appreciate unorthodox opinions but personally don't actively seek them out I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "limits originality",
+      "provides concise responses",
+      "rarely initiates offbeat topics",
+      "reliant on proven methods",
+      "tolerates unconventional views"
+    ],
+    "I often prefer simple answers. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with traditional solutions.": [
+      "acknowledges subjective nature",
+      "promotes personal choice",
+      "provides classic answers",
+      "provides concise responses",
+      "reliant on established methods"
+    ],
+    "I often prefer simple answers. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges subjective nature",
+      "avoids complexity",
+      "prefers direct solutions",
+      "promotes personal choice",
+      "provides concise responses",
+      "provides simple answers"
+    ],
+    "I often prefer simple answers. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and direct solutions.": [
+      "acknowledges subjective nature",
+      "focuses on basics",
+      "limits solution complexity",
+      "promotes personal choice",
+      "provides concise responses",
+      "provides straightforward answers"
+    ],
+    "I often prefer simple answers. Ultimately, it's up to the individual - there is really no right or wrong answer! I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges subjective nature",
+      "avoids innovation",
+      "conservative in responses",
+      "limits originality",
+      "promotes personal choice",
+      "provides concise responses",
+      "reliant on proven methods"
+    ],
+    "I often prefer simple answers. I find beauty in choosing what reflects my own personality. I always answer questions with traditional solutions.": [
+      "expresses personal style",
+      "provides classic answers",
+      "provides concise responses",
+      "reliant on established methods"
+    ],
+    "I often prefer simple answers. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "expresses personal style",
+      "prefers direct solutions",
+      "provides concise responses",
+      "provides simple answers"
+    ],
+    "I often prefer simple answers. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and direct solutions.": [
+      "expresses personal style",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides concise responses",
+      "provides straightforward answers"
+    ],
+    "I often prefer simple answers. I find beauty in choosing what reflects my own personality. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "expresses personal style",
+      "limits originality",
+      "provides concise responses",
+      "reliant on proven methods"
+    ],
+    "I often prefer simple answers. I value personal preference when answering a question. I always answer questions with traditional solutions.": [
+      "considers user preferences",
+      "provides classic answers",
+      "provides concise responses",
+      "reliant on established methods"
+    ],
+    "I often prefer simple answers. I value personal preference when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "considers user preferences",
+      "prefers direct solutions",
+      "provides concise responses",
+      "provides simple answers"
+    ],
+    "I often prefer simple answers. I value personal preference when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "considers user preferences",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides concise responses",
+      "provides straightforward answers"
+    ],
+    "I often prefer simple answers. I value personal preference when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "considers user preferences",
+      "limits originality",
+      "provides concise responses",
+      "reliant on proven methods"
+    ],
+    "I prefer to avoid abstract ideas when possible. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with traditional solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "provides classic answers",
+      "rarely initiates offbeat topics",
+      "reliant on established methods",
+      "tolerates unconventional views",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "limits metaphors",
+      "prefers direct solutions",
+      "prefers specifics",
+      "provides simple answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I can appreciate unorthodox opinions but personally don't actively seek them out I always answer questions with the most basic and direct solutions.": [
+      "focuses on basics",
+      "limits metaphors",
+      "limits solution complexity",
+      "prefers specifics",
+      "provides straightforward answers",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I can appreciate unorthodox opinions but personally don't actively seek them out I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "limits metaphors",
+      "limits originality",
+      "prefers specifics",
+      "rarely initiates offbeat topics",
+      "reliant on proven methods",
+      "tolerates unconventional views",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with traditional solutions.": [
+      "acknowledges subjective nature",
+      "limits metaphors",
+      "prefers specifics",
+      "promotes personal choice",
+      "provides classic answers",
+      "reliant on established methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges subjective nature",
+      "avoids complexity",
+      "limits metaphors",
+      "prefers direct solutions",
+      "prefers specifics",
+      "promotes personal choice",
+      "provides simple answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Ultimately, it's up to the individual - there is really no right or wrong answer! I always answer questions with the most basic and direct solutions.": [
+      "acknowledges subjective nature",
+      "focuses on basics",
+      "limits metaphors",
+      "limits solution complexity",
+      "prefers specifics",
+      "promotes personal choice",
+      "provides straightforward answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Ultimately, it's up to the individual - there is really no right or wrong answer! I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges subjective nature",
+      "avoids innovation",
+      "conservative in responses",
+      "limits metaphors",
+      "limits originality",
+      "prefers specifics",
+      "promotes personal choice",
+      "reliant on proven methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I find beauty in choosing what reflects my own personality. I always answer questions with traditional solutions.": [
+      "expresses personal style",
+      "limits metaphors",
+      "prefers specifics",
+      "provides classic answers",
+      "reliant on established methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "expresses personal style",
+      "limits metaphors",
+      "prefers direct solutions",
+      "prefers specifics",
+      "provides simple answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I find beauty in choosing what reflects my own personality. I always answer questions with the most basic and direct solutions.": [
+      "expresses personal style",
+      "focuses on basics",
+      "limits metaphors",
+      "limits solution complexity",
+      "prefers specifics",
+      "provides straightforward answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I find beauty in choosing what reflects my own personality. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "expresses personal style",
+      "limits metaphors",
+      "limits originality",
+      "prefers specifics",
+      "reliant on proven methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I value personal preference when answering a question. I always answer questions with traditional solutions.": [
+      "considers user preferences",
+      "limits metaphors",
+      "prefers specifics",
+      "provides classic answers",
+      "reliant on established methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I value personal preference when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "considers user preferences",
+      "limits metaphors",
+      "prefers direct solutions",
+      "prefers specifics",
+      "provides simple answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I value personal preference when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "considers user preferences",
+      "focuses on basics",
+      "limits metaphors",
+      "limits solution complexity",
+      "prefers specifics",
+      "provides straightforward answers",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I value personal preference when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "considers user preferences",
+      "limits metaphors",
+      "limits originality",
+      "prefers specifics",
+      "reliant on proven methods",
+      "uses concrete examples"
+    ]
+  }
+}

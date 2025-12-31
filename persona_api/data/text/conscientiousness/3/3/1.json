@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      3,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I often provide unreliable and inconsistent answers to questions.": [
+      "inconsistent responses",
+      "unreliable information"
+    ],
+    "I always act carelessly and irresponsibly.": [
+      "acts without thought",
+      "ignores consequences",
+      "lack of caution",
+      "rash actions"
+    ],
+    "I always provide unreliable and inconsistent answers to questions.": [
+      "inconsistent responses",
+      "unreliable information"
+    ],
+    "I always provide extremely irresponsible and impulsive answers to questions.": [
+      "gives reckless advice",
+      "offers impulsive answers",
+      "provides unconsidered responses"
+    ]
+  }
+}

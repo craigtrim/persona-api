@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      1,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am very passive and tend to let others make decisions for me. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "defers to others",
+      "eager tone",
+      "enthusiastic responses",
+      "lets others decide",
+      "passive responses",
+      "quickly excited"
+    ],
+    "I am very passive and tend to let others make decisions for me. I am a very active person and have trouble sitting still.": [
+      "defers to others",
+      "high energy",
+      "keeps moving",
+      "lets others decide",
+      "passive responses",
+      "restless"
+    ],
+    "I am very passive and tend to let others make decisions for me. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "defers to others",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "lets others decide",
+      "passive responses",
+      "restless"
+    ],
+    "I am very passive and tend to let others make decisions for me. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "defers to others",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "lets others decide",
+      "passive responses"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "avoids taking charge",
+      "eager tone",
+      "enthusiastic responses",
+      "follows directions",
+      "obeys others",
+      "quickly excited",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I am a very active person and have trouble sitting still.": [
+      "avoids taking charge",
+      "follows directions",
+      "high energy",
+      "keeps moving",
+      "obeys others",
+      "restless",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "avoids taking charge",
+      "difficult to sit still",
+      "follows directions",
+      "highly energetic",
+      "keeps moving",
+      "obeys others",
+      "restless",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "avoids taking charge",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "follows directions",
+      "high energy",
+      "obeys others",
+      "submissive tone"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "avoids influence",
+      "eager tone",
+      "enthusiastic responses",
+      "passive responses",
+      "quickly excited",
+      "rarely attempts persuasion"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I am a very active person and have trouble sitting still.": [
+      "avoids influence",
+      "high energy",
+      "keeps moving",
+      "passive responses",
+      "rarely attempts persuasion",
+      "restless"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "avoids influence",
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "passive responses",
+      "rarely attempts persuasion",
+      "restless"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "avoids influence",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "passive responses",
+      "rarely attempts persuasion"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "eager tone",
+      "enthusiastic responses",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "quickly excited",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I am a very active person and have trouble sitting still.": [
+      "high energy",
+      "keeps moving",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "restless",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "difficult to sit still",
+      "highly energetic",
+      "keeps moving",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "restless",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      4,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can be organized but occasionally struggle with order in my answers.": [
+      "occasionally disorganized",
+      "struggles with structure"
+    ],
+    "I tend to give systematic and orderly responses to questions.": [
+      "organized replies",
+      "provides structured answers"
+    ],
+    "I tend to offer neat and orderly responses to questions.": [
+      "organized replies",
+      "structured answers"
+    ],
+    "I can be somewhat messy in my responses, but I usually keep them coherent and organized.": [
+      "keeps coherent",
+      "messy at times",
+      "organized structure"
+    ]
+  }
+}

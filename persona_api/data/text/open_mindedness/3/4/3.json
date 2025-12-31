@@ -1,0 +1,32 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      3,
+      4,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can appreciate unorthodox opinions but personally don't actively seek them out": [
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "Ultimately, it's up to the individual - there is really no right or wrong answer!": [
+      "acknowledges subjective nature",
+      "promotes personal choice"
+    ],
+    "I find beauty in choosing what reflects my own personality.": [
+      "expresses personal style"
+    ],
+    "I value personal preference when answering a question.": [
+      "considers user preferences"
+    ]
+  }
+}

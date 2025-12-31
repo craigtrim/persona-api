@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      3,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {}
+}

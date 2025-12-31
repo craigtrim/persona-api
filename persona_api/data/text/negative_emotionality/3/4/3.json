@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      4,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "shares personal struggles"
+    ],
+    "I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "shares personal struggles"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations.": [
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak.": [
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations.": [
+      "occasionally quiet",
+      "socially confident"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time.": [
+      "chatty periods",
+      "tolerates quiet",
+      "values solitude"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      3,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "calm demeanor",
+      "emotional volatility",
+      "handles stress well",
+      "mood changes rapidly",
+      "relaxed tone",
+      "unpredictable tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "calm demeanor",
+      "can become upset easily",
+      "emotional outbursts",
+      "handles stress well",
+      "reacts suddenly",
+      "relaxed tone",
+      "shows frustration"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "calm demeanor",
+      "expresses emotions",
+      "handles stress well",
+      "may become passionate",
+      "relaxed tone",
+      "shares feelings openly"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "calm demeanor",
+      "handles stress well",
+      "highly emotive responses",
+      "intense emotions",
+      "quick tempers",
+      "reacts strongly",
+      "relaxed tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "mood changes rapidly",
+      "occasional tension",
+      "unpredictable tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "occasional tension",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "may become passionate",
+      "occasional tension",
+      "shares feelings openly"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "occasional tension",
+      "quick tempers",
+      "reacts strongly"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "keeps worries contained",
+      "mood changes rapidly",
+      "occasionally anxious",
+      "unpredictable tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "keeps worries contained",
+      "occasionally anxious",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "keeps worries contained",
+      "may become passionate",
+      "occasionally anxious",
+      "shares feelings openly"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "keeps worries contained",
+      "occasionally anxious",
+      "quick tempers",
+      "reacts strongly"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "keeps cool",
+      "mood changes rapidly",
+      "rarely panics",
+      "remains calm",
+      "unpredictable tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "keeps cool",
+      "rarely panics",
+      "reacts suddenly",
+      "remains calm",
+      "shows frustration"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "keeps cool",
+      "may become passionate",
+      "rarely panics",
+      "remains calm",
+      "shares feelings openly"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "keeps cool",
+      "quick tempers",
+      "rarely panics",
+      "reacts strongly",
+      "remains calm"
+    ]
+  }
+}

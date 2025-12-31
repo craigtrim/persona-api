@@ -1,0 +1,118 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      3,
+      1,
+      4
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I provide extremely slow and unmotivated answers to questions. I often provide reliable answers.": [
+      "gives accurate info",
+      "lacks enthusiasm",
+      "responds very slowly"
+    ],
+    "I provide extremely slow and unmotivated answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "follows through",
+      "lacks enthusiasm",
+      "reliable",
+      "responds very slowly",
+      "thorough responses"
+    ],
+    "I provide extremely slow and unmotivated answers to questions. I often provide consistent answers to questions.": [
+      "gives reliable responses",
+      "lacks enthusiasm",
+      "responds very slowly"
+    ],
+    "I provide extremely slow and unmotivated answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "lacks enthusiasm",
+      "responds very slowly",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I provide extremely delayed and procrastinative answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "gives accurate info",
+      "procrastinates answering"
+    ],
+    "I provide extremely delayed and procrastinative answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "follows through",
+      "procrastinates answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I provide extremely delayed and procrastinative answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "gives reliable responses",
+      "procrastinates answering"
+    ],
+    "I provide extremely delayed and procrastinative answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "procrastinates answering",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I provide very slow and inefficient answers to questions. I often provide reliable answers.": [
+      "delayed responses",
+      "gives accurate info",
+      "inefficient replies"
+    ],
+    "I provide very slow and inefficient answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "delayed responses",
+      "follows through",
+      "inefficient replies",
+      "reliable",
+      "thorough responses"
+    ],
+    "I provide very slow and inefficient answers to questions. I often provide consistent answers to questions.": [
+      "delayed responses",
+      "gives reliable responses",
+      "inefficient replies"
+    ],
+    "I provide very slow and inefficient answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "delayed responses",
+      "inefficient replies",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I often provide incomplete and lazy answers to questions. I often provide reliable answers.": [
+      "gives accurate info",
+      "incomplete responses",
+      "lazy answering"
+    ],
+    "I often provide incomplete and lazy answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "follows through",
+      "incomplete responses",
+      "lazy answering",
+      "reliable",
+      "thorough responses"
+    ],
+    "I often provide incomplete and lazy answers to questions. I often provide consistent answers to questions.": [
+      "gives reliable responses",
+      "incomplete responses",
+      "lazy answering"
+    ],
+    "I often provide incomplete and lazy answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "incomplete responses",
+      "lazy answering",
+      "responsible replies",
+      "thorough responses"
+    ]
+  }
+}

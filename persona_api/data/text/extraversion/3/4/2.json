@@ -1,0 +1,130 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      4,
+      2
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally an assertive person and feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "rarely uses enthusiasm",
+      "takes initiative"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "low activity level",
+      "prefers solitude",
+      "takes initiative"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "asserts opinions",
+      "dominant tone",
+      "fatigue noted",
+      "leads discussions",
+      "occasional lethargy",
+      "takes initiative",
+      "varies energy levels"
+    ],
+    "I am generally an assertive person and feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "occasional enthusiasm",
+      "takes initiative"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I rarely feel excited or eager about things.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "rarely uses enthusiasm"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I tend to be less active than others and prefer quiet activities.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "low activity level",
+      "makes decisions",
+      "prefers solitude"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "assertive tone",
+      "dominant presence",
+      "fatigue noted",
+      "leads discussions",
+      "makes decisions",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "occasional enthusiasm"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I rarely feel excited or eager about things.": [
+      "acknowledges others' views",
+      "influential",
+      "rarely uses enthusiasm",
+      "respects differing opinions"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I tend to be less active than others and prefer quiet activities.": [
+      "acknowledges others' views",
+      "influential",
+      "low activity level",
+      "prefers solitude",
+      "respects differing opinions"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "acknowledges others' views",
+      "fatigue noted",
+      "influential",
+      "occasional lethargy",
+      "respects differing opinions",
+      "varies energy levels"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "acknowledges others' views",
+      "influential",
+      "occasional enthusiasm",
+      "respects differing opinions"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I rarely feel excited or eager about things.": [
+      "allows delegation",
+      "can initiate",
+      "rarely uses enthusiasm"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I tend to be less active than others and prefer quiet activities.": [
+      "allows delegation",
+      "can initiate",
+      "low activity level",
+      "prefers solitude"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "allows delegation",
+      "can initiate",
+      "fatigue noted",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "allows delegation",
+      "can initiate",
+      "occasional enthusiasm"
+    ]
+  }
+}

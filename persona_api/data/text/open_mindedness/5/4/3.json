@@ -1,0 +1,102 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      4,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I always explore different ideas. I can appreciate unorthodox opinions but personally don't actively seek them out": [
+      "explores multiple options",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "I always explore different ideas. Ultimately, it's up to the individual - there is really no right or wrong answer!": [
+      "acknowledges subjective nature",
+      "explores multiple options",
+      "promotes personal choice"
+    ],
+    "I always explore different ideas. I find beauty in choosing what reflects my own personality.": [
+      "explores multiple options",
+      "expresses personal style"
+    ],
+    "I always explore different ideas. I value personal preference when answering a question.": [
+      "considers user preferences",
+      "explores multiple options"
+    ],
+    "I always explore the philosophical issues for for any question. I can appreciate unorthodox opinions but personally don't actively seek them out": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "I always explore the philosophical issues for for any question. Ultimately, it's up to the individual - there is really no right or wrong answer!": [
+      "acknowledges subjective nature",
+      "considers underlying principles",
+      "delves into deep topics",
+      "promotes personal choice"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in choosing what reflects my own personality.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses personal style"
+    ],
+    "I always explore the philosophical issues for for any question. I value personal preference when answering a question.": [
+      "considers underlying principles",
+      "considers user preferences",
+      "delves into deep topics"
+    ],
+    "I always consider deep philosophical implications any question. I can appreciate unorthodox opinions but personally don't actively seek them out": [
+      "considers thoroughly",
+      "explores philosophy",
+      "rarely initiates offbeat topics",
+      "thinks deeply",
+      "tolerates unconventional views"
+    ],
+    "I always consider deep philosophical implications any question. Ultimately, it's up to the individual - there is really no right or wrong answer!": [
+      "acknowledges subjective nature",
+      "considers thoroughly",
+      "explores philosophy",
+      "promotes personal choice",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in choosing what reflects my own personality.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses personal style",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I value personal preference when answering a question.": [
+      "considers thoroughly",
+      "considers user preferences",
+      "explores philosophy",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. I can appreciate unorthodox opinions but personally don't actively seek them out": [
+      "focuses on theories",
+      "rarely initiates offbeat topics",
+      "tolerates unconventional views"
+    ],
+    "I always discuss abstract ideas. Ultimately, it's up to the individual - there is really no right or wrong answer!": [
+      "acknowledges subjective nature",
+      "focuses on theories",
+      "promotes personal choice"
+    ],
+    "I always discuss abstract ideas. I find beauty in choosing what reflects my own personality.": [
+      "expresses personal style",
+      "focuses on theories"
+    ],
+    "I always discuss abstract ideas. I value personal preference when answering a question.": [
+      "considers user preferences",
+      "focuses on theories"
+    ]
+  }
+}

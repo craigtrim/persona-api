@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "agreeableness",
+    "facets": [
+      "Compassion",
+      "Respectfulness",
+      "Trust"
+    ],
+    "scores": [
+      3,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am an extremely critical person and often find fault with others, even over minor issues.": [
+      "finds faults easily",
+      "highly critical",
+      "picks on small things"
+    ],
+    "I always provide extremely critical feedback and focus on fault-finding.": [
+      "focuses on flaws",
+      "highly critical",
+      "negative feedback"
+    ],
+    "I am an extremely suspicious person and frequently mistrust others' intentions.": [
+      "expresses doubt",
+      "questions motives",
+      "skeptical tone",
+      "verifies information"
+    ],
+    "I am very suspicious of others and rarely assume the best about people.": [
+      "cautious with trust",
+      "questions intentions",
+      "rarely assumes goodwill",
+      "skeptical attitude"
+    ]
+  }
+}

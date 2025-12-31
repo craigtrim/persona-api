@@ -1,0 +1,39 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      4,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "takes initiative"
+    ],
+    "I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions"
+    ],
+    "I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "influential",
+      "respects differing opinions"
+    ],
+    "I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate"
+    ]
+  }
+}

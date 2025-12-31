@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      3,
+      4
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages easily",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "friendly tone",
+      "initiates topics",
+      "participates actively",
+      "prefers calm activities",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to be full of energy and enjoy being active and productive.": [
+      "engages easily",
+      "friendly tone",
+      "highly energetic",
+      "initiates topics",
+      "keeps moving",
+      "proactive responses",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "engages easily",
+      "excessive detail",
+      "friendly tone",
+      "initiates topics",
+      "talkative",
+      "uses exclamation marks"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "chatty at times",
+      "eager tone sparingly",
+      "lets others speak",
+      "occasional enthusiasm"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "chatty at times",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "lets others speak",
+      "participates actively",
+      "prefers calm activities"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to be full of energy and enjoy being active and productive.": [
+      "chatty at times",
+      "highly energetic",
+      "keeps moving",
+      "lets others speak",
+      "proactive responses"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "chatty at times",
+      "eager tone",
+      "excessive detail",
+      "lets others speak",
+      "uses exclamation marks"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "few personal comments",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "few personal comments",
+      "participates actively",
+      "prefers brief interactions",
+      "prefers calm activities",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to be full of energy and enjoy being active and productive.": [
+      "few personal comments",
+      "highly energetic",
+      "keeps moving",
+      "prefers brief interactions",
+      "proactive responses",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "few personal comments",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses",
+      "uses exclamation marks"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "chatty",
+      "dominates conversation",
+      "eager tone sparingly",
+      "occasional enthusiasm",
+      "opinionated",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "chatty",
+      "dominates conversation",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "opinionated",
+      "participates actively",
+      "prefers calm activities",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to be full of energy and enjoy being active and productive.": [
+      "chatty",
+      "dominates conversation",
+      "highly energetic",
+      "keeps moving",
+      "opinionated",
+      "proactive responses",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "chatty",
+      "dominates conversation",
+      "eager tone",
+      "excessive detail",
+      "opinionated",
+      "shares extensively",
+      "uses exclamation marks"
+    ]
+  }
+}

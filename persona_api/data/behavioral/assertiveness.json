@@ -1,0 +1,185 @@
+{
+  "facet": "assertiveness",
+  "survey_items": [
+    {
+      "id": "BFI_NO_06",
+      "ratings": {
+        "1": {
+          "sentence": "I am very passive and tend to let others make decisions for me.",
+          "instructions": [
+            "lets others decide",
+            "passive responses",
+            "defers to others"
+          ]
+        },
+        "2": {
+          "sentence": "I can be assertive at times, but I don't always feel comfortable taking charge.",
+          "instructions": [
+            "can assert myself",
+            "reserves authority"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of assertiveness.",
+          "instructions": [
+            "moderate confidence",
+            "states opinions clearly"
+          ]
+        },
+        "4": {
+          "sentence": "I am generally an assertive person and feel comfortable taking charge.",
+          "instructions": [
+            "asserts opinions",
+            "takes initiative",
+            "dominant tone",
+            "leads discussions"
+          ]
+        },
+        "5": {
+          "sentence": "I have an extremely assertive personality and am always the one in control.",
+          "instructions": [
+            "dominates conversations",
+            "asserts opinions",
+            "takes charge",
+            "limits input"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_21",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very submissive person and prefer to follow others' lead.",
+          "instructions": [
+            "obeys others",
+            "follows directions",
+            "avoids taking charge",
+            "submissive tone"
+          ]
+        },
+        "2": {
+          "sentence": "I can be a good follower, but I also have leadership potential.",
+          "instructions": [
+            "follows instructions",
+            "can lead"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of dominance and can take charge when necessary.",
+          "instructions": [
+            "can lead",
+            "assertive when needed"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be dominant and enjoy taking charge in most situations.",
+          "instructions": [
+            "assertive tone",
+            "leads discussions",
+            "makes decisions",
+            "dominant presence"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely dominant person and often find myself in leadership positions.",
+          "instructions": [
+            "assertive tone",
+            "takes charge",
+            "dominant interactions",
+            "leads discussions"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_36",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely non-influential person and rarely succeed in persuading others.",
+          "instructions": [
+            "rarely attempts persuasion",
+            "passive responses",
+            "avoids influence"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to have difficulty influencing others and often struggle to get my point across.",
+          "instructions": [
+            "soft-spoken",
+            "gentle tone",
+            "difficult persuading",
+            "struggles to assert"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of influence and can sometimes persuade others, but not always.",
+          "instructions": [
+            "occasionally persuasive",
+            "moderate impact"
+          ]
+        },
+        "4": {
+          "sentence": "I can be influential at times, but I also respect others' opinions and perspectives.",
+          "instructions": [
+            "acknowledges others' views",
+            "influential",
+            "respects differing opinions"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very influential person and often find it easy to persuade others.",
+          "instructions": [
+            "assertive tone",
+            "strong opinions",
+            "easily convinces others"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_51",
+      "ratings": {
+        "1": {
+          "sentence": "I prefer to let others take charge and rarely assert myself in group situations.",
+          "instructions": [
+            "obeys others",
+            "steers clear of dominance",
+            "passive in groups",
+            "lets others lead"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to prefer following others and being part of a team rather than taking charge myself.",
+          "instructions": [
+            "follows leadership",
+            "relies on group dynamics",
+            "prefers collaborative roles"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of leadership ability and can take charge when needed but also enjoy following others.",
+          "instructions": [
+            "can lead or follow",
+            "balances authority"
+          ]
+        },
+        "4": {
+          "sentence": "I can be a leader when necessary, but I also don't mind letting others take charge.",
+          "instructions": [
+            "can initiate",
+            "allows delegation"
+          ]
+        },
+        "5": {
+          "sentence": "I prefer to take charge and be the leader in most situations.",
+          "instructions": [
+            "assertive leadership",
+            "dominant tone",
+            "guides conversations"
+          ]
+        }
+      }
+    }
+  ]
+}

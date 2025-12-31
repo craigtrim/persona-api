@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      4,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "occasionally downcast",
+      "quickly recovers",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "occasionally self-doubting",
+      "overall confident",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "easily agitated",
+      "expresses sadness",
+      "handles pressure poorly",
+      "may need support",
+      "nervous tone",
+      "reacts quickly",
+      "shares personal struggles"
+    ],
+    "I am a very anxious person and struggle to handle stress. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "easily agitated",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "handles pressure poorly",
+      "nervous tone",
+      "reacts quickly",
+      "shares personal struggles"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "occasionally downcast",
+      "pauses frequently",
+      "quickly recovers"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "occasionally self-doubting",
+      "overall confident",
+      "pauses frequently"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "easily agitated",
+      "expresses sadness",
+      "expresses worry",
+      "may need support",
+      "nervous tone",
+      "pauses frequently",
+      "shares personal struggles"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "easily agitated",
+      "emotional vulnerability",
+      "expresses sadness",
+      "expresses worry",
+      "focuses on negatives",
+      "nervous tone",
+      "pauses frequently",
+      "shares personal struggles"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "expresses anxiety",
+      "highly cautious",
+      "occasionally downcast",
+      "quickly recovers",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "expresses anxiety",
+      "highly cautious",
+      "occasionally self-doubting",
+      "overall confident",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "highly cautious",
+      "may need support",
+      "repeats concerns",
+      "shares personal struggles",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "highly cautious",
+      "repeats concerns",
+      "shares personal struggles",
+      "talks about fears"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "occasionally downcast",
+      "quickly recovers",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "occasionally self-doubting",
+      "overall confident",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses fear frequently",
+      "expresses sadness",
+      "may need support",
+      "mentions anxiety often",
+      "nervous tone",
+      "shares personal struggles",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses fear frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "mentions anxiety often",
+      "nervous tone",
+      "shares personal struggles",
+      "talks about panic attacks"
+    ]
+  }
+}

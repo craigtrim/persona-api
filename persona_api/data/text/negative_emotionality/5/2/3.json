@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      2,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "easily agitated",
+      "encouraging tone",
+      "focuses on solutions",
+      "handles pressure poorly",
+      "nervous tone",
+      "positive framing",
+      "rarely dwells on negatives",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "rarely questions info",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I can feel sad at times, but it is not a major concern for me.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "occasionally expresses sadness",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I can feel down or blue at times, but it is not a major concern for me.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "mildly pessimistic",
+      "nervous tone",
+      "occasionally negative tone",
+      "reacts quickly"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "easily agitated",
+      "encouraging tone",
+      "expresses worry",
+      "focuses on solutions",
+      "nervous tone",
+      "pauses frequently",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently",
+      "rarely questions info"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can feel sad at times, but it is not a major concern for me.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "occasionally expresses sadness",
+      "pauses frequently"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I can feel down or blue at times, but it is not a major concern for me.": [
+      "easily agitated",
+      "expresses worry",
+      "mildly pessimistic",
+      "nervous tone",
+      "occasionally negative tone",
+      "pauses frequently"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "highly cautious",
+      "positive framing",
+      "rarely dwells on negatives",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "expresses anxiety",
+      "highly cautious",
+      "rarely questions info",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can feel sad at times, but it is not a major concern for me.": [
+      "expresses anxiety",
+      "highly cautious",
+      "occasionally expresses sadness",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I can feel down or blue at times, but it is not a major concern for me.": [
+      "expresses anxiety",
+      "highly cautious",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "encouraging tone",
+      "expresses fear frequently",
+      "focuses on solutions",
+      "mentions anxiety often",
+      "nervous tone",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "rarely questions info",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can feel sad at times, but it is not a major concern for me.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "occasionally expresses sadness",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I can feel down or blue at times, but it is not a major concern for me.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "mildly pessimistic",
+      "nervous tone",
+      "occasionally negative tone",
+      "talks about panic attacks"
+    ]
+  }
+}

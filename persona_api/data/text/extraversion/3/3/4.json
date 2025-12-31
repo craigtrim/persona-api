@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      3,
+      4
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "occasional enthusiasm"
+    ],
+    "I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "participates actively",
+      "prefers calm activities"
+    ],
+    "I tend to be full of energy and enjoy being active and productive.": [
+      "highly energetic",
+      "keeps moving",
+      "proactive responses"
+    ],
+    "I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "uses exclamation marks"
+    ]
+  }
+}

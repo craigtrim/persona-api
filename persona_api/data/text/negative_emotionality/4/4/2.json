@@ -1,0 +1,642 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      4,
+      2
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I can get discouraged at times, but I usually bounce back pretty quickly. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can get discouraged at times, but I usually bounce back pretty quickly. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can get discouraged at times, but I usually bounce back pretty quickly. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally downcast",
+      "projects calmness",
+      "quickly recovers"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can get discouraged at times, but I usually bounce back pretty quickly. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally downcast",
+      "occasionally shows emotion",
+      "quickly recovers"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can be insecure at times, but I generally feel comfortable with who I am. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can be insecure at times, but I generally feel comfortable with who I am. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can be insecure at times, but I generally feel comfortable with who I am. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "projects calmness"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can be insecure at times, but I generally feel comfortable with who I am. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally self-doubting",
+      "occasionally shows emotion",
+      "overall confident"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel sad often and often struggle with depression or other mood disorders. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses mental health",
+      "expresses sadness",
+      "manages stress",
+      "may need support",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel sad often and often struggle with depression or other mood disorders. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses mental health",
+      "expresses sadness",
+      "manages stress",
+      "may need support",
+      "occasional anxiety",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel sad often and often struggle with depression or other mood disorders. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses mental health",
+      "expresses sadness",
+      "keeps emotions in check",
+      "manages stress",
+      "may need support",
+      "occasional anxiety",
+      "projects calmness",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel sad often and often struggle with depression or other mood disorders. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses mental health",
+      "expresses sadness",
+      "manages stress",
+      "may need support",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "manages stress",
+      "occasional anxiety",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "projects calmness",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "shares personal struggles"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses anxiety",
+      "occasional shifts in tone",
+      "occasionally downcast",
+      "quickly recovers",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely expresses emotions",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses anxiety",
+      "keeps emotions in check",
+      "occasionally downcast",
+      "projects calmness",
+      "quickly recovers",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses anxiety",
+      "occasionally downcast",
+      "occasionally shows emotion",
+      "quickly recovers",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses anxiety",
+      "occasional shifts in tone",
+      "occasionally self-doubting",
+      "overall confident",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely expresses emotions",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses anxiety",
+      "keeps emotions in check",
+      "occasionally self-doubting",
+      "overall confident",
+      "projects calmness",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses anxiety",
+      "occasionally self-doubting",
+      "occasionally shows emotion",
+      "overall confident",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "may need support",
+      "occasional shifts in tone",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "may need support",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "keeps emotions in check",
+      "may need support",
+      "projects calmness",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "may need support",
+      "occasionally shows emotion",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "occasional shifts in tone",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps emotions in check",
+      "projects calmness",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "occasionally shows emotion",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "occasionally downcast",
+      "quickly recovers",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely expresses emotions",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "occasionally downcast",
+      "projects calmness",
+      "quickly recovers",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally downcast",
+      "occasionally shows emotion",
+      "quickly recovers",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "occasionally self-doubting",
+      "overall confident",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely expresses emotions",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "projects calmness",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally self-doubting",
+      "occasionally shows emotion",
+      "overall confident",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses mental health",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "may need support",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses mental health",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "may need support",
+      "mentions anxiety",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses mental health",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "keeps emotions in check",
+      "may need support",
+      "mentions anxiety",
+      "projects calmness",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses mental health",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "may need support",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emotional vulnerability",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emotional vulnerability",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "mentions anxiety",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emotional vulnerability",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "projects calmness",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emotional vulnerability",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can get discouraged at times, but I usually bounce back pretty quickly. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can get discouraged at times, but I usually bounce back pretty quickly. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can get discouraged at times, but I usually bounce back pretty quickly. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally downcast",
+      "projects calmness",
+      "quickly recovers"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can get discouraged at times, but I usually bounce back pretty quickly. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally downcast",
+      "occasionally shows emotion",
+      "quickly recovers"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can be insecure at times, but I generally feel comfortable with who I am. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can be insecure at times, but I generally feel comfortable with who I am. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely expresses emotions",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can be insecure at times, but I generally feel comfortable with who I am. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "overall confident",
+      "projects calmness"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can be insecure at times, but I generally feel comfortable with who I am. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "occasionally shows emotion",
+      "overall confident"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel sad often and often struggle with depression or other mood disorders. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel sad often and often struggle with depression or other mood disorders. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "mild anxiety",
+      "occasionally anxious",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel sad often and often struggle with depression or other mood disorders. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "discusses mental health",
+      "expresses sadness",
+      "keeps emotions in check",
+      "may need support",
+      "mild anxiety",
+      "occasionally anxious",
+      "projects calmness",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel sad often and often struggle with depression or other mood disorders. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "mild anxiety",
+      "occasionally anxious",
+      "rarely expresses emotions",
+      "shares personal struggles",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "projects calmness",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "shares personal struggles"
+    ]
+  }
+}

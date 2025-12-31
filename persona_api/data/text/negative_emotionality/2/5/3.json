@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      5,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "calm demeanor",
+      "downplays positives",
+      "emphasizes risks",
+      "handles stress well",
+      "negative framing",
+      "relaxed tone",
+      "warns often"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very insecure person and often struggle with self-doubt.": [
+      "calm demeanor",
+      "expresses doubt frequently",
+      "handles stress well",
+      "questions own abilities",
+      "relaxed tone",
+      "uncertain tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "calm demeanor",
+      "discusses struggles",
+      "expresses sadness",
+      "handles stress well",
+      "mournful tone",
+      "negative outlook",
+      "relaxed tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "calm demeanor",
+      "discusses hopelessness",
+      "expresses sadness",
+      "handles stress well",
+      "relaxed tone",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "negative framing",
+      "occasional tension",
+      "warns often"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "occasional tension",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "mournful tone",
+      "negative outlook",
+      "occasional tension"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "occasional tension",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "keeps worries contained",
+      "negative framing",
+      "occasionally anxious",
+      "warns often"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "keeps worries contained",
+      "occasionally anxious",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "keeps worries contained",
+      "mournful tone",
+      "negative outlook",
+      "occasionally anxious"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "keeps worries contained",
+      "occasionally anxious",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "keeps cool",
+      "negative framing",
+      "rarely panics",
+      "remains calm",
+      "warns often"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "keeps cool",
+      "questions own abilities",
+      "rarely panics",
+      "remains calm",
+      "uncertain tone"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses sadness",
+      "keeps cool",
+      "mournful tone",
+      "negative outlook",
+      "rarely panics",
+      "remains calm"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses sadness",
+      "keeps cool",
+      "rarely panics",
+      "remains calm",
+      "shares personal struggles",
+      "uses negative language"
+    ]
+  }
+}

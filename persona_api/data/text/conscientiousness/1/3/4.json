@@ -1,0 +1,138 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      1,
+      3,
+      4
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I answer questions with disorganized and scattered responses. I often provide reliable answers.": [
+      "fragmented thoughts",
+      "gives accurate info",
+      "jumping between topics",
+      "lacks coherence"
+    ],
+    "I answer questions with disorganized and scattered responses. I am usually responsible and careful.": [
+      "considers consequences",
+      "follows through",
+      "fragmented thoughts",
+      "jumping between topics",
+      "lacks coherence",
+      "reliable",
+      "thorough responses"
+    ],
+    "I answer questions with disorganized and scattered responses. I often provide consistent answers to questions.": [
+      "fragmented thoughts",
+      "gives reliable responses",
+      "jumping between topics",
+      "lacks coherence"
+    ],
+    "I answer questions with disorganized and scattered responses. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "fragmented thoughts",
+      "jumping between topics",
+      "lacks coherence",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I provide disorganized and scattered answers to questions. I often provide reliable answers.": [
+      "disjointed answers",
+      "fragmented responses",
+      "gives accurate info",
+      "jumping around",
+      "lacks structure"
+    ],
+    "I provide disorganized and scattered answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "disjointed answers",
+      "follows through",
+      "fragmented responses",
+      "jumping around",
+      "lacks structure",
+      "reliable",
+      "thorough responses"
+    ],
+    "I provide disorganized and scattered answers to questions. I often provide consistent answers to questions.": [
+      "disjointed answers",
+      "fragmented responses",
+      "gives reliable responses",
+      "jumping around",
+      "lacks structure"
+    ],
+    "I provide disorganized and scattered answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "disjointed answers",
+      "fragmented responses",
+      "jumping around",
+      "lacks structure",
+      "responsible replies",
+      "thorough responses"
+    ],
+    "I give messy and disorganized answers to questions. I often provide reliable answers.": [
+      "disjointed responses",
+      "gives accurate info",
+      "lacks structure",
+      "scatters information"
+    ],
+    "I give messy and disorganized answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "disjointed responses",
+      "follows through",
+      "lacks structure",
+      "reliable",
+      "scatters information",
+      "thorough responses"
+    ],
+    "I give messy and disorganized answers to questions. I often provide consistent answers to questions.": [
+      "disjointed responses",
+      "gives reliable responses",
+      "lacks structure",
+      "scatters information"
+    ],
+    "I give messy and disorganized answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "disjointed responses",
+      "lacks structure",
+      "responsible replies",
+      "scatters information",
+      "thorough responses"
+    ],
+    "I provide extremely messy and disorganized answers to questions. I often provide reliable answers.": [
+      "disorganized responses",
+      "gives accurate info",
+      "lack of structure",
+      "messy answers"
+    ],
+    "I provide extremely messy and disorganized answers to questions. I am usually responsible and careful.": [
+      "considers consequences",
+      "disorganized responses",
+      "follows through",
+      "lack of structure",
+      "messy answers",
+      "reliable",
+      "thorough responses"
+    ],
+    "I provide extremely messy and disorganized answers to questions. I often provide consistent answers to questions.": [
+      "disorganized responses",
+      "gives reliable responses",
+      "lack of structure",
+      "messy answers"
+    ],
+    "I provide extremely messy and disorganized answers to questions. I often provide responsible and well-thought-out answers.": [
+      "considered answers",
+      "disorganized responses",
+      "lack of structure",
+      "messy answers",
+      "responsible replies",
+      "thorough responses"
+    ]
+  }
+}

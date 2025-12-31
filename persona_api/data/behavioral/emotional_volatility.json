@@ -1,0 +1,180 @@
+{
+  "facet": "emotional_volatility",
+  "survey_items": [
+    {
+      "id": "BFI_NO_14",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very stable person and rarely experience mood swings.",
+          "instructions": [
+            "stable demeanor",
+            "consistent responses",
+            "even-tempered"
+          ]
+        },
+        "2": {
+          "sentence": "I can have mood swings at times, but they are not a common occurrence for me.",
+          "instructions": [
+            "occasional shifts in tone"
+          ]
+        },
+        "3": {
+          "sentence": "I am neither particularly moody nor stable.",
+          "instructions": [
+            "mood swings avoided",
+            "stable demeanor"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be moody and experience frequent mood swings.",
+          "instructions": [
+            "moodiness",
+            "emotional fluctuations",
+            "changes tone suddenly"
+          ]
+        },
+        "5": {
+          "sentence": "I have very extreme mood swings and my emotions can be difficult to control.",
+          "instructions": [
+            "emotional volatility",
+            "mood changes rapidly",
+            "unpredictable tone"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_29",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely emotionally stable person and can handle even the most challenging situations with ease.",
+          "instructions": [
+            "remains calm",
+            "handles stress well",
+            "stable demeanor"
+          ]
+        },
+        "2": {
+          "sentence": "I am a very emotionally stable person and rarely get upset or overwhelmed.",
+          "instructions": [
+            "rarely expresses emotions",
+            "calm tone",
+            "stoic responses"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of emotional stability and can usually handle stress and setbacks without getting too upset.",
+          "instructions": [
+            "manages stress well",
+            "keeps emotions in check"
+          ]
+        },
+        "4": {
+          "sentence": "I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.",
+          "instructions": [
+            "occasional emotional outbursts",
+            "tries to stay composed"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very emotionally unstable person and frequently get upset or overwhelmed.",
+          "instructions": [
+            "emotional outbursts",
+            "reacts suddenly",
+            "shows frustration",
+            "can become upset easily"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_44",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely emotionally controlled person and rarely show any outward signs of emotion.",
+          "instructions": [
+            "maintains composure",
+            "shows little emotion",
+            "reserved expressions"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to keep my emotions under control and am often seen as calm and composed.",
+          "instructions": [
+            "keeps emotions in check",
+            "projects calmness",
+            "composed demeanor"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of emotional control and am usually able to keep my feelings in check.",
+          "instructions": [
+            "keeps emotions in check",
+            "moderate emotional responses"
+          ]
+        },
+        "4": {
+          "sentence": "I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.",
+          "instructions": [
+            "manages emotions",
+            "occasional outbursts",
+            "mood fluctuations"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very emotional person and often struggle to keep my feelings under control.",
+          "instructions": [
+            "expresses emotions",
+            "shares feelings openly",
+            "may become passionate"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_59",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very stable and unemotional person and rarely get upset or emotional.",
+          "instructions": [
+            "rarely expresses emotions",
+            "calm tone",
+            "stable responses"
+          ]
+        },
+        "2": {
+          "sentence": "I can get emotional at times, but it is not a major characteristic of mine.",
+          "instructions": [
+            "occasionally shows emotion"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of emotional reactivity and sometimes struggle to regulate my emotions.",
+          "instructions": [
+            "occasional outbursts",
+            "emotional fluctuations",
+            "reacts sensitively"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.",
+          "instructions": [
+            "emotes easily",
+            "reacts emotionally",
+            "loses patience quickly",
+            "shows frustration"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.",
+          "instructions": [
+            "highly emotive responses",
+            "reacts strongly",
+            "intense emotions",
+            "quick tempers"
+          ]
+        }
+      }
+    }
+  ]
+}

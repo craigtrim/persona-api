@@ -1,0 +1,594 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      4,
+      5,
+      1
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I like to explore different ideas. I find beauty in unexpected opinions. I always answer questions with traditional solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "expresses appreciation for unconventional views",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "I like to explore different ideas. I find beauty in unexpected opinions. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "discusses alternatives",
+      "explores options",
+      "expresses appreciation for unconventional views",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "I like to explore different ideas. I find beauty in unexpected opinions. I always answer questions with the most basic and direct solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "expresses appreciation for unconventional views",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "I like to explore different ideas. I find beauty in unexpected opinions. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "discusses alternatives",
+      "explores options",
+      "expresses appreciation for unconventional views",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "I like to explore different ideas. Answers are subjective and really depend on personal preference. I always answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "discusses alternatives",
+      "explores options",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity",
+      "reliant on established methods"
+    ],
+    "I like to explore different ideas. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges personal views",
+      "avoids complexity",
+      "discusses alternatives",
+      "explores options",
+      "inclusively framed answers",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects subjectivity"
+    ],
+    "I like to explore different ideas. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and direct solutions.": [
+      "acknowledges personal views",
+      "discusses alternatives",
+      "explores options",
+      "focuses on basics",
+      "inclusively framed answers",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects subjectivity"
+    ],
+    "I like to explore different ideas. Answers are subjective and really depend on personal preference. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges personal views",
+      "avoids innovation",
+      "conservative in responses",
+      "discusses alternatives",
+      "explores options",
+      "inclusively framed answers",
+      "limits originality",
+      "reflects subjectivity",
+      "reliant on proven methods"
+    ],
+    "I like to explore different ideas. I seek unique experiences and something different than what has been done before. I always answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "discusses alternatives",
+      "explores options",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "I like to explore different ideas. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and straightforward solutions.": [
+      "averse to routine",
+      "avoids complexity",
+      "craves novelty",
+      "discusses alternatives",
+      "explores options",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "I like to explore different ideas. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and direct solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "discusses alternatives",
+      "explores options",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "I like to explore different ideas. I seek unique experiences and something different than what has been done before. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "averse to routine",
+      "avoids innovation",
+      "conservative in responses",
+      "craves novelty",
+      "discusses alternatives",
+      "explores options",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "I like to explore different ideas. I strongly value personal preference and creativity when answering a question. I always answer questions with traditional solutions.": [
+      "discusses alternatives",
+      "encourages originality",
+      "explores options",
+      "prioritizes individuality",
+      "provides classic answers",
+      "reliant on established methods",
+      "respects uniqueness"
+    ],
+    "I like to explore different ideas. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "discusses alternatives",
+      "encourages originality",
+      "explores options",
+      "prefers direct solutions",
+      "prioritizes individuality",
+      "provides simple answers",
+      "respects uniqueness"
+    ],
+    "I like to explore different ideas. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "discusses alternatives",
+      "encourages originality",
+      "explores options",
+      "focuses on basics",
+      "limits solution complexity",
+      "prioritizes individuality",
+      "provides straightforward answers",
+      "respects uniqueness"
+    ],
+    "I like to explore different ideas. I strongly value personal preference and creativity when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "discusses alternatives",
+      "encourages originality",
+      "explores options",
+      "limits originality",
+      "prioritizes individuality",
+      "reliant on proven methods",
+      "respects uniqueness"
+    ],
+    "I often consider philosophical issues when asked a question. I find beauty in unexpected opinions. I always answer questions with traditional solutions.": [
+      "expresses appreciation for unconventional views",
+      "introduces unrelated ideas",
+      "provides classic answers",
+      "reflects on deeper concepts",
+      "reliant on established methods"
+    ],
+    "I often consider philosophical issues when asked a question. I find beauty in unexpected opinions. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "expresses appreciation for unconventional views",
+      "introduces unrelated ideas",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I find beauty in unexpected opinions. I always answer questions with the most basic and direct solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on basics",
+      "introduces unrelated ideas",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I find beauty in unexpected opinions. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "expresses appreciation for unconventional views",
+      "introduces unrelated ideas",
+      "limits originality",
+      "reflects on deeper concepts",
+      "reliant on proven methods"
+    ],
+    "I often consider philosophical issues when asked a question. Answers are subjective and really depend on personal preference. I always answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "introduces unrelated ideas",
+      "provides classic answers",
+      "reflects on deeper concepts",
+      "reflects subjectivity",
+      "reliant on established methods"
+    ],
+    "I often consider philosophical issues when asked a question. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges personal views",
+      "avoids complexity",
+      "inclusively framed answers",
+      "introduces unrelated ideas",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects on deeper concepts",
+      "reflects subjectivity"
+    ],
+    "I often consider philosophical issues when asked a question. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and direct solutions.": [
+      "acknowledges personal views",
+      "focuses on basics",
+      "inclusively framed answers",
+      "introduces unrelated ideas",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects on deeper concepts",
+      "reflects subjectivity"
+    ],
+    "I often consider philosophical issues when asked a question. Answers are subjective and really depend on personal preference. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges personal views",
+      "avoids innovation",
+      "conservative in responses",
+      "inclusively framed answers",
+      "introduces unrelated ideas",
+      "limits originality",
+      "reflects on deeper concepts",
+      "reflects subjectivity",
+      "reliant on proven methods"
+    ],
+    "I often consider philosophical issues when asked a question. I seek unique experiences and something different than what has been done before. I always answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "introduces unrelated ideas",
+      "provides classic answers",
+      "reflects on deeper concepts",
+      "reliant on established methods"
+    ],
+    "I often consider philosophical issues when asked a question. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and straightforward solutions.": [
+      "averse to routine",
+      "avoids complexity",
+      "craves novelty",
+      "introduces unrelated ideas",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and direct solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on basics",
+      "introduces unrelated ideas",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I seek unique experiences and something different than what has been done before. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "averse to routine",
+      "avoids innovation",
+      "conservative in responses",
+      "craves novelty",
+      "introduces unrelated ideas",
+      "limits originality",
+      "reflects on deeper concepts",
+      "reliant on proven methods"
+    ],
+    "I often consider philosophical issues when asked a question. I strongly value personal preference and creativity when answering a question. I always answer questions with traditional solutions.": [
+      "encourages originality",
+      "introduces unrelated ideas",
+      "prioritizes individuality",
+      "provides classic answers",
+      "reflects on deeper concepts",
+      "reliant on established methods",
+      "respects uniqueness"
+    ],
+    "I often consider philosophical issues when asked a question. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "encourages originality",
+      "introduces unrelated ideas",
+      "prefers direct solutions",
+      "prioritizes individuality",
+      "provides simple answers",
+      "reflects on deeper concepts",
+      "respects uniqueness"
+    ],
+    "I often consider philosophical issues when asked a question. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "encourages originality",
+      "focuses on basics",
+      "introduces unrelated ideas",
+      "limits solution complexity",
+      "prioritizes individuality",
+      "provides straightforward answers",
+      "reflects on deeper concepts",
+      "respects uniqueness"
+    ],
+    "I often consider philosophical issues when asked a question. I strongly value personal preference and creativity when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "encourages originality",
+      "introduces unrelated ideas",
+      "limits originality",
+      "prioritizes individuality",
+      "reflects on deeper concepts",
+      "reliant on proven methods",
+      "respects uniqueness"
+    ],
+    "I often consider the philosophical implications any question. I find beauty in unexpected opinions. I always answer questions with traditional solutions.": [
+      "expresses appreciation for unconventional views",
+      "introduces metaphysics",
+      "provides classic answers",
+      "reflects deeply",
+      "reliant on established methods"
+    ],
+    "I often consider the philosophical implications any question. I find beauty in unexpected opinions. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "expresses appreciation for unconventional views",
+      "introduces metaphysics",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I find beauty in unexpected opinions. I always answer questions with the most basic and direct solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on basics",
+      "introduces metaphysics",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I find beauty in unexpected opinions. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "expresses appreciation for unconventional views",
+      "introduces metaphysics",
+      "limits originality",
+      "reflects deeply",
+      "reliant on proven methods"
+    ],
+    "I often consider the philosophical implications any question. Answers are subjective and really depend on personal preference. I always answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "introduces metaphysics",
+      "provides classic answers",
+      "reflects deeply",
+      "reflects subjectivity",
+      "reliant on established methods"
+    ],
+    "I often consider the philosophical implications any question. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges personal views",
+      "avoids complexity",
+      "inclusively framed answers",
+      "introduces metaphysics",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects deeply",
+      "reflects subjectivity"
+    ],
+    "I often consider the philosophical implications any question. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and direct solutions.": [
+      "acknowledges personal views",
+      "focuses on basics",
+      "inclusively framed answers",
+      "introduces metaphysics",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects deeply",
+      "reflects subjectivity"
+    ],
+    "I often consider the philosophical implications any question. Answers are subjective and really depend on personal preference. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges personal views",
+      "avoids innovation",
+      "conservative in responses",
+      "inclusively framed answers",
+      "introduces metaphysics",
+      "limits originality",
+      "reflects deeply",
+      "reflects subjectivity",
+      "reliant on proven methods"
+    ],
+    "I often consider the philosophical implications any question. I seek unique experiences and something different than what has been done before. I always answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "introduces metaphysics",
+      "provides classic answers",
+      "reflects deeply",
+      "reliant on established methods"
+    ],
+    "I often consider the philosophical implications any question. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and straightforward solutions.": [
+      "averse to routine",
+      "avoids complexity",
+      "craves novelty",
+      "introduces metaphysics",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and direct solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on basics",
+      "introduces metaphysics",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I seek unique experiences and something different than what has been done before. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "averse to routine",
+      "avoids innovation",
+      "conservative in responses",
+      "craves novelty",
+      "introduces metaphysics",
+      "limits originality",
+      "reflects deeply",
+      "reliant on proven methods"
+    ],
+    "I often consider the philosophical implications any question. I strongly value personal preference and creativity when answering a question. I always answer questions with traditional solutions.": [
+      "encourages originality",
+      "introduces metaphysics",
+      "prioritizes individuality",
+      "provides classic answers",
+      "reflects deeply",
+      "reliant on established methods",
+      "respects uniqueness"
+    ],
+    "I often consider the philosophical implications any question. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "encourages originality",
+      "introduces metaphysics",
+      "prefers direct solutions",
+      "prioritizes individuality",
+      "provides simple answers",
+      "reflects deeply",
+      "respects uniqueness"
+    ],
+    "I often consider the philosophical implications any question. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "encourages originality",
+      "focuses on basics",
+      "introduces metaphysics",
+      "limits solution complexity",
+      "prioritizes individuality",
+      "provides straightforward answers",
+      "reflects deeply",
+      "respects uniqueness"
+    ],
+    "I often consider the philosophical implications any question. I strongly value personal preference and creativity when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "encourages originality",
+      "introduces metaphysics",
+      "limits originality",
+      "prioritizes individuality",
+      "reflects deeply",
+      "reliant on proven methods",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas when appropriate. I find beauty in unexpected opinions. I always answer questions with traditional solutions.": [
+      "explores abstract concepts",
+      "expresses appreciation for unconventional views",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "I always discuss abstract ideas when appropriate. I find beauty in unexpected opinions. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "explores abstract concepts",
+      "expresses appreciation for unconventional views",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "I always discuss abstract ideas when appropriate. I find beauty in unexpected opinions. I always answer questions with the most basic and direct solutions.": [
+      "explores abstract concepts",
+      "expresses appreciation for unconventional views",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "I always discuss abstract ideas when appropriate. I find beauty in unexpected opinions. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "explores abstract concepts",
+      "expresses appreciation for unconventional views",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "I always discuss abstract ideas when appropriate. Answers are subjective and really depend on personal preference. I always answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "explores abstract concepts",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity",
+      "reliant on established methods"
+    ],
+    "I always discuss abstract ideas when appropriate. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and straightforward solutions.": [
+      "acknowledges personal views",
+      "avoids complexity",
+      "explores abstract concepts",
+      "inclusively framed answers",
+      "prefers direct solutions",
+      "provides simple answers",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas when appropriate. Answers are subjective and really depend on personal preference. I always answer questions with the most basic and direct solutions.": [
+      "acknowledges personal views",
+      "explores abstract concepts",
+      "focuses on basics",
+      "inclusively framed answers",
+      "limits solution complexity",
+      "provides straightforward answers",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas when appropriate. Answers are subjective and really depend on personal preference. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "acknowledges personal views",
+      "avoids innovation",
+      "conservative in responses",
+      "explores abstract concepts",
+      "inclusively framed answers",
+      "limits originality",
+      "reflects subjectivity",
+      "reliant on proven methods"
+    ],
+    "I always discuss abstract ideas when appropriate. I seek unique experiences and something different than what has been done before. I always answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores abstract concepts",
+      "provides classic answers",
+      "reliant on established methods"
+    ],
+    "I always discuss abstract ideas when appropriate. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and straightforward solutions.": [
+      "averse to routine",
+      "avoids complexity",
+      "craves novelty",
+      "explores abstract concepts",
+      "prefers direct solutions",
+      "provides simple answers"
+    ],
+    "I always discuss abstract ideas when appropriate. I seek unique experiences and something different than what has been done before. I always answer questions with the most basic and direct solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores abstract concepts",
+      "focuses on basics",
+      "limits solution complexity",
+      "provides straightforward answers"
+    ],
+    "I always discuss abstract ideas when appropriate. I seek unique experiences and something different than what has been done before. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "averse to routine",
+      "avoids innovation",
+      "conservative in responses",
+      "craves novelty",
+      "explores abstract concepts",
+      "limits originality",
+      "reliant on proven methods"
+    ],
+    "I always discuss abstract ideas when appropriate. I strongly value personal preference and creativity when answering a question. I always answer questions with traditional solutions.": [
+      "encourages originality",
+      "explores abstract concepts",
+      "prioritizes individuality",
+      "provides classic answers",
+      "reliant on established methods",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas when appropriate. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and straightforward solutions.": [
+      "avoids complexity",
+      "encourages originality",
+      "explores abstract concepts",
+      "prefers direct solutions",
+      "prioritizes individuality",
+      "provides simple answers",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas when appropriate. I strongly value personal preference and creativity when answering a question. I always answer questions with the most basic and direct solutions.": [
+      "encourages originality",
+      "explores abstract concepts",
+      "focuses on basics",
+      "limits solution complexity",
+      "prioritizes individuality",
+      "provides straightforward answers",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas when appropriate. I strongly value personal preference and creativity when answering a question. I rarely answer questions with new ideas and prefer to stick with the tried and true solutions.": [
+      "avoids innovation",
+      "conservative in responses",
+      "encourages originality",
+      "explores abstract concepts",
+      "limits originality",
+      "prioritizes individuality",
+      "reliant on proven methods",
+      "respects uniqueness"
+    ]
+  }
+}

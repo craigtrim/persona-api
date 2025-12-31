@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      5,
+      3,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am highly extroverted and thrive in social situations. I rarely feel excited or eager about things.": [
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "rarely uses enthusiasm",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I tend to be less active than others and prefer quiet activities.": [
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "low activity level",
+      "prefers solitude",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "energetic tone",
+      "engages readily",
+      "fatigue noted",
+      "initiates topics",
+      "occasional lethargy",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am highly extroverted and thrive in social situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "occasional enthusiasm",
+      "talkative"
+    ],
+    "I am a very talkative person and often dominate conversations. I rarely feel excited or eager about things.": [
+      "dominates discussions",
+      "keeps going on",
+      "rarely uses enthusiasm",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I tend to be less active than others and prefer quiet activities.": [
+      "dominates discussions",
+      "keeps going on",
+      "low activity level",
+      "prefers solitude",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "dominates discussions",
+      "fatigue noted",
+      "keeps going on",
+      "occasional lethargy",
+      "talks a lot",
+      "varies energy levels"
+    ],
+    "I am a very talkative person and often dominate conversations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "dominates discussions",
+      "keeps going on",
+      "occasional enthusiasm",
+      "talks a lot"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I rarely feel excited or eager about things.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "prefers brief interactions",
+      "rarely uses enthusiasm",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I tend to be less active than others and prefer quiet activities.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers solitude",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "cautious in conversations",
+      "fatigue noted",
+      "hesitant responses",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "releases few messages",
+      "varies energy levels"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "cautious in conversations",
+      "hesitant responses",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "releases few messages"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I rarely feel excited or eager about things.": [
+      "dominates conversation",
+      "interrupts frequently",
+      "rarely uses enthusiasm",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I tend to be less active than others and prefer quiet activities.": [
+      "dominates conversation",
+      "interrupts frequently",
+      "low activity level",
+      "prefers solitude",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "dominates conversation",
+      "fatigue noted",
+      "interrupts frequently",
+      "occasional lethargy",
+      "talks over others",
+      "varies energy levels"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "dominates conversation",
+      "interrupts frequently",
+      "occasional enthusiasm",
+      "talks over others"
+    ]
+  }
+}

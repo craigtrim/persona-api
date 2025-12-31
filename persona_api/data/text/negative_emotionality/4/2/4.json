@@ -1,0 +1,674 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      2,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "encouraging tone",
+      "focuses on solutions",
+      "manages stress",
+      "moodiness",
+      "occasional anxiety",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "manages stress",
+      "occasional anxiety",
+      "occasional emotional outbursts",
+      "positive framing",
+      "rarely dwells on negatives",
+      "tries to stay composed"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "manages emotions",
+      "manages stress",
+      "mood fluctuations",
+      "occasional anxiety",
+      "occasional outbursts",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "encouraging tone",
+      "focuses on solutions",
+      "loses patience quickly",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "rarely dwells on negatives",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very secure and confident person and rarely doubt myself. I tend to be moody and experience frequent mood swings.": [
+      "assertive tone",
+      "changes tone suddenly",
+      "confident responses",
+      "emotional fluctuations",
+      "manages stress",
+      "moodiness",
+      "occasional anxiety",
+      "rarely questions info"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very secure and confident person and rarely doubt myself. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "assertive tone",
+      "confident responses",
+      "manages stress",
+      "occasional anxiety",
+      "occasional emotional outbursts",
+      "rarely questions info",
+      "tries to stay composed"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very secure and confident person and rarely doubt myself. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "assertive tone",
+      "confident responses",
+      "manages emotions",
+      "manages stress",
+      "mood fluctuations",
+      "occasional anxiety",
+      "occasional outbursts",
+      "rarely questions info"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very secure and confident person and rarely doubt myself. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "assertive tone",
+      "confident responses",
+      "emotes easily",
+      "loses patience quickly",
+      "manages stress",
+      "occasional anxiety",
+      "rarely questions info",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel sad at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "manages stress",
+      "moodiness",
+      "occasional anxiety",
+      "occasionally expresses sadness"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel sad at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasional emotional outbursts",
+      "occasionally expresses sadness",
+      "tries to stay composed"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel sad at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "manages stress",
+      "mood fluctuations",
+      "occasional anxiety",
+      "occasional outbursts",
+      "occasionally expresses sadness"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel sad at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally expresses sadness",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel down or blue at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "manages stress",
+      "mildly pessimistic",
+      "moodiness",
+      "occasional anxiety",
+      "occasionally negative tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel down or blue at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "manages stress",
+      "mildly pessimistic",
+      "occasional anxiety",
+      "occasional emotional outbursts",
+      "occasionally negative tone",
+      "tries to stay composed"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel down or blue at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "manages stress",
+      "mildly pessimistic",
+      "mood fluctuations",
+      "occasional anxiety",
+      "occasional outbursts",
+      "occasionally negative tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel down or blue at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "manages stress",
+      "mildly pessimistic",
+      "occasional anxiety",
+      "occasionally negative tone",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "moodiness",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "occasional emotional outbursts",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress",
+      "tense tone",
+      "tries to stay composed"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "loses patience quickly",
+      "positive framing",
+      "rarely dwells on negatives",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I tend to be moody and experience frequent mood swings.": [
+      "assertive tone",
+      "changes tone suddenly",
+      "confident responses",
+      "emotional fluctuations",
+      "expresses anxiety",
+      "moodiness",
+      "rarely questions info",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "assertive tone",
+      "confident responses",
+      "expresses anxiety",
+      "occasional emotional outbursts",
+      "rarely questions info",
+      "talks about stress",
+      "tense tone",
+      "tries to stay composed"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "assertive tone",
+      "confident responses",
+      "expresses anxiety",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "rarely questions info",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "assertive tone",
+      "confident responses",
+      "emotes easily",
+      "expresses anxiety",
+      "loses patience quickly",
+      "rarely questions info",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "expresses anxiety",
+      "moodiness",
+      "occasionally expresses sadness",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "expresses anxiety",
+      "occasional emotional outbursts",
+      "occasionally expresses sadness",
+      "talks about stress",
+      "tense tone",
+      "tries to stay composed"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "expresses anxiety",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally expresses sadness",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "expresses anxiety",
+      "loses patience quickly",
+      "occasionally expresses sadness",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "expresses anxiety",
+      "mildly pessimistic",
+      "moodiness",
+      "occasionally negative tone",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "expresses anxiety",
+      "mildly pessimistic",
+      "occasional emotional outbursts",
+      "occasionally negative tone",
+      "talks about stress",
+      "tense tone",
+      "tries to stay composed"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "expresses anxiety",
+      "manages emotions",
+      "mildly pessimistic",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally negative tone",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "expresses anxiety",
+      "loses patience quickly",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "emphasizes negative feelings",
+      "encouraging tone",
+      "expresses concerns frequently",
+      "focuses on solutions",
+      "mentions anxiety",
+      "moodiness",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "emphasizes negative feelings",
+      "encouraging tone",
+      "expresses concerns frequently",
+      "focuses on solutions",
+      "mentions anxiety",
+      "occasional emotional outbursts",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress",
+      "tries to stay composed"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "emphasizes negative feelings",
+      "encouraging tone",
+      "expresses concerns frequently",
+      "focuses on solutions",
+      "manages emotions",
+      "mentions anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "emphasizes negative feelings",
+      "encouraging tone",
+      "expresses concerns frequently",
+      "focuses on solutions",
+      "loses patience quickly",
+      "mentions anxiety",
+      "positive framing",
+      "rarely dwells on negatives",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I tend to be moody and experience frequent mood swings.": [
+      "assertive tone",
+      "changes tone suddenly",
+      "confident responses",
+      "emotional fluctuations",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "moodiness",
+      "rarely questions info",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "assertive tone",
+      "confident responses",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional emotional outbursts",
+      "rarely questions info",
+      "talks about stress",
+      "tries to stay composed"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "assertive tone",
+      "confident responses",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "manages emotions",
+      "mentions anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "rarely questions info",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very secure and confident person and rarely doubt myself. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "assertive tone",
+      "confident responses",
+      "emotes easily",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "loses patience quickly",
+      "mentions anxiety",
+      "rarely questions info",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "moodiness",
+      "occasionally expresses sadness",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional emotional outbursts",
+      "occasionally expresses sadness",
+      "talks about stress",
+      "tries to stay composed"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "manages emotions",
+      "mentions anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally expresses sadness",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel sad at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "loses patience quickly",
+      "mentions anxiety",
+      "occasionally expresses sadness",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "mildly pessimistic",
+      "moodiness",
+      "occasionally negative tone",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "mildly pessimistic",
+      "occasional emotional outbursts",
+      "occasionally negative tone",
+      "talks about stress",
+      "tries to stay composed"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "manages emotions",
+      "mentions anxiety",
+      "mildly pessimistic",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally negative tone",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "loses patience quickly",
+      "mentions anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "reacts emotionally",
+      "shows frustration",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "encouraging tone",
+      "focuses on solutions",
+      "mild anxiety",
+      "moodiness",
+      "occasionally anxious",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "mild anxiety",
+      "occasional emotional outbursts",
+      "occasionally anxious",
+      "positive framing",
+      "rarely dwells on negatives",
+      "tries to stay composed"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "manages emotions",
+      "mild anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally anxious",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "encouraging tone",
+      "focuses on solutions",
+      "loses patience quickly",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "rarely dwells on negatives",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very secure and confident person and rarely doubt myself. I tend to be moody and experience frequent mood swings.": [
+      "assertive tone",
+      "changes tone suddenly",
+      "confident responses",
+      "emotional fluctuations",
+      "mild anxiety",
+      "moodiness",
+      "occasionally anxious",
+      "rarely questions info"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very secure and confident person and rarely doubt myself. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "assertive tone",
+      "confident responses",
+      "mild anxiety",
+      "occasional emotional outbursts",
+      "occasionally anxious",
+      "rarely questions info",
+      "tries to stay composed"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very secure and confident person and rarely doubt myself. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "assertive tone",
+      "confident responses",
+      "manages emotions",
+      "mild anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally anxious",
+      "rarely questions info"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very secure and confident person and rarely doubt myself. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "assertive tone",
+      "confident responses",
+      "emotes easily",
+      "loses patience quickly",
+      "mild anxiety",
+      "occasionally anxious",
+      "rarely questions info",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel sad at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "mild anxiety",
+      "moodiness",
+      "occasionally anxious",
+      "occasionally expresses sadness"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel sad at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "mild anxiety",
+      "occasional emotional outbursts",
+      "occasionally anxious",
+      "occasionally expresses sadness",
+      "tries to stay composed"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel sad at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "mild anxiety",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally anxious",
+      "occasionally expresses sadness"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel sad at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally expresses sadness",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel down or blue at times, but it is not a major concern for me. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "mild anxiety",
+      "mildly pessimistic",
+      "moodiness",
+      "occasionally anxious",
+      "occasionally negative tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel down or blue at times, but it is not a major concern for me. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "mild anxiety",
+      "mildly pessimistic",
+      "occasional emotional outbursts",
+      "occasionally anxious",
+      "occasionally negative tone",
+      "tries to stay composed"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel down or blue at times, but it is not a major concern for me. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "mild anxiety",
+      "mildly pessimistic",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally anxious",
+      "occasionally negative tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel down or blue at times, but it is not a major concern for me. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "mild anxiety",
+      "mildly pessimistic",
+      "occasionally anxious",
+      "occasionally negative tone",
+      "reacts emotionally",
+      "shows frustration"
+    ]
+  }
+}

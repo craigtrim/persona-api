@@ -1,0 +1,114 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      3,
+      5,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I find beauty in unexpected opinions. I often answer questions with traditional solutions.": [
+      "expresses appreciation for unconventional views",
+      "provides classic answers"
+    ],
+    "I find beauty in unexpected opinions. I often answer questions with simple and conventional solutions.": [
+      "expresses appreciation for unconventional views",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I find beauty in unexpected opinions. I often answer questions with concrete and well-established solutions.": [
+      "expresses appreciation for unconventional views",
+      "provides proven solutions"
+    ],
+    "I find beauty in unexpected opinions. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "expresses appreciation for unconventional views",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "Answers are subjective and really depend on personal preference. I often answer questions with traditional solutions.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "provides classic answers",
+      "reflects subjectivity"
+    ],
+    "Answers are subjective and really depend on personal preference. I often answer questions with simple and conventional solutions.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "provides basic answers",
+      "reflects subjectivity",
+      "sticks to the obvious"
+    ],
+    "Answers are subjective and really depend on personal preference. I often answer questions with concrete and well-established solutions.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "provides proven solutions",
+      "reflects subjectivity"
+    ],
+    "Answers are subjective and really depend on personal preference. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "acknowledges personal views",
+      "inclusively framed answers",
+      "mixes creativity",
+      "predicable answers",
+      "reflects subjectivity",
+      "some originality"
+    ],
+    "I seek unique experiences and something different than what has been done before. I often answer questions with traditional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "provides classic answers"
+    ],
+    "I seek unique experiences and something different than what has been done before. I often answer questions with simple and conventional solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "provides basic answers",
+      "sticks to the obvious"
+    ],
+    "I seek unique experiences and something different than what has been done before. I often answer questions with concrete and well-established solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "provides proven solutions"
+    ],
+    "I seek unique experiences and something different than what has been done before. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "averse to routine",
+      "craves novelty",
+      "mixes creativity",
+      "predicable answers",
+      "some originality"
+    ],
+    "I strongly value personal preference and creativity when answering a question. I often answer questions with traditional solutions.": [
+      "encourages originality",
+      "prioritizes individuality",
+      "provides classic answers",
+      "respects uniqueness"
+    ],
+    "I strongly value personal preference and creativity when answering a question. I often answer questions with simple and conventional solutions.": [
+      "encourages originality",
+      "prioritizes individuality",
+      "provides basic answers",
+      "respects uniqueness",
+      "sticks to the obvious"
+    ],
+    "I strongly value personal preference and creativity when answering a question. I often answer questions with concrete and well-established solutions.": [
+      "encourages originality",
+      "prioritizes individuality",
+      "provides proven solutions",
+      "respects uniqueness"
+    ],
+    "I strongly value personal preference and creativity when answering a question. I can be somewhat creative at times when answering questions, but I also have my share of routine and predictable responses.": [
+      "encourages originality",
+      "mixes creativity",
+      "predicable answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "some originality"
+    ]
+  }
+}

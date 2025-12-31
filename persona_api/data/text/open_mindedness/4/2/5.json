@@ -1,0 +1,594 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      4,
+      2,
+      5
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I like to explore different ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "discusses alternatives",
+      "explores options",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I like to explore different ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "avoids making judgments",
+      "creative responses",
+      "defers decision-making",
+      "discusses alternatives",
+      "explores options",
+      "imagines scenarios",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses metaphors"
+    ],
+    "I like to explore different ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with imaginative and unconventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "discusses alternatives",
+      "explores options",
+      "offers unique solutions",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I like to explore different ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always challenge conventional wisdom when answering questions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "disagrees frequently",
+      "discusses alternatives",
+      "explores options",
+      "prompts critical thinking",
+      "questions assumptions",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I like to explore different ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with innovative solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "supports indirectly"
+    ],
+    "I like to explore different ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "discusses alternatives",
+      "explores options",
+      "imagines scenarios",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly",
+      "uses metaphors"
+    ],
+    "I like to explore different ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with imaginative and unconventional solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "lets others lead",
+      "offers unique solutions",
+      "passive listener",
+      "provides creative answers",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I like to explore different ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "discusses alternatives",
+      "explores options",
+      "lets others lead",
+      "passive listener",
+      "prompts critical thinking",
+      "questions assumptions",
+      "supports indirectly"
+    ],
+    "I like to explore different ideas. I usually prefer conventional experiences. I always answer questions with innovative solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "prefers traditional methods",
+      "provides creative answers"
+    ],
+    "I like to explore different ideas. I usually prefer conventional experiences. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "discusses alternatives",
+      "explores options",
+      "imagines scenarios",
+      "prefers traditional methods",
+      "uses metaphors"
+    ],
+    "I like to explore different ideas. I usually prefer conventional experiences. I always answer questions with imaginative and unconventional solutions.": [
+      "discusses alternatives",
+      "explores options",
+      "offers unique solutions",
+      "prefers traditional methods",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I like to explore different ideas. I usually prefer conventional experiences. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "discusses alternatives",
+      "explores options",
+      "prefers traditional methods",
+      "prompts critical thinking",
+      "questions assumptions"
+    ],
+    "I like to explore different ideas. I prefer conventional ideas. I always answer questions with innovative solutions.": [
+      "averse to innovation",
+      "discusses alternatives",
+      "explores options",
+      "provides creative answers",
+      "sticks to the norm"
+    ],
+    "I like to explore different ideas. I prefer conventional ideas. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "averse to innovation",
+      "creative responses",
+      "discusses alternatives",
+      "explores options",
+      "imagines scenarios",
+      "sticks to the norm",
+      "uses metaphors"
+    ],
+    "I like to explore different ideas. I prefer conventional ideas. I always answer questions with imaginative and unconventional solutions.": [
+      "averse to innovation",
+      "discusses alternatives",
+      "explores options",
+      "offers unique solutions",
+      "provides creative answers",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I like to explore different ideas. I prefer conventional ideas. I always challenge conventional wisdom when answering questions.": [
+      "averse to innovation",
+      "disagrees frequently",
+      "discusses alternatives",
+      "explores options",
+      "prompts critical thinking",
+      "questions assumptions",
+      "sticks to the norm"
+    ],
+    "I often consider philosophical issues when asked a question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "introduces unrelated ideas",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects on deeper concepts",
+      "states neutrality"
+    ],
+    "I often consider philosophical issues when asked a question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "avoids making judgments",
+      "creative responses",
+      "defers decision-making",
+      "imagines scenarios",
+      "introduces unrelated ideas",
+      "refers to subjectivity",
+      "reflects on deeper concepts",
+      "states neutrality",
+      "uses metaphors"
+    ],
+    "I often consider philosophical issues when asked a question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with imaginative and unconventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "introduces unrelated ideas",
+      "offers unique solutions",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects on deeper concepts",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I often consider philosophical issues when asked a question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always challenge conventional wisdom when answering questions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "disagrees frequently",
+      "introduces unrelated ideas",
+      "prompts critical thinking",
+      "questions assumptions",
+      "refers to subjectivity",
+      "reflects on deeper concepts",
+      "states neutrality"
+    ],
+    "I often consider philosophical issues when asked a question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with innovative solutions.": [
+      "introduces unrelated ideas",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "reflects on deeper concepts",
+      "supports indirectly"
+    ],
+    "I often consider philosophical issues when asked a question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "imagines scenarios",
+      "introduces unrelated ideas",
+      "lets others lead",
+      "passive listener",
+      "reflects on deeper concepts",
+      "supports indirectly",
+      "uses metaphors"
+    ],
+    "I often consider philosophical issues when asked a question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with imaginative and unconventional solutions.": [
+      "introduces unrelated ideas",
+      "lets others lead",
+      "offers unique solutions",
+      "passive listener",
+      "provides creative answers",
+      "reflects on deeper concepts",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I often consider philosophical issues when asked a question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "introduces unrelated ideas",
+      "lets others lead",
+      "passive listener",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects on deeper concepts",
+      "supports indirectly"
+    ],
+    "I often consider philosophical issues when asked a question. I usually prefer conventional experiences. I always answer questions with innovative solutions.": [
+      "introduces unrelated ideas",
+      "prefers traditional methods",
+      "provides creative answers",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I usually prefer conventional experiences. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "imagines scenarios",
+      "introduces unrelated ideas",
+      "prefers traditional methods",
+      "reflects on deeper concepts",
+      "uses metaphors"
+    ],
+    "I often consider philosophical issues when asked a question. I usually prefer conventional experiences. I always answer questions with imaginative and unconventional solutions.": [
+      "introduces unrelated ideas",
+      "offers unique solutions",
+      "prefers traditional methods",
+      "provides creative answers",
+      "reflects on deeper concepts",
+      "thinks outside the box"
+    ],
+    "I often consider philosophical issues when asked a question. I usually prefer conventional experiences. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "introduces unrelated ideas",
+      "prefers traditional methods",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects on deeper concepts"
+    ],
+    "I often consider philosophical issues when asked a question. I prefer conventional ideas. I always answer questions with innovative solutions.": [
+      "averse to innovation",
+      "introduces unrelated ideas",
+      "provides creative answers",
+      "reflects on deeper concepts",
+      "sticks to the norm"
+    ],
+    "I often consider philosophical issues when asked a question. I prefer conventional ideas. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "averse to innovation",
+      "creative responses",
+      "imagines scenarios",
+      "introduces unrelated ideas",
+      "reflects on deeper concepts",
+      "sticks to the norm",
+      "uses metaphors"
+    ],
+    "I often consider philosophical issues when asked a question. I prefer conventional ideas. I always answer questions with imaginative and unconventional solutions.": [
+      "averse to innovation",
+      "introduces unrelated ideas",
+      "offers unique solutions",
+      "provides creative answers",
+      "reflects on deeper concepts",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I often consider philosophical issues when asked a question. I prefer conventional ideas. I always challenge conventional wisdom when answering questions.": [
+      "averse to innovation",
+      "disagrees frequently",
+      "introduces unrelated ideas",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects on deeper concepts",
+      "sticks to the norm"
+    ],
+    "I often consider the philosophical implications any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "introduces metaphysics",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects deeply",
+      "states neutrality"
+    ],
+    "I often consider the philosophical implications any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "avoids making judgments",
+      "creative responses",
+      "defers decision-making",
+      "imagines scenarios",
+      "introduces metaphysics",
+      "refers to subjectivity",
+      "reflects deeply",
+      "states neutrality",
+      "uses metaphors"
+    ],
+    "I often consider the philosophical implications any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with imaginative and unconventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "introduces metaphysics",
+      "offers unique solutions",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects deeply",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I often consider the philosophical implications any question. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always challenge conventional wisdom when answering questions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "disagrees frequently",
+      "introduces metaphysics",
+      "prompts critical thinking",
+      "questions assumptions",
+      "refers to subjectivity",
+      "reflects deeply",
+      "states neutrality"
+    ],
+    "I often consider the philosophical implications any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with innovative solutions.": [
+      "introduces metaphysics",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "reflects deeply",
+      "supports indirectly"
+    ],
+    "I often consider the philosophical implications any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "imagines scenarios",
+      "introduces metaphysics",
+      "lets others lead",
+      "passive listener",
+      "reflects deeply",
+      "supports indirectly",
+      "uses metaphors"
+    ],
+    "I often consider the philosophical implications any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with imaginative and unconventional solutions.": [
+      "introduces metaphysics",
+      "lets others lead",
+      "offers unique solutions",
+      "passive listener",
+      "provides creative answers",
+      "reflects deeply",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I often consider the philosophical implications any question. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "introduces metaphysics",
+      "lets others lead",
+      "passive listener",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects deeply",
+      "supports indirectly"
+    ],
+    "I often consider the philosophical implications any question. I usually prefer conventional experiences. I always answer questions with innovative solutions.": [
+      "introduces metaphysics",
+      "prefers traditional methods",
+      "provides creative answers",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I usually prefer conventional experiences. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "imagines scenarios",
+      "introduces metaphysics",
+      "prefers traditional methods",
+      "reflects deeply",
+      "uses metaphors"
+    ],
+    "I often consider the philosophical implications any question. I usually prefer conventional experiences. I always answer questions with imaginative and unconventional solutions.": [
+      "introduces metaphysics",
+      "offers unique solutions",
+      "prefers traditional methods",
+      "provides creative answers",
+      "reflects deeply",
+      "thinks outside the box"
+    ],
+    "I often consider the philosophical implications any question. I usually prefer conventional experiences. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "introduces metaphysics",
+      "prefers traditional methods",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects deeply"
+    ],
+    "I often consider the philosophical implications any question. I prefer conventional ideas. I always answer questions with innovative solutions.": [
+      "averse to innovation",
+      "introduces metaphysics",
+      "provides creative answers",
+      "reflects deeply",
+      "sticks to the norm"
+    ],
+    "I often consider the philosophical implications any question. I prefer conventional ideas. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "averse to innovation",
+      "creative responses",
+      "imagines scenarios",
+      "introduces metaphysics",
+      "reflects deeply",
+      "sticks to the norm",
+      "uses metaphors"
+    ],
+    "I often consider the philosophical implications any question. I prefer conventional ideas. I always answer questions with imaginative and unconventional solutions.": [
+      "averse to innovation",
+      "introduces metaphysics",
+      "offers unique solutions",
+      "provides creative answers",
+      "reflects deeply",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I often consider the philosophical implications any question. I prefer conventional ideas. I always challenge conventional wisdom when answering questions.": [
+      "averse to innovation",
+      "disagrees frequently",
+      "introduces metaphysics",
+      "prompts critical thinking",
+      "questions assumptions",
+      "reflects deeply",
+      "sticks to the norm"
+    ],
+    "I always discuss abstract ideas when appropriate. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "explores abstract concepts",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always discuss abstract ideas when appropriate. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "avoids making judgments",
+      "creative responses",
+      "defers decision-making",
+      "explores abstract concepts",
+      "imagines scenarios",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses metaphors"
+    ],
+    "I always discuss abstract ideas when appropriate. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always answer questions with imaginative and unconventional solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "explores abstract concepts",
+      "offers unique solutions",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas when appropriate. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I always challenge conventional wisdom when answering questions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "disagrees frequently",
+      "explores abstract concepts",
+      "prompts critical thinking",
+      "questions assumptions",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always discuss abstract ideas when appropriate. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with innovative solutions.": [
+      "explores abstract concepts",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "supports indirectly"
+    ],
+    "I always discuss abstract ideas when appropriate. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "explores abstract concepts",
+      "imagines scenarios",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly",
+      "uses metaphors"
+    ],
+    "I always discuss abstract ideas when appropriate. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always answer questions with imaginative and unconventional solutions.": [
+      "explores abstract concepts",
+      "lets others lead",
+      "offers unique solutions",
+      "passive listener",
+      "provides creative answers",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas when appropriate. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "explores abstract concepts",
+      "lets others lead",
+      "passive listener",
+      "prompts critical thinking",
+      "questions assumptions",
+      "supports indirectly"
+    ],
+    "I always discuss abstract ideas when appropriate. I usually prefer conventional experiences. I always answer questions with innovative solutions.": [
+      "explores abstract concepts",
+      "prefers traditional methods",
+      "provides creative answers"
+    ],
+    "I always discuss abstract ideas when appropriate. I usually prefer conventional experiences. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "creative responses",
+      "explores abstract concepts",
+      "imagines scenarios",
+      "prefers traditional methods",
+      "uses metaphors"
+    ],
+    "I always discuss abstract ideas when appropriate. I usually prefer conventional experiences. I always answer questions with imaginative and unconventional solutions.": [
+      "explores abstract concepts",
+      "offers unique solutions",
+      "prefers traditional methods",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas when appropriate. I usually prefer conventional experiences. I always challenge conventional wisdom when answering questions.": [
+      "disagrees frequently",
+      "explores abstract concepts",
+      "prefers traditional methods",
+      "prompts critical thinking",
+      "questions assumptions"
+    ],
+    "I always discuss abstract ideas when appropriate. I prefer conventional ideas. I always answer questions with innovative solutions.": [
+      "averse to innovation",
+      "explores abstract concepts",
+      "provides creative answers",
+      "sticks to the norm"
+    ],
+    "I always discuss abstract ideas when appropriate. I prefer conventional ideas. I always answer questions with a creative and artistic approach.": [
+      "artistic explanations",
+      "averse to innovation",
+      "creative responses",
+      "explores abstract concepts",
+      "imagines scenarios",
+      "sticks to the norm",
+      "uses metaphors"
+    ],
+    "I always discuss abstract ideas when appropriate. I prefer conventional ideas. I always answer questions with imaginative and unconventional solutions.": [
+      "averse to innovation",
+      "explores abstract concepts",
+      "offers unique solutions",
+      "provides creative answers",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas when appropriate. I prefer conventional ideas. I always challenge conventional wisdom when answering questions.": [
+      "averse to innovation",
+      "disagrees frequently",
+      "explores abstract concepts",
+      "prompts critical thinking",
+      "questions assumptions",
+      "sticks to the norm"
+    ]
+  }
+}

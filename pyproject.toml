@@ -30,6 +30,7 @@ rdflib = "^7.0.0"
 fastapi = "^0.115.0"
 uvicorn = "^0.32.0"
 pydantic = "^2.0.0"
+requests = "^2.32.5"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.20.0"
@@ -39,6 +40,8 @@ ruff = "*"
 [tool.poetry.scripts]
 random-facet = "persona_api.cli_random_facet:main"
 resolve-facet = "persona_api.cli_resolve_facet:main"
+resolve-behavior = "persona_api.cli_resolve_behavior:main"
+generate-profile = "persona_api.cli_generate_profile:main"
 
 [tool.poetry.build]
 generate-setup-file = true

@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      3,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I always explore different ideas. I often answer questions with innovative solutions.": [
+      "explores multiple options",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore different ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "explores multiple options",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore different ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "explores multiple options",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore different ideas. I tend to answer questions with original and innovative solutions.": [
+      "explores multiple options",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I often answer questions with innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore the philosophical issues for for any question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore the philosophical issues for for any question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore the philosophical issues for for any question. I tend to answer questions with original and innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always consider deep philosophical implications any question. I often answer questions with innovative solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "provides creative answers",
+      "thinks deeply",
+      "thinks outside the box"
+    ],
+    "I always consider deep philosophical implications any question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I tend to answer questions with original and innovative solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "provides creative answers",
+      "seeks unique solutions",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. I often answer questions with innovative solutions.": [
+      "focuses on theories",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "focuses on theories",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always discuss abstract ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "focuses on theories",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always discuss abstract ideas. I tend to answer questions with original and innovative solutions.": [
+      "focuses on theories",
+      "provides creative answers",
+      "seeks unique solutions"
+    ]
+  }
+}

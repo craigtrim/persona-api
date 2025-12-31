@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am an extremely unexcitable person and almost never feel eager or enthusiastic.": [
+      "flat tone",
+      "lacks excitement",
+      "unenthusiastic"
+    ],
+    "I am an extremely inactive person and struggle with physical activity on a regular basis.": [
+      "needs encouragement",
+      "rarely initiates actions",
+      "responds minimally to prompts"
+    ],
+    "I am a very low-energy person and often struggle to get motivated.": [
+      "lacks initiative",
+      "low energy",
+      "requires prodding",
+      "sluggish responses"
+    ],
+    "I rarely show enthusiasm and often come across as disinterested or apathetic.": [
+      "appears indifferent",
+      "detached tone",
+      "lacks excitement",
+      "unenthusiastic responses"
+    ]
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      1,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely optimistic person and always try to find the silver lining in any situation. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "focuses on benefits",
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "focuses on benefits",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stoic responses",
+      "upbeat tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely optimistic person and always try to find the silver lining in any situation. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "focuses on benefits",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "projects calmness",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely optimistic person and always try to find the silver lining in any situation. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "focuses on benefits",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely self-assured person and always feel confident in myself and my abilities. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assures frequently",
+      "highly assertive tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "overconfident responses",
+      "self-assured language"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "manages stress",
+      "occasional anxiety",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely self-assured person and always feel confident in myself and my abilities. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assures frequently",
+      "composed demeanor",
+      "highly assertive tone",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "overconfident responses",
+      "projects calmness",
+      "self-assured language"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am an extremely self-assured person and always feel confident in myself and my abilities. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assures frequently",
+      "highly assertive tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "overconfident responses",
+      "self-assured language"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very happy person and rarely feel sad or down. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "cheerful tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely expresses negativity"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very happy person and rarely feel sad or down. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "cheerful tone",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very happy person and rarely feel sad or down. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "cheerful tone",
+      "composed demeanor",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "projects calmness",
+      "rarely expresses negativity"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very happy person and rarely feel sad or down. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "cheerful tone",
+      "manages stress",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely expresses negativity"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very positive person and rarely feel depressed or blue. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasional shifts in tone",
+      "optimistic tone",
+      "rarely negative"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very positive person and rarely feel depressed or blue. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "manages stress",
+      "occasional anxiety",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stoic responses"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very positive person and rarely feel depressed or blue. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "manages stress",
+      "occasional anxiety",
+      "optimistic tone",
+      "projects calmness",
+      "rarely negative"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very positive person and rarely feel depressed or blue. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally shows emotion",
+      "optimistic tone",
+      "rarely negative"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses anxiety",
+      "focuses on benefits",
+      "occasional shifts in tone",
+      "positive framing",
+      "sees opportunities",
+      "talks about stress",
+      "tense tone",
+      "upbeat tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses anxiety",
+      "focuses on benefits",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stoic responses",
+      "talks about stress",
+      "tense tone",
+      "upbeat tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses anxiety",
+      "focuses on benefits",
+      "keeps emotions in check",
+      "positive framing",
+      "projects calmness",
+      "sees opportunities",
+      "talks about stress",
+      "tense tone",
+      "upbeat tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses anxiety",
+      "focuses on benefits",
+      "occasionally shows emotion",
+      "positive framing",
+      "sees opportunities",
+      "talks about stress",
+      "tense tone",
+      "upbeat tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assures frequently",
+      "expresses anxiety",
+      "highly assertive tone",
+      "occasional shifts in tone",
+      "overconfident responses",
+      "self-assured language",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assures frequently",
+      "calm tone",
+      "expresses anxiety",
+      "highly assertive tone",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assures frequently",
+      "composed demeanor",
+      "expresses anxiety",
+      "highly assertive tone",
+      "keeps emotions in check",
+      "overconfident responses",
+      "projects calmness",
+      "self-assured language",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assures frequently",
+      "expresses anxiety",
+      "highly assertive tone",
+      "occasionally shows emotion",
+      "overconfident responses",
+      "self-assured language",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very happy person and rarely feel sad or down. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "cheerful tone",
+      "expresses anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely expresses negativity",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very happy person and rarely feel sad or down. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "cheerful tone",
+      "expresses anxiety",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very happy person and rarely feel sad or down. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "cheerful tone",
+      "composed demeanor",
+      "expresses anxiety",
+      "keeps emotions in check",
+      "positive framing",
+      "projects calmness",
+      "rarely expresses negativity",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very happy person and rarely feel sad or down. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "cheerful tone",
+      "expresses anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely expresses negativity",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "expresses anxiety",
+      "occasional shifts in tone",
+      "optimistic tone",
+      "rarely negative",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "expresses anxiety",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stoic responses",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "expresses anxiety",
+      "keeps emotions in check",
+      "optimistic tone",
+      "projects calmness",
+      "rarely negative",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "expresses anxiety",
+      "occasionally shows emotion",
+      "optimistic tone",
+      "rarely negative",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "focuses on benefits",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "sees opportunities",
+      "talks about stress",
+      "upbeat tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "focuses on benefits",
+      "mentions anxiety",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stoic responses",
+      "talks about stress",
+      "upbeat tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "focuses on benefits",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "positive framing",
+      "projects calmness",
+      "sees opportunities",
+      "talks about stress",
+      "upbeat tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "focuses on benefits",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "sees opportunities",
+      "talks about stress",
+      "upbeat tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assures frequently",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "highly assertive tone",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "overconfident responses",
+      "self-assured language",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assures frequently",
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "highly assertive tone",
+      "mentions anxiety",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assures frequently",
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "highly assertive tone",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "overconfident responses",
+      "projects calmness",
+      "self-assured language",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assures frequently",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "highly assertive tone",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "overconfident responses",
+      "self-assured language",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very happy person and rarely feel sad or down. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "cheerful tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "positive framing",
+      "rarely expresses negativity",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very happy person and rarely feel sad or down. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "cheerful tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very happy person and rarely feel sad or down. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "cheerful tone",
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "positive framing",
+      "projects calmness",
+      "rarely expresses negativity",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very happy person and rarely feel sad or down. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "cheerful tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely expresses negativity",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasional shifts in tone",
+      "optimistic tone",
+      "rarely negative",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stoic responses",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "keeps emotions in check",
+      "mentions anxiety",
+      "optimistic tone",
+      "projects calmness",
+      "rarely negative",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very positive person and rarely feel depressed or blue. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally shows emotion",
+      "optimistic tone",
+      "rarely negative",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "focuses on benefits",
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "positive framing",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "focuses on benefits",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses emotions",
+      "sees opportunities",
+      "stoic responses",
+      "upbeat tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "focuses on benefits",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "projects calmness",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely optimistic person and always try to find the silver lining in any situation. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "focuses on benefits",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "positive framing",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "assures frequently",
+      "highly assertive tone",
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "overconfident responses",
+      "self-assured language"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "overconfident responses",
+      "rarely expresses emotions",
+      "self-assured language",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "assures frequently",
+      "composed demeanor",
+      "highly assertive tone",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "overconfident responses",
+      "projects calmness",
+      "self-assured language"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am an extremely self-assured person and always feel confident in myself and my abilities. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "assures frequently",
+      "highly assertive tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "overconfident responses",
+      "self-assured language"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very happy person and rarely feel sad or down. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "cheerful tone",
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses negativity"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very happy person and rarely feel sad or down. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "cheerful tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "rarely expresses emotions",
+      "rarely expresses negativity",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very happy person and rarely feel sad or down. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "cheerful tone",
+      "composed demeanor",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "projects calmness",
+      "rarely expresses negativity"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very happy person and rarely feel sad or down. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "cheerful tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "positive framing",
+      "rarely expresses negativity"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very positive person and rarely feel depressed or blue. I can have mood swings at times, but they are not a common occurrence for me.": [
+      "mild anxiety",
+      "occasional shifts in tone",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely negative"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very positive person and rarely feel depressed or blue. I am a very emotionally stable person and rarely get upset or overwhelmed.": [
+      "calm tone",
+      "mild anxiety",
+      "occasionally anxious",
+      "optimistic tone",
+      "rarely expresses emotions",
+      "rarely negative",
+      "stoic responses"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very positive person and rarely feel depressed or blue. I tend to keep my emotions under control and am often seen as calm and composed.": [
+      "composed demeanor",
+      "keeps emotions in check",
+      "mild anxiety",
+      "occasionally anxious",
+      "optimistic tone",
+      "projects calmness",
+      "rarely negative"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very positive person and rarely feel depressed or blue. I can get emotional at times, but it is not a major characteristic of mine.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally shows emotion",
+      "optimistic tone",
+      "rarely negative"
+    ]
+  }
+}

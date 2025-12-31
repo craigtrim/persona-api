@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      3,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I have very extreme mood swings and my emotions can be difficult to control.": [
+      "emotional volatility",
+      "mood changes rapidly",
+      "unpredictable tone"
+    ],
+    "I am a very emotionally unstable person and frequently get upset or overwhelmed.": [
+      "can become upset easily",
+      "emotional outbursts",
+      "reacts suddenly",
+      "shows frustration"
+    ],
+    "I am a very emotional person and often struggle to keep my feelings under control.": [
+      "expresses emotions",
+      "may become passionate",
+      "shares feelings openly"
+    ],
+    "I am an extremely temperamental and emotionally reactive person and often have intense emotional reactions to even minor events or situations.": [
+      "highly emotive responses",
+      "intense emotions",
+      "quick tempers",
+      "reacts strongly"
+    ]
+  }
+}

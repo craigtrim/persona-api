@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      4,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "calm demeanor",
+      "handles stress well",
+      "occasionally downcast",
+      "quickly recovers",
+      "relaxed tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "calm demeanor",
+      "handles stress well",
+      "occasionally self-doubting",
+      "overall confident",
+      "relaxed tone"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "calm demeanor",
+      "discusses mental health",
+      "expresses sadness",
+      "handles stress well",
+      "may need support",
+      "relaxed tone",
+      "shares personal struggles"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "calm demeanor",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "handles stress well",
+      "relaxed tone",
+      "shares personal struggles"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "occasional tension",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "occasional tension",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "occasional tension",
+      "shares personal struggles"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "occasional tension",
+      "shares personal struggles"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "keeps worries contained",
+      "occasionally anxious",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "keeps worries contained",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "keeps worries contained",
+      "may need support",
+      "occasionally anxious",
+      "shares personal struggles"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps worries contained",
+      "occasionally anxious",
+      "shares personal struggles"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "keeps cool",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely panics",
+      "remains calm"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "keeps cool",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely panics",
+      "remains calm"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "keeps cool",
+      "may need support",
+      "rarely panics",
+      "remains calm",
+      "shares personal struggles"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "keeps cool",
+      "rarely panics",
+      "remains calm",
+      "shares personal struggles"
+    ]
+  }
+}

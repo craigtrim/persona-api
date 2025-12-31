@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      2,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "reserves authority",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "engages easily",
+      "follows instructions",
+      "friendly tone",
+      "initiates topics",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "engages easily",
+      "friendly tone",
+      "gentle tone",
+      "initiates topics",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "engages easily",
+      "follows leadership",
+      "friendly tone",
+      "initiates topics",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "chatty at times",
+      "lets others speak",
+      "reserves authority"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "chatty at times",
+      "follows instructions",
+      "lets others speak"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "chatty at times",
+      "difficult persuading",
+      "gentle tone",
+      "lets others speak",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "chatty at times",
+      "follows leadership",
+      "lets others speak",
+      "prefers collaborative roles",
+      "relies on group dynamics"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "few personal comments",
+      "prefers brief interactions",
+      "reserved tone",
+      "reserves authority",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "few personal comments",
+      "follows instructions",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "few personal comments",
+      "gentle tone",
+      "prefers brief interactions",
+      "reserved tone",
+      "soft-spoken",
+      "struggles to assert",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "few personal comments",
+      "follows leadership",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "chatty",
+      "dominates conversation",
+      "opinionated",
+      "reserves authority",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "chatty",
+      "dominates conversation",
+      "follows instructions",
+      "opinionated",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "chatty",
+      "difficult persuading",
+      "dominates conversation",
+      "gentle tone",
+      "opinionated",
+      "shares extensively",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "chatty",
+      "dominates conversation",
+      "follows leadership",
+      "opinionated",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "shares extensively"
+    ]
+  }
+}

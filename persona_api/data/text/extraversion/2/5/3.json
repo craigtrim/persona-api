@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      5,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations. I have an extremely assertive personality and am always the one in control.": [
+      "asserts opinions",
+      "dominates conversations",
+      "limits input",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "takes charge"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am an extremely dominant person and often find myself in leadership positions.": [
+      "assertive tone",
+      "dominant interactions",
+      "leads discussions",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "takes charge"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I am a very influential person and often find it easy to persuade others.": [
+      "assertive tone",
+      "easily convinces others",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "strong opinions"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I prefer to take charge and be the leader in most situations.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I have an extremely assertive personality and am always the one in control.": [
+      "asserts opinions",
+      "dominates conversations",
+      "limits input",
+      "prefers listening",
+      "rarely speaks",
+      "takes charge"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am an extremely dominant person and often find myself in leadership positions.": [
+      "assertive tone",
+      "dominant interactions",
+      "leads discussions",
+      "prefers listening",
+      "rarely speaks",
+      "takes charge"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I am a very influential person and often find it easy to persuade others.": [
+      "assertive tone",
+      "easily convinces others",
+      "prefers listening",
+      "rarely speaks",
+      "strong opinions"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I prefer to take charge and be the leader in most situations.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I have an extremely assertive personality and am always the one in control.": [
+      "asserts opinions",
+      "dominates conversations",
+      "limits input",
+      "occasionally quiet",
+      "socially confident",
+      "takes charge"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am an extremely dominant person and often find myself in leadership positions.": [
+      "assertive tone",
+      "dominant interactions",
+      "leads discussions",
+      "occasionally quiet",
+      "socially confident",
+      "takes charge"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I am a very influential person and often find it easy to persuade others.": [
+      "assertive tone",
+      "easily convinces others",
+      "occasionally quiet",
+      "socially confident",
+      "strong opinions"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I prefer to take charge and be the leader in most situations.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "occasionally quiet",
+      "socially confident"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I have an extremely assertive personality and am always the one in control.": [
+      "asserts opinions",
+      "chatty periods",
+      "dominates conversations",
+      "limits input",
+      "takes charge",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am an extremely dominant person and often find myself in leadership positions.": [
+      "assertive tone",
+      "chatty periods",
+      "dominant interactions",
+      "leads discussions",
+      "takes charge",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I am a very influential person and often find it easy to persuade others.": [
+      "assertive tone",
+      "chatty periods",
+      "easily convinces others",
+      "strong opinions",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I prefer to take charge and be the leader in most situations.": [
+      "assertive leadership",
+      "chatty periods",
+      "dominant tone",
+      "guides conversations",
+      "tolerates quiet",
+      "values solitude"
+    ]
+  }
+}

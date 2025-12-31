@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      5,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I have an extremely assertive personality and am always the one in control. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "asserts opinions",
+      "dominates conversations",
+      "eager tone sparingly",
+      "limits input",
+      "occasional enthusiasm",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "asserts opinions",
+      "dominates conversations",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "limits input",
+      "participates actively",
+      "prefers calm activities",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I tend to be full of energy and enjoy being active and productive.": [
+      "asserts opinions",
+      "dominates conversations",
+      "highly energetic",
+      "keeps moving",
+      "limits input",
+      "proactive responses",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "asserts opinions",
+      "dominates conversations",
+      "eager tone",
+      "excessive detail",
+      "limits input",
+      "takes charge",
+      "uses exclamation marks"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "assertive tone",
+      "dominant interactions",
+      "eager tone sparingly",
+      "leads discussions",
+      "occasional enthusiasm",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "assertive tone",
+      "dominant interactions",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "leads discussions",
+      "participates actively",
+      "prefers calm activities",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I tend to be full of energy and enjoy being active and productive.": [
+      "assertive tone",
+      "dominant interactions",
+      "highly energetic",
+      "keeps moving",
+      "leads discussions",
+      "proactive responses",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "assertive tone",
+      "dominant interactions",
+      "eager tone",
+      "excessive detail",
+      "leads discussions",
+      "takes charge",
+      "uses exclamation marks"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "assertive tone",
+      "eager tone sparingly",
+      "easily convinces others",
+      "occasional enthusiasm",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "assertive tone",
+      "easily convinces others",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "participates actively",
+      "prefers calm activities",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I tend to be full of energy and enjoy being active and productive.": [
+      "assertive tone",
+      "easily convinces others",
+      "highly energetic",
+      "keeps moving",
+      "proactive responses",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "assertive tone",
+      "eager tone",
+      "easily convinces others",
+      "excessive detail",
+      "strong opinions",
+      "uses exclamation marks"
+    ],
+    "I prefer to take charge and be the leader in most situations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "assertive leadership",
+      "dominant tone",
+      "eager tone sparingly",
+      "guides conversations",
+      "occasional enthusiasm"
+    ],
+    "I prefer to take charge and be the leader in most situations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "assertive leadership",
+      "dominant tone",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "guides conversations",
+      "participates actively",
+      "prefers calm activities"
+    ],
+    "I prefer to take charge and be the leader in most situations. I tend to be full of energy and enjoy being active and productive.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "highly energetic",
+      "keeps moving",
+      "proactive responses"
+    ],
+    "I prefer to take charge and be the leader in most situations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "assertive leadership",
+      "dominant tone",
+      "eager tone",
+      "excessive detail",
+      "guides conversations",
+      "uses exclamation marks"
+    ]
+  }
+}

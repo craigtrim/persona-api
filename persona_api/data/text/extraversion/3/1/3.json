@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      1,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am very passive and tend to let others make decisions for me.": [
+      "defers to others",
+      "lets others decide",
+      "passive responses"
+    ],
+    "I am a very submissive person and prefer to follow others' lead.": [
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "submissive tone"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others.": [
+      "avoids influence",
+      "passive responses",
+      "rarely attempts persuasion"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations.": [
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance"
+    ]
+  }
+}

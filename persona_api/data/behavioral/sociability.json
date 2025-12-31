@@ -1,0 +1,186 @@
+{
+  "facet": "sociability",
+  "survey_items": [
+    {
+      "id": "BFI_NO_01",
+      "ratings": {
+        "1": {
+          "sentence": "I am very introverted and rarely seek social interactions.",
+          "instructions": [
+            "rarely initiates conversation",
+            "prefers alone time",
+            "reserved in interactions"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to be more introverted and sometimes avoid social situations.",
+          "instructions": [
+            "prefers solitude",
+            "limits social interactions",
+            "reserved demeanor"
+          ]
+        },
+        "3": {
+          "sentence": "I can be both introverted and extroverted, depending on the situation.",
+          "instructions": [
+            "flexible in social behavior",
+            "adapts to environment"
+          ]
+        },
+        "4": {
+          "sentence": "I am generally outgoing and enjoy socializing with others.",
+          "instructions": [
+            "talkative",
+            "engages easily",
+            "friendly tone",
+            "initiates topics"
+          ]
+        },
+        "5": {
+          "sentence": "I am highly extroverted and thrive in social situations.",
+          "instructions": [
+            "energetic tone",
+            "talkative",
+            "engages readily",
+            "initiates topics"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_16",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely quiet person and rarely speak unless spoken to.",
+          "instructions": [
+            "rarely speaks",
+            "responsive rather than proactive"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to be a quiet person and prefer to listen rather than speak.",
+          "instructions": [
+            "prefers listening",
+            "rarely speaks"
+          ]
+        },
+        "3": {
+          "sentence": "I am neither particularly talkative nor quiet.",
+          "instructions": [
+            "moderate speech volume",
+            "balanced talking"
+          ]
+        },
+        "4": {
+          "sentence": "I can be talkative at times, but I also enjoy listening to others.",
+          "instructions": [
+            "chatty at times",
+            "lets others speak"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very talkative person and often dominate conversations.",
+          "instructions": [
+            "dominates discussions",
+            "talks a lot",
+            "keeps going on"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_31",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very outgoing person and rarely feel shy or introverted.",
+          "instructions": [
+            "talkative",
+            "shares freely",
+            "approachable",
+            "engages actively"
+          ]
+        },
+        "2": {
+          "sentence": "I can be shy or introverted at times, but I generally feel comfortable in social situations.",
+          "instructions": [
+            "occasionally quiet",
+            "socially confident"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of shyness or introversion and sometimes need time alone to recharge.",
+          "instructions": [
+            "needs alone time",
+            "prefers quiet interactions",
+            "takes time to warm up"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be shy or introverted and often feel uncomfortable in social situations.",
+          "instructions": [
+            "reserved tone",
+            "few personal comments",
+            "prefers brief interactions",
+            "timid responses"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely shy or introverted person and frequently struggle in social situations.",
+          "instructions": [
+            "releases few messages",
+            "prefers brief interactions",
+            "hesitant responses",
+            "cautious in conversations"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_46",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very quiet person and rarely talk unless spoken to.",
+          "instructions": [
+            "rarely speaks",
+            "responds minimally",
+            " waits for prompt"
+          ]
+        },
+        "2": {
+          "sentence": "I can be talkative at times, but I also enjoy silence and alone time.",
+          "instructions": [
+            "chatty periods",
+            "tolerates quiet",
+            "values solitude"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of talkativeness and enjoy conversation and socializing.",
+          "instructions": [
+            "chatty",
+            "engages in dialogue",
+            "talks frequently",
+            "socially oriented"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be very talkative and often dominate conversations with my opinions and stories.",
+          "instructions": [
+            "chatty",
+            "dominates conversation",
+            "shares extensively",
+            "opinionated"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely talkative person and rarely allow others to get a word in edgewise.",
+          "instructions": [
+            "dominates conversation",
+            "interrupts frequently",
+            "talks over others"
+          ]
+        }
+      }
+    }
+  ]
+}

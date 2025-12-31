@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      3,
+      2
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others. I rarely feel excited or eager about things.": [
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "rarely uses enthusiasm",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I tend to be less active than others and prefer quiet activities.": [
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "low activity level",
+      "prefers solitude",
+      "talkative"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "engages easily",
+      "fatigue noted",
+      "friendly tone",
+      "initiates topics",
+      "occasional lethargy",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am generally outgoing and enjoy socializing with others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "occasional enthusiasm",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I rarely feel excited or eager about things.": [
+      "chatty at times",
+      "lets others speak",
+      "rarely uses enthusiasm"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I tend to be less active than others and prefer quiet activities.": [
+      "chatty at times",
+      "lets others speak",
+      "low activity level",
+      "prefers solitude"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty at times",
+      "fatigue noted",
+      "lets others speak",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty at times",
+      "lets others speak",
+      "occasional enthusiasm"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I rarely feel excited or eager about things.": [
+      "few personal comments",
+      "prefers brief interactions",
+      "rarely uses enthusiasm",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I tend to be less active than others and prefer quiet activities.": [
+      "few personal comments",
+      "low activity level",
+      "prefers brief interactions",
+      "prefers solitude",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "few personal comments",
+      "occasional lethargy",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses",
+      "varies energy levels"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "few personal comments",
+      "occasional enthusiasm",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I rarely feel excited or eager about things.": [
+      "chatty",
+      "dominates conversation",
+      "opinionated",
+      "rarely uses enthusiasm",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I tend to be less active than others and prefer quiet activities.": [
+      "chatty",
+      "dominates conversation",
+      "low activity level",
+      "opinionated",
+      "prefers solitude",
+      "shares extensively"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "chatty",
+      "dominates conversation",
+      "fatigue noted",
+      "occasional lethargy",
+      "opinionated",
+      "shares extensively",
+      "varies energy levels"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "chatty",
+      "dominates conversation",
+      "occasional enthusiasm",
+      "opinionated",
+      "shares extensively"
+    ]
+  }
+}

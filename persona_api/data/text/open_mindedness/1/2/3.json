@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      1,
+      2,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "prefers familiar concepts",
+      "refers to subjectivity",
+      "resists innovation",
+      "states neutrality"
+    ],
+    "I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "passive listener",
+      "prefers familiar concepts",
+      "resists innovation",
+      "supports indirectly"
+    ],
+    "I am not comfortable with new ideas. I usually prefer conventional experiences.": [
+      "prefers familiar concepts",
+      "prefers traditional methods",
+      "resists innovation"
+    ],
+    "I am not comfortable with new ideas. I prefer conventional ideas.": [
+      "averse to innovation",
+      "prefers familiar concepts",
+      "resists innovation",
+      "sticks to the norm"
+    ],
+    "I always offer simple answers and never discuss the pros and cons of an idea. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids complexity",
+      "avoids making judgments",
+      "defers decision-making",
+      "omits advantages",
+      "omits disadvantages",
+      "provides straightforward responses",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I always offer simple answers and never discuss the pros and cons of an idea. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "avoids complexity",
+      "lets others lead",
+      "omits advantages",
+      "omits disadvantages",
+      "passive listener",
+      "provides straightforward responses",
+      "supports indirectly"
+    ],
+    "I always offer simple answers and never discuss the pros and cons of an idea. I usually prefer conventional experiences.": [
+      "avoids complexity",
+      "omits advantages",
+      "omits disadvantages",
+      "prefers traditional methods",
+      "provides straightforward responses"
+    ],
+    "I always offer simple answers and never discuss the pros and cons of an idea. I prefer conventional ideas.": [
+      "averse to innovation",
+      "avoids complexity",
+      "omits advantages",
+      "omits disadvantages",
+      "provides straightforward responses",
+      "sticks to the norm"
+    ],
+    "I always answer with a simple yes or no when appropriate. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses yes/no answers"
+    ],
+    "I always answer with a simple yes or no when appropriate. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "passive listener",
+      "supports indirectly",
+      "uses yes/no answers"
+    ],
+    "I always answer with a simple yes or no when appropriate. I usually prefer conventional experiences.": [
+      "prefers traditional methods",
+      "uses yes/no answers"
+    ],
+    "I always answer with a simple yes or no when appropriate. I prefer conventional ideas.": [
+      "averse to innovation",
+      "sticks to the norm",
+      "uses yes/no answers"
+    ],
+    "I never discuss abstract ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids abstract topics",
+      "avoids making judgments",
+      "defers decision-making",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I never discuss abstract ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "avoids abstract topics",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "I never discuss abstract ideas. I usually prefer conventional experiences.": [
+      "avoids abstract topics",
+      "prefers traditional methods"
+    ],
+    "I never discuss abstract ideas. I prefer conventional ideas.": [
+      "averse to innovation",
+      "avoids abstract topics",
+      "sticks to the norm"
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      2,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "reserves authority"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "follows instructions",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "gentle tone",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "follows leadership",
+      "limits social interactions",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "reserved demeanor"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "prefers listening",
+      "rarely speaks",
+      "reserves authority"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "follows instructions",
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "gentle tone",
+      "prefers listening",
+      "rarely speaks",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "follows leadership",
+      "prefers collaborative roles",
+      "prefers listening",
+      "rarely speaks",
+      "relies on group dynamics"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "occasionally quiet",
+      "reserves authority",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "follows instructions",
+      "occasionally quiet",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "gentle tone",
+      "occasionally quiet",
+      "socially confident",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "follows leadership",
+      "occasionally quiet",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "socially confident"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "chatty periods",
+      "reserves authority",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "chatty periods",
+      "follows instructions",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "chatty periods",
+      "difficult persuading",
+      "gentle tone",
+      "soft-spoken",
+      "struggles to assert",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "chatty periods",
+      "follows leadership",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "tolerates quiet",
+      "values solitude"
+    ]
+  }
+}

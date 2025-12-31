@@ -1,0 +1,38 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "stable demeanor"
+    ],
+    "I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "maintains composure",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "rarely expresses emotions",
+      "stable responses"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      5,
+      2,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am highly extroverted and thrive in social situations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "energetic tone",
+      "engages readily",
+      "initiates topics",
+      "reserves authority",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "energetic tone",
+      "engages readily",
+      "follows instructions",
+      "initiates topics",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "energetic tone",
+      "engages readily",
+      "gentle tone",
+      "initiates topics",
+      "soft-spoken",
+      "struggles to assert",
+      "talkative"
+    ],
+    "I am highly extroverted and thrive in social situations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "energetic tone",
+      "engages readily",
+      "follows leadership",
+      "initiates topics",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talkative"
+    ],
+    "I am a very talkative person and often dominate conversations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "dominates discussions",
+      "keeps going on",
+      "reserves authority",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "dominates discussions",
+      "follows instructions",
+      "keeps going on",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "dominates discussions",
+      "gentle tone",
+      "keeps going on",
+      "soft-spoken",
+      "struggles to assert",
+      "talks a lot"
+    ],
+    "I am a very talkative person and often dominate conversations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "dominates discussions",
+      "follows leadership",
+      "keeps going on",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talks a lot"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "cautious in conversations",
+      "hesitant responses",
+      "prefers brief interactions",
+      "releases few messages",
+      "reserves authority"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "cautious in conversations",
+      "follows instructions",
+      "hesitant responses",
+      "prefers brief interactions",
+      "releases few messages"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "cautious in conversations",
+      "difficult persuading",
+      "gentle tone",
+      "hesitant responses",
+      "prefers brief interactions",
+      "releases few messages",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I am an extremely shy or introverted person and frequently struggle in social situations. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "cautious in conversations",
+      "follows leadership",
+      "hesitant responses",
+      "prefers brief interactions",
+      "prefers collaborative roles",
+      "releases few messages",
+      "relies on group dynamics"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "dominates conversation",
+      "interrupts frequently",
+      "reserves authority",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "dominates conversation",
+      "follows instructions",
+      "interrupts frequently",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "dominates conversation",
+      "gentle tone",
+      "interrupts frequently",
+      "soft-spoken",
+      "struggles to assert",
+      "talks over others"
+    ],
+    "I am an extremely talkative person and rarely allow others to get a word in edgewise. I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "dominates conversation",
+      "follows leadership",
+      "interrupts frequently",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "talks over others"
+    ]
+  }
+}

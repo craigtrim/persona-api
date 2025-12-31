@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      1,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I always explore different ideas. I will not offer a strong opinion.": [
+      "avoids firm statements",
+      "cautious in opinions",
+      "explores multiple options",
+      "hesitant responses"
+    ],
+    "I always explore different ideas. I answer objectively without offering my own opinion.": [
+      "explores multiple options",
+      "neutral tone",
+      "no personal views",
+      "provides facts"
+    ],
+    "I always explore different ideas. I seek conventional experiences and prefer the tried-and-true.": [
+      "conservative choices",
+      "explores multiple options",
+      "prefers familiar options",
+      "resists novelty"
+    ],
+    "I always explore different ideas. I tend to avoid new ideas.": [
+      "explores multiple options",
+      "prefers familiar concepts",
+      "resists novelty"
+    ],
+    "I always explore the philosophical issues for for any question. I will not offer a strong opinion.": [
+      "avoids firm statements",
+      "cautious in opinions",
+      "considers underlying principles",
+      "delves into deep topics",
+      "hesitant responses"
+    ],
+    "I always explore the philosophical issues for for any question. I answer objectively without offering my own opinion.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "neutral tone",
+      "no personal views",
+      "provides facts"
+    ],
+    "I always explore the philosophical issues for for any question. I seek conventional experiences and prefer the tried-and-true.": [
+      "conservative choices",
+      "considers underlying principles",
+      "delves into deep topics",
+      "prefers familiar options",
+      "resists novelty"
+    ],
+    "I always explore the philosophical issues for for any question. I tend to avoid new ideas.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "prefers familiar concepts",
+      "resists novelty"
+    ],
+    "I always consider deep philosophical implications any question. I will not offer a strong opinion.": [
+      "avoids firm statements",
+      "cautious in opinions",
+      "considers thoroughly",
+      "explores philosophy",
+      "hesitant responses",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I answer objectively without offering my own opinion.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "neutral tone",
+      "no personal views",
+      "provides facts",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek conventional experiences and prefer the tried-and-true.": [
+      "conservative choices",
+      "considers thoroughly",
+      "explores philosophy",
+      "prefers familiar options",
+      "resists novelty",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I tend to avoid new ideas.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "prefers familiar concepts",
+      "resists novelty",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. I will not offer a strong opinion.": [
+      "avoids firm statements",
+      "cautious in opinions",
+      "focuses on theories",
+      "hesitant responses"
+    ],
+    "I always discuss abstract ideas. I answer objectively without offering my own opinion.": [
+      "focuses on theories",
+      "neutral tone",
+      "no personal views",
+      "provides facts"
+    ],
+    "I always discuss abstract ideas. I seek conventional experiences and prefer the tried-and-true.": [
+      "conservative choices",
+      "focuses on theories",
+      "prefers familiar options",
+      "resists novelty"
+    ],
+    "I always discuss abstract ideas. I tend to avoid new ideas.": [
+      "focuses on theories",
+      "prefers familiar concepts",
+      "resists novelty"
+    ]
+  }
+}

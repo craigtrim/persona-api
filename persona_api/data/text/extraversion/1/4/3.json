@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      1,
+      4,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am very introverted and rarely seek social interactions. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "takes initiative"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "influential",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "respects differing opinions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am generally an assertive person and feel comfortable taking charge.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "takes initiative"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be dominant and enjoy taking charge in most situations.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "influential",
+      "rarely speaks",
+      "respects differing opinions",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "can initiate",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am generally an assertive person and feel comfortable taking charge.": [
+      "approachable",
+      "asserts opinions",
+      "dominant tone",
+      "engages actively",
+      "leads discussions",
+      "shares freely",
+      "takes initiative",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be dominant and enjoy taking charge in most situations.": [
+      "approachable",
+      "assertive tone",
+      "dominant presence",
+      "engages actively",
+      "leads discussions",
+      "makes decisions",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      "acknowledges others' views",
+      "approachable",
+      "engages actively",
+      "influential",
+      "respects differing opinions",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      "allows delegation",
+      "approachable",
+      "can initiate",
+      "engages actively",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am generally an assertive person and feel comfortable taking charge.": [
+      " waits for prompt",
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "rarely speaks",
+      "responds minimally",
+      "takes initiative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be dominant and enjoy taking charge in most situations.": [
+      " waits for prompt",
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives.": [
+      " waits for prompt",
+      "acknowledges others' views",
+      "influential",
+      "rarely speaks",
+      "respects differing opinions",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge.": [
+      " waits for prompt",
+      "allows delegation",
+      "can initiate",
+      "rarely speaks",
+      "responds minimally"
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      5,
+      5,
+      4
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I always explore different ideas. I find beauty in unexpected opinions. I often answer questions with innovative solutions.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I sometimes answer questions with a creative twist, but not consistently.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore different ideas. I find beauty in unexpected opinions. I tend to answer questions with original and innovative solutions.": [
+      "explores multiple options",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I often answer questions with innovative solutions.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "thinks outside the box"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I sometimes answer questions with a creative twist, but not consistently.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "reflects subjectivity"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "reflects subjectivity"
+    ],
+    "I always explore different ideas. Answers are subjective and really depend on personal preference. I tend to answer questions with original and innovative solutions.": [
+      "acknowledges personal views",
+      "explores multiple options",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "seeks unique solutions"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I often answer questions with innovative solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore different ideas. I seek unique experiences and something different than what has been done before. I tend to answer questions with original and innovative solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "explores multiple options",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with innovative solutions.": [
+      "encourages originality",
+      "explores multiple options",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "thinks outside the box"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "encourages originality",
+      "explores multiple options",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "encourages originality",
+      "explores multiple options",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always explore different ideas. I strongly value personal preference and creativity when answering a question. I tend to answer questions with original and innovative solutions.": [
+      "encourages originality",
+      "explores multiple options",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "seeks unique solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I often answer questions with innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore the philosophical issues for for any question. I find beauty in unexpected opinions. I tend to answer questions with original and innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I often answer questions with innovative solutions.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "thinks outside the box"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I sometimes answer questions with a creative twist, but not consistently.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "reflects subjectivity"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "reflects subjectivity"
+    ],
+    "I always explore the philosophical issues for for any question. Answers are subjective and really depend on personal preference. I tend to answer questions with original and innovative solutions.": [
+      "acknowledges personal views",
+      "considers underlying principles",
+      "delves into deep topics",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "seeks unique solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I often answer questions with innovative solutions.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always explore the philosophical issues for for any question. I seek unique experiences and something different than what has been done before. I tend to answer questions with original and innovative solutions.": [
+      "averse to routine",
+      "considers underlying principles",
+      "craves novelty",
+      "delves into deep topics",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I often answer questions with innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "thinks outside the box"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always explore the philosophical issues for for any question. I strongly value personal preference and creativity when answering a question. I tend to answer questions with original and innovative solutions.": [
+      "considers underlying principles",
+      "delves into deep topics",
+      "encourages originality",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "seeks unique solutions"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I often answer questions with innovative solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "thinks deeply",
+      "thinks outside the box"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I find beauty in unexpected opinions. I tend to answer questions with original and innovative solutions.": [
+      "considers thoroughly",
+      "explores philosophy",
+      "expresses appreciation for unconventional views",
+      "provides creative answers",
+      "seeks unique solutions",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I often answer questions with innovative solutions.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "thinks deeply",
+      "thinks outside the box"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I sometimes answer questions with a creative twist, but not consistently.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "reflects subjectivity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "reflects subjectivity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. Answers are subjective and really depend on personal preference. I tend to answer questions with original and innovative solutions.": [
+      "acknowledges personal views",
+      "considers thoroughly",
+      "explores philosophy",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "seeks unique solutions",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I often answer questions with innovative solutions.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "provides creative answers",
+      "thinks deeply",
+      "thinks outside the box"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I seek unique experiences and something different than what has been done before. I tend to answer questions with original and innovative solutions.": [
+      "averse to routine",
+      "considers thoroughly",
+      "craves novelty",
+      "explores philosophy",
+      "provides creative answers",
+      "seeks unique solutions",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I often answer questions with innovative solutions.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "thinks deeply",
+      "thinks outside the box"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prioritizes individuality",
+      "respects uniqueness",
+      "thinks deeply"
+    ],
+    "I always consider deep philosophical implications any question. I strongly value personal preference and creativity when answering a question. I tend to answer questions with original and innovative solutions.": [
+      "considers thoroughly",
+      "encourages originality",
+      "explores philosophy",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "seeks unique solutions",
+      "thinks deeply"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I often answer questions with innovative solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I sometimes answer questions with a creative twist, but not consistently.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always discuss abstract ideas. I find beauty in unexpected opinions. I tend to answer questions with original and innovative solutions.": [
+      "expresses appreciation for unconventional views",
+      "focuses on theories",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I often answer questions with innovative solutions.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I sometimes answer questions with a creative twist, but not consistently.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "reflects subjectivity"
+    ],
+    "I always discuss abstract ideas. Answers are subjective and really depend on personal preference. I tend to answer questions with original and innovative solutions.": [
+      "acknowledges personal views",
+      "focuses on theories",
+      "inclusively framed answers",
+      "provides creative answers",
+      "reflects subjectivity",
+      "seeks unique solutions"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I often answer questions with innovative solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "inconsistent creativity",
+      "occasionally adds creativity"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "inconsistent imagination",
+      "occasionally provides creative answers"
+    ],
+    "I always discuss abstract ideas. I seek unique experiences and something different than what has been done before. I tend to answer questions with original and innovative solutions.": [
+      "averse to routine",
+      "craves novelty",
+      "focuses on theories",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I often answer questions with innovative solutions.": [
+      "encourages originality",
+      "focuses on theories",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "thinks outside the box"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with a creative twist, but not consistently.": [
+      "encourages originality",
+      "focuses on theories",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "encourages originality",
+      "focuses on theories",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prioritizes individuality",
+      "respects uniqueness"
+    ],
+    "I always discuss abstract ideas. I strongly value personal preference and creativity when answering a question. I tend to answer questions with original and innovative solutions.": [
+      "encourages originality",
+      "focuses on theories",
+      "prioritizes individuality",
+      "provides creative answers",
+      "respects uniqueness",
+      "seeks unique solutions"
+    ]
+  }
+}

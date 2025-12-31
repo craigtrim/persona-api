@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      3,
+      4,
+      4
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can get discouraged at times, but I usually bounce back pretty quickly. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "moodiness",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can get discouraged at times, but I usually bounce back pretty quickly. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "occasional emotional outbursts",
+      "occasionally downcast",
+      "quickly recovers",
+      "tries to stay composed"
+    ],
+    "I can get discouraged at times, but I usually bounce back pretty quickly. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can get discouraged at times, but I usually bounce back pretty quickly. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "occasionally downcast",
+      "quickly recovers",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I can be insecure at times, but I generally feel comfortable with who I am. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "moodiness",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can be insecure at times, but I generally feel comfortable with who I am. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "occasional emotional outbursts",
+      "occasionally self-doubting",
+      "overall confident",
+      "tries to stay composed"
+    ],
+    "I can be insecure at times, but I generally feel comfortable with who I am. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can be insecure at times, but I generally feel comfortable with who I am. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "loses patience quickly",
+      "occasionally self-doubting",
+      "overall confident",
+      "reacts emotionally",
+      "shows frustration"
+    ],
+    "I tend to feel sad often and often struggle with depression or other mood disorders. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "discusses mental health",
+      "emotional fluctuations",
+      "expresses sadness",
+      "may need support",
+      "moodiness",
+      "shares personal struggles"
+    ],
+    "I tend to feel sad often and often struggle with depression or other mood disorders. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "occasional emotional outbursts",
+      "shares personal struggles",
+      "tries to stay composed"
+    ],
+    "I tend to feel sad often and often struggle with depression or other mood disorders. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "discusses mental health",
+      "expresses sadness",
+      "manages emotions",
+      "may need support",
+      "mood fluctuations",
+      "occasional outbursts",
+      "shares personal struggles"
+    ],
+    "I tend to feel sad often and often struggle with depression or other mood disorders. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "discusses mental health",
+      "emotes easily",
+      "expresses sadness",
+      "loses patience quickly",
+      "may need support",
+      "reacts emotionally",
+      "shares personal struggles",
+      "shows frustration"
+    ],
+    "I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to be moody and experience frequent mood swings.": [
+      "changes tone suddenly",
+      "emotional fluctuations",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "moodiness",
+      "shares personal struggles"
+    ],
+    "I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can be somewhat emotionally unstable at times, but I usually manage to keep it under control.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "occasional emotional outbursts",
+      "shares personal struggles",
+      "tries to stay composed"
+    ],
+    "I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I can keep my emotions under control at times, but I also have my share of outbursts and mood swings.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "manages emotions",
+      "mood fluctuations",
+      "occasional outbursts",
+      "shares personal struggles"
+    ],
+    "I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions. I tend to be quite temperamental and often get upset or emotional in response to stress or conflict.": [
+      "emotes easily",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "loses patience quickly",
+      "reacts emotionally",
+      "shares personal struggles",
+      "shows frustration"
+    ]
+  }
+}

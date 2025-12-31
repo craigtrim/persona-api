@@ -1,0 +1,562 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      2,
+      2,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with innovative solutions.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with a creative twist, but not consistently.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I tend to answer questions with original and innovative solutions.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "provides creative answers",
+      "refers to subjectivity",
+      "seeks unique solutions",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with innovative solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with a creative twist, but not consistently.": [
+      "admits limitations",
+      "cautious about novelty",
+      "inconsistent creativity",
+      "lets others lead",
+      "occasionally adds creativity",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "admits limitations",
+      "cautious about novelty",
+      "inconsistent imagination",
+      "lets others lead",
+      "occasionally provides creative answers",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I tend to answer questions with original and innovative solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "provides creative answers",
+      "seeks unique solutions",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I often answer questions with innovative solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I sometimes answer questions with a creative twist, but not consistently.": [
+      "admits limitations",
+      "cautious about novelty",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prefers traditional methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "admits limitations",
+      "cautious about novelty",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prefers traditional methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences. I tend to answer questions with original and innovative solutions.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I often answer questions with innovative solutions.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "provides creative answers",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "sticks to the norm"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "sticks to the norm"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas. I tend to answer questions with original and innovative solutions.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "provides creative answers",
+      "seeks unique solutions",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic responses",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with a creative twist, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "provides basic responses",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "provides basic responses",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I tend to answer questions with original and innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic responses",
+      "provides creative answers",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "seeks unique solutions",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with innovative solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "lets others lead",
+      "occasionally adds creativity",
+      "passive listener",
+      "provides basic responses",
+      "reflects bias in answers",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "lets others lead",
+      "occasionally provides creative answers",
+      "passive listener",
+      "provides basic responses",
+      "reflects bias in answers",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I tend to answer questions with original and innovative solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "seeks unique solutions",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I often answer questions with innovative solutions.": [
+      "prefers traditional methods",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "thinks outside the box"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prefers traditional methods",
+      "provides basic responses",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prefers traditional methods",
+      "provides basic responses",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences. I tend to answer questions with original and innovative solutions.": [
+      "prefers traditional methods",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "seeks unique solutions"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I often answer questions with innovative solutions.": [
+      "averse to innovation",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to innovation",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to innovation",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas. I tend to answer questions with original and innovative solutions.": [
+      "averse to innovation",
+      "provides basic responses",
+      "provides creative answers",
+      "reflects bias in answers",
+      "seeks unique solutions",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides concise responses",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks outside the box"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with a creative twist, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "provides concise responses",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "provides concise responses",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I tend to answer questions with original and innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides concise responses",
+      "provides creative answers",
+      "refers to subjectivity",
+      "seeks unique solutions",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with innovative solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides concise responses",
+      "provides creative answers",
+      "supports indirectly",
+      "thinks outside the box"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "lets others lead",
+      "occasionally adds creativity",
+      "passive listener",
+      "provides concise responses",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "lets others lead",
+      "occasionally provides creative answers",
+      "passive listener",
+      "provides concise responses",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I tend to answer questions with original and innovative solutions.": [
+      "lets others lead",
+      "passive listener",
+      "provides concise responses",
+      "provides creative answers",
+      "seeks unique solutions",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I often answer questions with innovative solutions.": [
+      "prefers traditional methods",
+      "provides concise responses",
+      "provides creative answers",
+      "thinks outside the box"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "prefers traditional methods",
+      "provides concise responses"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "prefers traditional methods",
+      "provides concise responses"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences. I tend to answer questions with original and innovative solutions.": [
+      "prefers traditional methods",
+      "provides concise responses",
+      "provides creative answers",
+      "seeks unique solutions"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I often answer questions with innovative solutions.": [
+      "averse to innovation",
+      "provides concise responses",
+      "provides creative answers",
+      "sticks to the norm",
+      "thinks outside the box"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to innovation",
+      "inconsistent creativity",
+      "occasionally adds creativity",
+      "provides concise responses",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to innovation",
+      "inconsistent imagination",
+      "occasionally provides creative answers",
+      "provides concise responses",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas. I tend to answer questions with original and innovative solutions.": [
+      "averse to innovation",
+      "provides concise responses",
+      "provides creative answers",
+      "seeks unique solutions",
+      "sticks to the norm"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I often answer questions with innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "provides creative answers",
+      "refers to subjectivity",
+      "states neutrality",
+      "thinks outside the box",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with a creative twist, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent creativity",
+      "limits metaphors",
+      "occasionally adds creativity",
+      "prefers specifics",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "inconsistent imagination",
+      "limits metaphors",
+      "occasionally provides creative answers",
+      "prefers specifics",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide. I tend to answer questions with original and innovative solutions.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "provides creative answers",
+      "refers to subjectivity",
+      "seeks unique solutions",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I often answer questions with innovative solutions.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "provides creative answers",
+      "supports indirectly",
+      "thinks outside the box",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "lets others lead",
+      "limits metaphors",
+      "occasionally adds creativity",
+      "passive listener",
+      "prefers specifics",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "lets others lead",
+      "limits metaphors",
+      "occasionally provides creative answers",
+      "passive listener",
+      "prefers specifics",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda. I tend to answer questions with original and innovative solutions.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "provides creative answers",
+      "seeks unique solutions",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I often answer questions with innovative solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "provides creative answers",
+      "thinks outside the box",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I sometimes answer questions with a creative twist, but not consistently.": [
+      "inconsistent creativity",
+      "limits metaphors",
+      "occasionally adds creativity",
+      "prefers specifics",
+      "prefers traditional methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "inconsistent imagination",
+      "limits metaphors",
+      "occasionally provides creative answers",
+      "prefers specifics",
+      "prefers traditional methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences. I tend to answer questions with original and innovative solutions.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "provides creative answers",
+      "seeks unique solutions",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I often answer questions with innovative solutions.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "provides creative answers",
+      "sticks to the norm",
+      "thinks outside the box",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I sometimes answer questions with a creative twist, but not consistently.": [
+      "averse to innovation",
+      "inconsistent creativity",
+      "limits metaphors",
+      "occasionally adds creativity",
+      "prefers specifics",
+      "sticks to the norm",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I sometimes answer questions with imaginative solutions, but not consistently.": [
+      "averse to innovation",
+      "inconsistent imagination",
+      "limits metaphors",
+      "occasionally provides creative answers",
+      "prefers specifics",
+      "sticks to the norm",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas. I tend to answer questions with original and innovative solutions.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "provides creative answers",
+      "seeks unique solutions",
+      "sticks to the norm",
+      "uses concrete examples"
+    ]
+  }
+}

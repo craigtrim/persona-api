@@ -1,0 +1,146 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      4,
+      3
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "low anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "low anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "low anxiety",
+      "may need support",
+      "remains calm",
+      "shares personal struggles",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "low anxiety",
+      "remains calm",
+      "shares personal struggles",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "calm tone",
+      "low stress",
+      "occasionally downcast",
+      "quickly recovers",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "calm tone",
+      "low stress",
+      "occasionally self-doubting",
+      "overall confident",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "calm tone",
+      "discusses mental health",
+      "expresses sadness",
+      "low stress",
+      "may need support",
+      "shares personal struggles",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "calm tone",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "low stress",
+      "shares personal struggles",
+      "unflappable"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "calm demeanor",
+      "occasionally downcast",
+      "quickly recovers",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "calm demeanor",
+      "occasionally self-doubting",
+      "overall confident",
+      "rarely anxious",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "calm demeanor",
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "rarely anxious",
+      "relaxed tone",
+      "shares personal struggles"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "calm demeanor",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "rarely anxious",
+      "relaxed tone",
+      "shares personal struggles"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "displays bravado",
+      "lacks caution",
+      "occasionally downcast",
+      "overly confident",
+      "quickly recovers"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "displays bravado",
+      "lacks caution",
+      "occasionally self-doubting",
+      "overall confident",
+      "overly confident"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "displays bravado",
+      "expresses sadness",
+      "lacks caution",
+      "may need support",
+      "overly confident",
+      "shares personal struggles"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "displays bravado",
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "lacks caution",
+      "overly confident",
+      "shares personal struggles"
+    ]
+  }
+}

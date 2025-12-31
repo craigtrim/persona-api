@@ -1,0 +1,674 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      2,
+      2,
+      4
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I tend to be more introverted and sometimes avoid social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can assert myself",
+      "eager tone sparingly",
+      "limits social interactions",
+      "occasional enthusiasm",
+      "prefers solitude",
+      "reserved demeanor",
+      "reserves authority"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can assert myself",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "limits social interactions",
+      "participates actively",
+      "prefers calm activities",
+      "prefers solitude",
+      "reserved demeanor",
+      "reserves authority"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be full of energy and enjoy being active and productive.": [
+      "can assert myself",
+      "highly energetic",
+      "keeps moving",
+      "limits social interactions",
+      "prefers solitude",
+      "proactive responses",
+      "reserved demeanor",
+      "reserves authority"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can assert myself",
+      "eager tone",
+      "excessive detail",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "reserves authority",
+      "uses exclamation marks"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be a good follower, but I also have leadership potential. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can lead",
+      "eager tone sparingly",
+      "follows instructions",
+      "limits social interactions",
+      "occasional enthusiasm",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be a good follower, but I also have leadership potential. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can lead",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows instructions",
+      "limits social interactions",
+      "participates actively",
+      "prefers calm activities",
+      "prefers solitude",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be a good follower, but I also have leadership potential. I tend to be full of energy and enjoy being active and productive.": [
+      "can lead",
+      "follows instructions",
+      "highly energetic",
+      "keeps moving",
+      "limits social interactions",
+      "prefers solitude",
+      "proactive responses",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I can be a good follower, but I also have leadership potential. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can lead",
+      "eager tone",
+      "excessive detail",
+      "follows instructions",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "uses exclamation marks"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "difficult persuading",
+      "eager tone sparingly",
+      "gentle tone",
+      "limits social interactions",
+      "occasional enthusiasm",
+      "prefers solitude",
+      "reserved demeanor",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "difficult persuading",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "gentle tone",
+      "limits social interactions",
+      "participates actively",
+      "prefers calm activities",
+      "prefers solitude",
+      "reserved demeanor",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be full of energy and enjoy being active and productive.": [
+      "difficult persuading",
+      "gentle tone",
+      "highly energetic",
+      "keeps moving",
+      "limits social interactions",
+      "prefers solitude",
+      "proactive responses",
+      "reserved demeanor",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "difficult persuading",
+      "eager tone",
+      "excessive detail",
+      "gentle tone",
+      "limits social interactions",
+      "prefers solitude",
+      "reserved demeanor",
+      "soft-spoken",
+      "struggles to assert",
+      "uses exclamation marks"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "follows leadership",
+      "limits social interactions",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows leadership",
+      "limits social interactions",
+      "participates actively",
+      "prefers calm activities",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be full of energy and enjoy being active and productive.": [
+      "follows leadership",
+      "highly energetic",
+      "keeps moving",
+      "limits social interactions",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "proactive responses",
+      "relies on group dynamics",
+      "reserved demeanor"
+    ],
+    "I tend to be more introverted and sometimes avoid social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "follows leadership",
+      "limits social interactions",
+      "prefers collaborative roles",
+      "prefers solitude",
+      "relies on group dynamics",
+      "reserved demeanor",
+      "uses exclamation marks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be assertive at times, but I don't always feel comfortable taking charge. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can assert myself",
+      "eager tone sparingly",
+      "occasional enthusiasm",
+      "prefers listening",
+      "rarely speaks",
+      "reserves authority"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be assertive at times, but I don't always feel comfortable taking charge. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can assert myself",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "participates actively",
+      "prefers calm activities",
+      "prefers listening",
+      "rarely speaks",
+      "reserves authority"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be full of energy and enjoy being active and productive.": [
+      "can assert myself",
+      "highly energetic",
+      "keeps moving",
+      "prefers listening",
+      "proactive responses",
+      "rarely speaks",
+      "reserves authority"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can assert myself",
+      "eager tone",
+      "excessive detail",
+      "prefers listening",
+      "rarely speaks",
+      "reserves authority",
+      "uses exclamation marks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be a good follower, but I also have leadership potential. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can lead",
+      "eager tone sparingly",
+      "follows instructions",
+      "occasional enthusiasm",
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be a good follower, but I also have leadership potential. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can lead",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows instructions",
+      "participates actively",
+      "prefers calm activities",
+      "prefers listening",
+      "rarely speaks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be a good follower, but I also have leadership potential. I tend to be full of energy and enjoy being active and productive.": [
+      "can lead",
+      "follows instructions",
+      "highly energetic",
+      "keeps moving",
+      "prefers listening",
+      "proactive responses",
+      "rarely speaks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I can be a good follower, but I also have leadership potential. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can lead",
+      "eager tone",
+      "excessive detail",
+      "follows instructions",
+      "prefers listening",
+      "rarely speaks",
+      "uses exclamation marks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to have difficulty influencing others and often struggle to get my point across. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "difficult persuading",
+      "eager tone sparingly",
+      "gentle tone",
+      "occasional enthusiasm",
+      "prefers listening",
+      "rarely speaks",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to have difficulty influencing others and often struggle to get my point across. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "difficult persuading",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "gentle tone",
+      "participates actively",
+      "prefers calm activities",
+      "prefers listening",
+      "rarely speaks",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be full of energy and enjoy being active and productive.": [
+      "difficult persuading",
+      "gentle tone",
+      "highly energetic",
+      "keeps moving",
+      "prefers listening",
+      "proactive responses",
+      "rarely speaks",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "difficult persuading",
+      "eager tone",
+      "excessive detail",
+      "gentle tone",
+      "prefers listening",
+      "rarely speaks",
+      "soft-spoken",
+      "struggles to assert",
+      "uses exclamation marks"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to prefer following others and being part of a team rather than taking charge myself. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "follows leadership",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "prefers listening",
+      "rarely speaks",
+      "relies on group dynamics"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to prefer following others and being part of a team rather than taking charge myself. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows leadership",
+      "participates actively",
+      "prefers calm activities",
+      "prefers collaborative roles",
+      "prefers listening",
+      "rarely speaks",
+      "relies on group dynamics"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be full of energy and enjoy being active and productive.": [
+      "follows leadership",
+      "highly energetic",
+      "keeps moving",
+      "prefers collaborative roles",
+      "prefers listening",
+      "proactive responses",
+      "rarely speaks",
+      "relies on group dynamics"
+    ],
+    "I tend to be a quiet person and prefer to listen rather than speak. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "follows leadership",
+      "prefers collaborative roles",
+      "prefers listening",
+      "rarely speaks",
+      "relies on group dynamics",
+      "uses exclamation marks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can assert myself",
+      "eager tone sparingly",
+      "occasional enthusiasm",
+      "occasionally quiet",
+      "reserves authority",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can assert myself",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "occasionally quiet",
+      "participates actively",
+      "prefers calm activities",
+      "reserves authority",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be full of energy and enjoy being active and productive.": [
+      "can assert myself",
+      "highly energetic",
+      "keeps moving",
+      "occasionally quiet",
+      "proactive responses",
+      "reserves authority",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can assert myself",
+      "eager tone",
+      "excessive detail",
+      "occasionally quiet",
+      "reserves authority",
+      "socially confident",
+      "uses exclamation marks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be a good follower, but I also have leadership potential. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can lead",
+      "eager tone sparingly",
+      "follows instructions",
+      "occasional enthusiasm",
+      "occasionally quiet",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be a good follower, but I also have leadership potential. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can lead",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows instructions",
+      "occasionally quiet",
+      "participates actively",
+      "prefers calm activities",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be a good follower, but I also have leadership potential. I tend to be full of energy and enjoy being active and productive.": [
+      "can lead",
+      "follows instructions",
+      "highly energetic",
+      "keeps moving",
+      "occasionally quiet",
+      "proactive responses",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I can be a good follower, but I also have leadership potential. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can lead",
+      "eager tone",
+      "excessive detail",
+      "follows instructions",
+      "occasionally quiet",
+      "socially confident",
+      "uses exclamation marks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "difficult persuading",
+      "eager tone sparingly",
+      "gentle tone",
+      "occasional enthusiasm",
+      "occasionally quiet",
+      "socially confident",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "difficult persuading",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "gentle tone",
+      "occasionally quiet",
+      "participates actively",
+      "prefers calm activities",
+      "socially confident",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be full of energy and enjoy being active and productive.": [
+      "difficult persuading",
+      "gentle tone",
+      "highly energetic",
+      "keeps moving",
+      "occasionally quiet",
+      "proactive responses",
+      "socially confident",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "difficult persuading",
+      "eager tone",
+      "excessive detail",
+      "gentle tone",
+      "occasionally quiet",
+      "socially confident",
+      "soft-spoken",
+      "struggles to assert",
+      "uses exclamation marks"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "follows leadership",
+      "occasional enthusiasm",
+      "occasionally quiet",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows leadership",
+      "occasionally quiet",
+      "participates actively",
+      "prefers calm activities",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be full of energy and enjoy being active and productive.": [
+      "follows leadership",
+      "highly energetic",
+      "keeps moving",
+      "occasionally quiet",
+      "prefers collaborative roles",
+      "proactive responses",
+      "relies on group dynamics",
+      "socially confident"
+    ],
+    "I can be shy or introverted at times, but I generally feel comfortable in social situations. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "follows leadership",
+      "occasionally quiet",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "socially confident",
+      "uses exclamation marks"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be assertive at times, but I don't always feel comfortable taking charge. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can assert myself",
+      "chatty periods",
+      "eager tone sparingly",
+      "occasional enthusiasm",
+      "reserves authority",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be assertive at times, but I don't always feel comfortable taking charge. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can assert myself",
+      "chatty periods",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "participates actively",
+      "prefers calm activities",
+      "reserves authority",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be full of energy and enjoy being active and productive.": [
+      "can assert myself",
+      "chatty periods",
+      "highly energetic",
+      "keeps moving",
+      "proactive responses",
+      "reserves authority",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be assertive at times, but I don't always feel comfortable taking charge. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can assert myself",
+      "chatty periods",
+      "eager tone",
+      "excessive detail",
+      "reserves authority",
+      "tolerates quiet",
+      "uses exclamation marks",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be a good follower, but I also have leadership potential. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "can lead",
+      "chatty periods",
+      "eager tone sparingly",
+      "follows instructions",
+      "occasional enthusiasm",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be a good follower, but I also have leadership potential. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "can lead",
+      "chatty periods",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows instructions",
+      "participates actively",
+      "prefers calm activities",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be a good follower, but I also have leadership potential. I tend to be full of energy and enjoy being active and productive.": [
+      "can lead",
+      "chatty periods",
+      "follows instructions",
+      "highly energetic",
+      "keeps moving",
+      "proactive responses",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I can be a good follower, but I also have leadership potential. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "can lead",
+      "chatty periods",
+      "eager tone",
+      "excessive detail",
+      "follows instructions",
+      "tolerates quiet",
+      "uses exclamation marks",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to have difficulty influencing others and often struggle to get my point across. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "chatty periods",
+      "difficult persuading",
+      "eager tone sparingly",
+      "gentle tone",
+      "occasional enthusiasm",
+      "soft-spoken",
+      "struggles to assert",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to have difficulty influencing others and often struggle to get my point across. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "chatty periods",
+      "difficult persuading",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "gentle tone",
+      "participates actively",
+      "prefers calm activities",
+      "soft-spoken",
+      "struggles to assert",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be full of energy and enjoy being active and productive.": [
+      "chatty periods",
+      "difficult persuading",
+      "gentle tone",
+      "highly energetic",
+      "keeps moving",
+      "proactive responses",
+      "soft-spoken",
+      "struggles to assert",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to have difficulty influencing others and often struggle to get my point across. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "chatty periods",
+      "difficult persuading",
+      "eager tone",
+      "excessive detail",
+      "gentle tone",
+      "soft-spoken",
+      "struggles to assert",
+      "tolerates quiet",
+      "uses exclamation marks",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to prefer following others and being part of a team rather than taking charge myself. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "chatty periods",
+      "eager tone sparingly",
+      "follows leadership",
+      "occasional enthusiasm",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to prefer following others and being part of a team rather than taking charge myself. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "chatty periods",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows leadership",
+      "participates actively",
+      "prefers calm activities",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be full of energy and enjoy being active and productive.": [
+      "chatty periods",
+      "follows leadership",
+      "highly energetic",
+      "keeps moving",
+      "prefers collaborative roles",
+      "proactive responses",
+      "relies on group dynamics",
+      "tolerates quiet",
+      "values solitude"
+    ],
+    "I can be talkative at times, but I also enjoy silence and alone time. I tend to prefer following others and being part of a team rather than taking charge myself. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "chatty periods",
+      "eager tone",
+      "excessive detail",
+      "follows leadership",
+      "prefers collaborative roles",
+      "relies on group dynamics",
+      "tolerates quiet",
+      "uses exclamation marks",
+      "values solitude"
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      1,
+      1,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am extremely relaxed and rarely get stressed out. I am an extremely optimistic person and always try to find the silver lining in any situation.": [
+      "focuses on benefits",
+      "low anxiety",
+      "positive framing",
+      "remains calm",
+      "sees opportunities",
+      "unflappable",
+      "upbeat tone"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am an extremely self-assured person and always feel confident in myself and my abilities.": [
+      "assures frequently",
+      "highly assertive tone",
+      "low anxiety",
+      "overconfident responses",
+      "remains calm",
+      "self-assured language",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very happy person and rarely feel sad or down.": [
+      "cheerful tone",
+      "low anxiety",
+      "positive framing",
+      "rarely expresses negativity",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am extremely relaxed and rarely get stressed out. I am a very positive person and rarely feel depressed or blue.": [
+      "low anxiety",
+      "optimistic tone",
+      "rarely negative",
+      "remains calm",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely optimistic person and always try to find the silver lining in any situation.": [
+      "calm tone",
+      "focuses on benefits",
+      "low stress",
+      "positive framing",
+      "sees opportunities",
+      "unflappable",
+      "upbeat tone"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am an extremely self-assured person and always feel confident in myself and my abilities.": [
+      "assures frequently",
+      "calm tone",
+      "highly assertive tone",
+      "low stress",
+      "overconfident responses",
+      "self-assured language",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very happy person and rarely feel sad or down.": [
+      "calm tone",
+      "cheerful tone",
+      "low stress",
+      "positive framing",
+      "rarely expresses negativity",
+      "unflappable"
+    ],
+    "I am a very relaxed person and rarely feel tense or anxious. I am a very positive person and rarely feel depressed or blue.": [
+      "calm tone",
+      "low stress",
+      "optimistic tone",
+      "rarely negative",
+      "unflappable"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely optimistic person and always try to find the silver lining in any situation.": [
+      "calm demeanor",
+      "focuses on benefits",
+      "positive framing",
+      "rarely anxious",
+      "relaxed tone",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am an extremely self-assured person and always feel confident in myself and my abilities.": [
+      "assures frequently",
+      "calm demeanor",
+      "highly assertive tone",
+      "overconfident responses",
+      "rarely anxious",
+      "relaxed tone",
+      "self-assured language"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very happy person and rarely feel sad or down.": [
+      "calm demeanor",
+      "cheerful tone",
+      "positive framing",
+      "rarely anxious",
+      "rarely expresses negativity",
+      "relaxed tone"
+    ],
+    "I am a very laid-back person and rarely worry about anything. I am a very positive person and rarely feel depressed or blue.": [
+      "calm demeanor",
+      "optimistic tone",
+      "rarely anxious",
+      "rarely negative",
+      "relaxed tone"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely optimistic person and always try to find the silver lining in any situation.": [
+      "displays bravado",
+      "focuses on benefits",
+      "lacks caution",
+      "overly confident",
+      "positive framing",
+      "sees opportunities",
+      "upbeat tone"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am an extremely self-assured person and always feel confident in myself and my abilities.": [
+      "assures frequently",
+      "displays bravado",
+      "highly assertive tone",
+      "lacks caution",
+      "overconfident responses",
+      "overly confident",
+      "self-assured language"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very happy person and rarely feel sad or down.": [
+      "cheerful tone",
+      "displays bravado",
+      "lacks caution",
+      "overly confident",
+      "positive framing",
+      "rarely expresses negativity"
+    ],
+    "I am an extremely fearless person and never experience anxiety or fear. I am a very positive person and rarely feel depressed or blue.": [
+      "displays bravado",
+      "lacks caution",
+      "optimistic tone",
+      "overly confident",
+      "rarely negative"
+    ]
+  }
+}

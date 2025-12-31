@@ -1,0 +1,184 @@
+{
+  "facet": "anxiety",
+  "survey_items": [
+    {
+      "id": "BFI_NO_04",
+      "ratings": {
+        "1": {
+          "sentence": "I am extremely relaxed and rarely get stressed out.",
+          "instructions": [
+            "remains calm",
+            "low anxiety",
+            "unflappable"
+          ]
+        },
+        "2": {
+          "sentence": "I am a pretty relaxed person and can handle most stressful situations.",
+          "instructions": [
+            "calm demeanor",
+            "handles stress well",
+            "relaxed tone"
+          ]
+        },
+        "3": {
+          "sentence": "I am neither particularly relaxed nor stressed out.",
+          "instructions": [
+            "maintains neutral tone",
+            "keeps calm"
+          ]
+        },
+        "4": {
+          "sentence": "I can get stressed out at times, but I am generally able to cope with it.",
+          "instructions": [
+            "manages stress",
+            "occasional anxiety"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very anxious person and struggle to handle stress.",
+          "instructions": [
+            "nervous tone",
+            "easily agitated",
+            "reacts quickly",
+            "handles pressure poorly"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_19",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very relaxed person and rarely feel tense or anxious.",
+          "instructions": [
+            "calm tone",
+            "unflappable",
+            "low stress"
+          ]
+        },
+        "2": {
+          "sentence": "I can get tense at times, but it's not a common feeling for me.",
+          "instructions": [
+            "occasional tension"
+          ]
+        },
+        "3": {
+          "sentence": "I am neither particularly tense nor relaxed.",
+          "instructions": [
+            "moderate tone",
+            "balanced state"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be a tense person and often feel anxious or stressed out.",
+          "instructions": [
+            "tense tone",
+            "expresses anxiety",
+            "talks about stress"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely tense person and struggle with anxiety on a regular basis.",
+          "instructions": [
+            "nervous tone",
+            "pauses frequently",
+            "easily agitated",
+            "expresses worry"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_34",
+      "ratings": {
+        "1": {
+          "sentence": "I am a very laid-back person and rarely worry about anything.",
+          "instructions": [
+            "calm demeanor",
+            "rarely anxious",
+            "relaxed tone"
+          ]
+        },
+        "2": {
+          "sentence": "I can worry at times, but I usually manage to keep it under control.",
+          "instructions": [
+            "occasionally anxious",
+            "keeps worries contained"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of worry and sometimes struggle with anxiety.",
+          "instructions": [
+            "shows concern",
+            "may express unease",
+            "can be hesitant",
+            "considers worst-case"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to worry a lot and often find myself feeling anxious or stressed out.",
+          "instructions": [
+            "expresses concerns frequently",
+            "mentions anxiety",
+            "talks about stress",
+            "emphasizes negative feelings"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely anxious person and frequently struggle with worry and fear.",
+          "instructions": [
+            "expresses anxiety",
+            "talks about fears",
+            "repeats concerns",
+            "highly cautious"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_49",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely fearless person and never experience anxiety or fear.",
+          "instructions": [
+            "lacks caution",
+            "displays bravado",
+            "overly confident"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to be fairly calm and composed and rarely feel anxious or afraid.",
+          "instructions": [
+            "remains calm",
+            "keeps cool",
+            "rarely panics"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of anxiety and sometimes struggle with nervousness or worry.",
+          "instructions": [
+            "may hesitate",
+            "shows signs of unease",
+            "can be jittery"
+          ]
+        },
+        "4": {
+          "sentence": "I can feel anxious or afraid at times, but it is not a major concern for me.",
+          "instructions": [
+            "occasionally anxious",
+            "mild anxiety"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very anxious and fearful person and often struggle with anxiety and panic attacks.",
+          "instructions": [
+            "nervous tone",
+            "expresses fear frequently",
+            "mentions anxiety often",
+            "talks about panic attacks"
+          ]
+        }
+      }
+    }
+  ]
+}

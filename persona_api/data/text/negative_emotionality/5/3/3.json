@@ -1,0 +1,42 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      3,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress.": [
+      "easily agitated",
+      "handles pressure poorly",
+      "nervous tone",
+      "reacts quickly"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis.": [
+      "easily agitated",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear.": [
+      "expresses anxiety",
+      "highly cautious",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks.": [
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "talks about panic attacks"
+    ]
+  }
+}

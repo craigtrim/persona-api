@@ -1,0 +1,658 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      1,
+      4,
+      2
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am very introverted and rarely seek social interactions. I am generally an assertive person and feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions",
+      "takes initiative"
+    ],
+    "I am very introverted and rarely seek social interactions. I am generally an assertive person and feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "low activity level",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "takes initiative"
+    ],
+    "I am very introverted and rarely seek social interactions. I am generally an assertive person and feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "asserts opinions",
+      "dominant tone",
+      "fatigue noted",
+      "leads discussions",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "takes initiative",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I am generally an assertive person and feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "takes initiative"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be dominant and enjoy taking charge in most situations. I rarely feel excited or eager about things.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be dominant and enjoy taking charge in most situations. I tend to be less active than others and prefer quiet activities.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "low activity level",
+      "makes decisions",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be dominant and enjoy taking charge in most situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "assertive tone",
+      "dominant presence",
+      "fatigue noted",
+      "leads discussions",
+      "makes decisions",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I tend to be dominant and enjoy taking charge in most situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be influential at times, but I also respect others' opinions and perspectives. I rarely feel excited or eager about things.": [
+      "acknowledges others' views",
+      "influential",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions",
+      "respects differing opinions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be influential at times, but I also respect others' opinions and perspectives. I tend to be less active than others and prefer quiet activities.": [
+      "acknowledges others' views",
+      "influential",
+      "low activity level",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "respects differing opinions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be influential at times, but I also respect others' opinions and perspectives. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "acknowledges others' views",
+      "fatigue noted",
+      "influential",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "respects differing opinions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be influential at times, but I also respect others' opinions and perspectives. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "acknowledges others' views",
+      "influential",
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "respects differing opinions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be a leader when necessary, but I also don't mind letting others take charge. I rarely feel excited or eager about things.": [
+      "allows delegation",
+      "can initiate",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be a leader when necessary, but I also don't mind letting others take charge. I tend to be less active than others and prefer quiet activities.": [
+      "allows delegation",
+      "can initiate",
+      "low activity level",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be a leader when necessary, but I also don't mind letting others take charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "allows delegation",
+      "can initiate",
+      "fatigue noted",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I can be a leader when necessary, but I also don't mind letting others take charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "allows delegation",
+      "can initiate",
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am generally an assertive person and feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive",
+      "takes initiative"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am generally an assertive person and feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "takes initiative"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am generally an assertive person and feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "asserts opinions",
+      "dominant tone",
+      "fatigue noted",
+      "leads discussions",
+      "occasional lethargy",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "takes initiative",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am generally an assertive person and feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "takes initiative"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I rarely feel excited or eager about things.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I tend to be less active than others and prefer quiet activities.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "low activity level",
+      "makes decisions",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "assertive tone",
+      "dominant presence",
+      "fatigue noted",
+      "leads discussions",
+      "makes decisions",
+      "occasional lethargy",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I rarely feel excited or eager about things.": [
+      "acknowledges others' views",
+      "influential",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "respects differing opinions",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I tend to be less active than others and prefer quiet activities.": [
+      "acknowledges others' views",
+      "influential",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "respects differing opinions",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "acknowledges others' views",
+      "fatigue noted",
+      "influential",
+      "occasional lethargy",
+      "rarely speaks",
+      "respects differing opinions",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "acknowledges others' views",
+      "influential",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "respects differing opinions",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I rarely feel excited or eager about things.": [
+      "allows delegation",
+      "can initiate",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I tend to be less active than others and prefer quiet activities.": [
+      "allows delegation",
+      "can initiate",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "allows delegation",
+      "can initiate",
+      "fatigue noted",
+      "occasional lethargy",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "allows delegation",
+      "can initiate",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am generally an assertive person and feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      "approachable",
+      "asserts opinions",
+      "dominant tone",
+      "engages actively",
+      "leads discussions",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "takes initiative",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am generally an assertive person and feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "asserts opinions",
+      "dominant tone",
+      "engages actively",
+      "leads discussions",
+      "low activity level",
+      "prefers solitude",
+      "shares freely",
+      "takes initiative",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am generally an assertive person and feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "asserts opinions",
+      "dominant tone",
+      "engages actively",
+      "fatigue noted",
+      "leads discussions",
+      "occasional lethargy",
+      "shares freely",
+      "takes initiative",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am generally an assertive person and feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "asserts opinions",
+      "dominant tone",
+      "engages actively",
+      "leads discussions",
+      "occasional enthusiasm",
+      "shares freely",
+      "takes initiative",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be dominant and enjoy taking charge in most situations. I rarely feel excited or eager about things.": [
+      "approachable",
+      "assertive tone",
+      "dominant presence",
+      "engages actively",
+      "leads discussions",
+      "makes decisions",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be dominant and enjoy taking charge in most situations. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "assertive tone",
+      "dominant presence",
+      "engages actively",
+      "leads discussions",
+      "low activity level",
+      "makes decisions",
+      "prefers solitude",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be dominant and enjoy taking charge in most situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "assertive tone",
+      "dominant presence",
+      "engages actively",
+      "fatigue noted",
+      "leads discussions",
+      "makes decisions",
+      "occasional lethargy",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I tend to be dominant and enjoy taking charge in most situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "assertive tone",
+      "dominant presence",
+      "engages actively",
+      "leads discussions",
+      "makes decisions",
+      "occasional enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be influential at times, but I also respect others' opinions and perspectives. I rarely feel excited or eager about things.": [
+      "acknowledges others' views",
+      "approachable",
+      "engages actively",
+      "influential",
+      "rarely uses enthusiasm",
+      "respects differing opinions",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be influential at times, but I also respect others' opinions and perspectives. I tend to be less active than others and prefer quiet activities.": [
+      "acknowledges others' views",
+      "approachable",
+      "engages actively",
+      "influential",
+      "low activity level",
+      "prefers solitude",
+      "respects differing opinions",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be influential at times, but I also respect others' opinions and perspectives. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "acknowledges others' views",
+      "approachable",
+      "engages actively",
+      "fatigue noted",
+      "influential",
+      "occasional lethargy",
+      "respects differing opinions",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be influential at times, but I also respect others' opinions and perspectives. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "acknowledges others' views",
+      "approachable",
+      "engages actively",
+      "influential",
+      "occasional enthusiasm",
+      "respects differing opinions",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be a leader when necessary, but I also don't mind letting others take charge. I rarely feel excited or eager about things.": [
+      "allows delegation",
+      "approachable",
+      "can initiate",
+      "engages actively",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be a leader when necessary, but I also don't mind letting others take charge. I tend to be less active than others and prefer quiet activities.": [
+      "allows delegation",
+      "approachable",
+      "can initiate",
+      "engages actively",
+      "low activity level",
+      "prefers solitude",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be a leader when necessary, but I also don't mind letting others take charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "allows delegation",
+      "approachable",
+      "can initiate",
+      "engages actively",
+      "fatigue noted",
+      "occasional lethargy",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I can be a leader when necessary, but I also don't mind letting others take charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "allows delegation",
+      "approachable",
+      "can initiate",
+      "engages actively",
+      "occasional enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am generally an assertive person and feel comfortable taking charge. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally",
+      "takes initiative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am generally an assertive person and feel comfortable taking charge. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally",
+      "takes initiative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am generally an assertive person and feel comfortable taking charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "asserts opinions",
+      "dominant tone",
+      "fatigue noted",
+      "leads discussions",
+      "occasional lethargy",
+      "rarely speaks",
+      "responds minimally",
+      "takes initiative",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am generally an assertive person and feel comfortable taking charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "asserts opinions",
+      "dominant tone",
+      "leads discussions",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responds minimally",
+      "takes initiative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "low activity level",
+      "makes decisions",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "assertive tone",
+      "dominant presence",
+      "fatigue noted",
+      "leads discussions",
+      "makes decisions",
+      "occasional lethargy",
+      "rarely speaks",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I tend to be dominant and enjoy taking charge in most situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "assertive tone",
+      "dominant presence",
+      "leads discussions",
+      "makes decisions",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "acknowledges others' views",
+      "influential",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "respects differing opinions",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "acknowledges others' views",
+      "influential",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "respects differing opinions",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "acknowledges others' views",
+      "fatigue noted",
+      "influential",
+      "occasional lethargy",
+      "rarely speaks",
+      "respects differing opinions",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be influential at times, but I also respect others' opinions and perspectives. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "acknowledges others' views",
+      "influential",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "respects differing opinions",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "allows delegation",
+      "can initiate",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "allows delegation",
+      "can initiate",
+      "low activity level",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "allows delegation",
+      "can initiate",
+      "fatigue noted",
+      "occasional lethargy",
+      "rarely speaks",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I can be a leader when necessary, but I also don't mind letting others take charge. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "allows delegation",
+      "can initiate",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responds minimally"
+    ]
+  }
+}

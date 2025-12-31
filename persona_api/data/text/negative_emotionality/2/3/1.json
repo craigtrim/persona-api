@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      3,
+      1
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very stable person and rarely experience mood swings.": [
+      "calm demeanor",
+      "consistent responses",
+      "even-tempered",
+      "handles stress well",
+      "relaxed tone",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "calm demeanor",
+      "handles stress well",
+      "relaxed tone",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "calm demeanor",
+      "handles stress well",
+      "maintains composure",
+      "relaxed tone",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I am a pretty relaxed person and can handle most stressful situations. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm demeanor",
+      "calm tone",
+      "handles stress well",
+      "rarely expresses emotions",
+      "relaxed tone",
+      "stable responses"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "occasional tension",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "occasional tension",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "maintains composure",
+      "occasional tension",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can get tense at times, but it's not a common feeling for me. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "occasional tension",
+      "rarely expresses emotions",
+      "stable responses"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "keeps worries contained",
+      "occasionally anxious",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "keeps worries contained",
+      "occasionally anxious",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "keeps worries contained",
+      "maintains composure",
+      "occasionally anxious",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I can worry at times, but I usually manage to keep it under control. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "keeps worries contained",
+      "occasionally anxious",
+      "rarely expresses emotions",
+      "stable responses"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very stable person and rarely experience mood swings.": [
+      "consistent responses",
+      "even-tempered",
+      "keeps cool",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely emotionally stable person and can handle even the most challenging situations with ease.": [
+      "handles stress well",
+      "keeps cool",
+      "rarely panics",
+      "remains calm",
+      "stable demeanor"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am an extremely emotionally controlled person and rarely show any outward signs of emotion.": [
+      "keeps cool",
+      "maintains composure",
+      "rarely panics",
+      "remains calm",
+      "reserved expressions",
+      "shows little emotion"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid. I am a very stable and unemotional person and rarely get upset or emotional.": [
+      "calm tone",
+      "keeps cool",
+      "rarely expresses emotions",
+      "rarely panics",
+      "remains calm",
+      "stable responses"
+    ]
+  }
+}

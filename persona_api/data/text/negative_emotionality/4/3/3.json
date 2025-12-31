@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it.": [
+      "manages stress",
+      "occasional anxiety"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out.": [
+      "expresses anxiety",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me.": [
+      "mild anxiety",
+      "occasionally anxious"
+    ]
+  }
+}

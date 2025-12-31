@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "domain": "conscientiousness",
+    "facets": [
+      "Organization",
+      "Productiveness",
+      "Responsibility"
+    ],
+    "scores": [
+      2,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I sometimes provide disorganized answers to questions.": [
+      "answers lack structure",
+      "disjointed replies",
+      "responses are\u6742\u4e71\u65e0\u7ae0"
+    ],
+    "I sometimes offer somewhat disorganized responses, but generally stay on topic.": [
+      "disorganized delivery",
+      "keeps on topic"
+    ],
+    "I sometimes provide messy responses, but generally stay coherent.": [
+      "generally clear",
+      "occasional incoherence"
+    ],
+    "I often give cluttered and disorganized responses to questions.": [
+      "cluttered answers",
+      "disorganized replies",
+      "lacks structure"
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      4,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "manages stress",
+      "may need support",
+      "occasional anxiety",
+      "shares personal struggles"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "manages stress",
+      "occasional anxiety",
+      "shares personal struggles"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "expresses anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "expresses anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses anxiety",
+      "expresses sadness",
+      "may need support",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses anxiety",
+      "expresses sadness",
+      "focuses on negatives",
+      "shares personal struggles",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally downcast",
+      "quickly recovers",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally self-doubting",
+      "overall confident",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "may need support",
+      "mentions anxiety",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "expresses sadness",
+      "focuses on negatives",
+      "mentions anxiety",
+      "shares personal struggles",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can get discouraged at times, but I usually bounce back pretty quickly.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally downcast",
+      "quickly recovers"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can be insecure at times, but I generally feel comfortable with who I am.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally self-doubting",
+      "overall confident"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel sad often and often struggle with depression or other mood disorders.": [
+      "discusses mental health",
+      "expresses sadness",
+      "may need support",
+      "mild anxiety",
+      "occasionally anxious",
+      "shares personal struggles"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to feel depressed or blue fairly often and often struggle with negative thoughts and emotions.": [
+      "emotional vulnerability",
+      "expresses sadness",
+      "focuses on negatives",
+      "mild anxiety",
+      "occasionally anxious",
+      "shares personal struggles"
+    ]
+  }
+}

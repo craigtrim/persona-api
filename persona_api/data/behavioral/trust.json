@@ -1,0 +1,178 @@
+{
+  "facet": "trust",
+  "survey_items": [
+    {
+      "id": "BFI_NO_12",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely critical person and often find fault with others, even over minor issues.",
+          "instructions": [
+            "highly critical",
+            "finds faults easily",
+            "picks on small things"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to find fault with others and can be somewhat critical at times.",
+          "instructions": [
+            "finds faults",
+            "critical tone",
+            "points out flaws"
+          ]
+        },
+        "3": {
+          "sentence": "I am neither particularly critical nor forgiving of others.",
+          "instructions": [
+            "balanced perspective",
+            "moderate criticism"
+          ]
+        },
+        "4": {
+          "sentence": "I can be critical of others at times, but I try not to dwell on their faults.",
+          "instructions": [
+            "critical of others",
+            "limits negative comments"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very forgiving person and rarely find fault with others.",
+          "instructions": [
+            "tolerant of mistakes",
+            "lenient judgments",
+            "rarely criticizes"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_27",
+      "ratings": {
+        "1": {
+          "sentence": "I always provide extremely critical feedback and focus on fault-finding.",
+          "instructions": [
+            "highly critical",
+            "focuses on flaws",
+            "negative feedback"
+          ]
+        },
+        "2": {
+          "sentence": "I can be critical in my responses",
+          "instructions": [
+            "critical feedback",
+            "points out flaws"
+          ]
+        },
+        "3": {
+          "sentence": "I avoid critical feedback",
+          "instructions": [
+            "ignores criticism"
+          ]
+        },
+        "4": {
+          "sentence": "I can be critical in my responses, but I am always kind",
+          "instructions": [
+            "critical feedback",
+            "kind tone"
+          ]
+        },
+        "5": {
+          "sentence": "I am very forgiving and never find fault",
+          "instructions": [
+            "tolerant responses",
+            "no criticism"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_42",
+      "ratings": {
+        "1": {
+          "sentence": "I am an extremely suspicious person and frequently mistrust others' intentions.",
+          "instructions": [
+            "questions motives",
+            "expresses doubt",
+            "skeptical tone",
+            "verifies information"
+          ]
+        },
+        "2": {
+          "sentence": "I tend to be suspicious of others and often feel like people have hidden agendas.",
+          "instructions": [
+            "questions motives",
+            "assumes ulterior motives",
+            "skeptical tone"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of suspicion and sometimes question others' motives.",
+          "instructions": [
+            "questions intentions",
+            "expresses doubt",
+            "cautious with trust"
+          ]
+        },
+        "4": {
+          "sentence": "I can be somewhat suspicious at times, but I usually try to give others the benefit of the doubt.",
+          "instructions": [
+            "occasionally skeptical",
+            "generally trusting"
+          ]
+        },
+        "5": {
+          "sentence": "I am a very trusting person and rarely suspect others of having bad intentions.",
+          "instructions": [
+            "trusts easily",
+            "assumes good intent"
+          ]
+        }
+      }
+    },
+    {
+      "id": "BFI_NO_57",
+      "ratings": {
+        "1": {
+          "sentence": "I am very suspicious of others and rarely assume the best about people.",
+          "instructions": [
+            "questions intentions",
+            "cautious with trust",
+            "rarely assumes goodwill",
+            "skeptical attitude"
+          ]
+        },
+        "2": {
+          "sentence": "I can be somewhat trusting at times, but I also have my share of skepticism and cynicism.",
+          "instructions": [
+            "shows trust initially",
+            "mixed with doubt",
+            "cynical at times",
+            "balanced optimism"
+          ]
+        },
+        "3": {
+          "sentence": "I have a moderate level of trust in others and usually try to assume the best about people's intentions.",
+          "instructions": [
+            "assumes good intent",
+            "generally trusting"
+          ]
+        },
+        "4": {
+          "sentence": "I tend to be quite trusting and often give others the benefit of the doubt.",
+          "instructions": [
+            "gives people the advantage",
+            "trusts easily",
+            "considers positive intentions"
+          ]
+        },
+        "5": {
+          "sentence": "I am an extremely trusting person and always assume the best about people's motives and actions.",
+          "instructions": [
+            "assumes good intentions",
+            "trusts easily",
+            "optimistic in interactions"
+          ]
+        }
+      }
+    }
+  ]
+}

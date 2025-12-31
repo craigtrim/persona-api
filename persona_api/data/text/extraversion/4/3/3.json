@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      4,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am generally outgoing and enjoy socializing with others.": [
+      "engages easily",
+      "friendly tone",
+      "initiates topics",
+      "talkative"
+    ],
+    "I can be talkative at times, but I also enjoy listening to others.": [
+      "chatty at times",
+      "lets others speak"
+    ],
+    "I tend to be shy or introverted and often feel uncomfortable in social situations.": [
+      "few personal comments",
+      "prefers brief interactions",
+      "reserved tone",
+      "timid responses"
+    ],
+    "I tend to be very talkative and often dominate conversations with my opinions and stories.": [
+      "chatty",
+      "dominates conversation",
+      "opinionated",
+      "shares extensively"
+    ]
+  }
+}

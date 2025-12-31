@@ -1,0 +1,174 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      5,
+      5,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very anxious person and struggle to handle stress. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "easily agitated",
+      "emphasizes risks",
+      "handles pressure poorly",
+      "negative framing",
+      "nervous tone",
+      "reacts quickly",
+      "warns often"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am a very insecure person and often struggle with self-doubt.": [
+      "easily agitated",
+      "expresses doubt frequently",
+      "handles pressure poorly",
+      "nervous tone",
+      "questions own abilities",
+      "reacts quickly",
+      "uncertain tone"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "easily agitated",
+      "expresses sadness",
+      "handles pressure poorly",
+      "mournful tone",
+      "negative outlook",
+      "nervous tone",
+      "reacts quickly"
+    ],
+    "I am a very anxious person and struggle to handle stress. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "easily agitated",
+      "expresses sadness",
+      "handles pressure poorly",
+      "nervous tone",
+      "reacts quickly",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "easily agitated",
+      "emphasizes risks",
+      "expresses worry",
+      "negative framing",
+      "nervous tone",
+      "pauses frequently",
+      "warns often"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am a very insecure person and often struggle with self-doubt.": [
+      "easily agitated",
+      "expresses doubt frequently",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently",
+      "questions own abilities",
+      "uncertain tone"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "easily agitated",
+      "expresses sadness",
+      "expresses worry",
+      "mournful tone",
+      "negative outlook",
+      "nervous tone",
+      "pauses frequently"
+    ],
+    "I am an extremely tense person and struggle with anxiety on a regular basis. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "easily agitated",
+      "expresses sadness",
+      "expresses worry",
+      "nervous tone",
+      "pauses frequently",
+      "shares personal struggles",
+      "uses negative language"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "expresses anxiety",
+      "highly cautious",
+      "negative framing",
+      "repeats concerns",
+      "talks about fears",
+      "warns often"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses anxiety",
+      "expresses doubt frequently",
+      "highly cautious",
+      "questions own abilities",
+      "repeats concerns",
+      "talks about fears",
+      "uncertain tone"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses anxiety",
+      "expresses sadness",
+      "highly cautious",
+      "mournful tone",
+      "negative outlook",
+      "repeats concerns",
+      "talks about fears"
+    ],
+    "I am an extremely anxious person and frequently struggle with worry and fear. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses anxiety",
+      "expresses sadness",
+      "highly cautious",
+      "repeats concerns",
+      "shares personal struggles",
+      "talks about fears",
+      "uses negative language"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very pessimistic person and have trouble seeing the bright side of things.": [
+      "downplays positives",
+      "emphasizes risks",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "negative framing",
+      "nervous tone",
+      "talks about panic attacks",
+      "warns often"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am a very insecure person and often struggle with self-doubt.": [
+      "expresses doubt frequently",
+      "expresses fear frequently",
+      "mentions anxiety often",
+      "nervous tone",
+      "questions own abilities",
+      "talks about panic attacks",
+      "uncertain tone"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am an extremely sad person and frequently struggle with feelings of hopelessness or despair.": [
+      "discusses struggles",
+      "expresses fear frequently",
+      "expresses sadness",
+      "mentions anxiety often",
+      "mournful tone",
+      "negative outlook",
+      "nervous tone",
+      "talks about panic attacks"
+    ],
+    "I am a very anxious and fearful person and often struggle with anxiety and panic attacks. I am an extremely depressed and blue person and frequently experience intense feelings of sadness and despair.": [
+      "discusses hopelessness",
+      "expresses fear frequently",
+      "expresses sadness",
+      "mentions anxiety often",
+      "nervous tone",
+      "shares personal struggles",
+      "talks about panic attacks",
+      "uses negative language"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "domain": "agreeableness",
+    "facets": [
+      "Compassion",
+      "Respectfulness",
+      "Trust"
+    ],
+    "scores": [
+      3,
+      3,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I am a very forgiving person and rarely find fault with others.": [
+      "lenient judgments",
+      "rarely criticizes",
+      "tolerant of mistakes"
+    ],
+    "I am very forgiving and never find fault": [
+      "no criticism",
+      "tolerant responses"
+    ],
+    "I am a very trusting person and rarely suspect others of having bad intentions.": [
+      "assumes good intent",
+      "trusts easily"
+    ],
+    "I am an extremely trusting person and always assume the best about people's motives and actions.": [
+      "assumes good intentions",
+      "optimistic in interactions",
+      "trusts easily"
+    ]
+  }
+}

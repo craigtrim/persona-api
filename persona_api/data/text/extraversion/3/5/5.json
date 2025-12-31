@@ -1,0 +1,162 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      5,
+      5
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I have an extremely assertive personality and am always the one in control. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "asserts opinions",
+      "dominates conversations",
+      "eager tone",
+      "enthusiastic responses",
+      "limits input",
+      "quickly excited",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I am a very active person and have trouble sitting still.": [
+      "asserts opinions",
+      "dominates conversations",
+      "high energy",
+      "keeps moving",
+      "limits input",
+      "restless",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "asserts opinions",
+      "difficult to sit still",
+      "dominates conversations",
+      "highly energetic",
+      "keeps moving",
+      "limits input",
+      "restless",
+      "takes charge"
+    ],
+    "I have an extremely assertive personality and am always the one in control. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "asserts opinions",
+      "dominates conversations",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "limits input",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "assertive tone",
+      "dominant interactions",
+      "eager tone",
+      "enthusiastic responses",
+      "leads discussions",
+      "quickly excited",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am a very active person and have trouble sitting still.": [
+      "assertive tone",
+      "dominant interactions",
+      "high energy",
+      "keeps moving",
+      "leads discussions",
+      "restless",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "assertive tone",
+      "difficult to sit still",
+      "dominant interactions",
+      "highly energetic",
+      "keeps moving",
+      "leads discussions",
+      "restless",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "assertive tone",
+      "dominant interactions",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "leads discussions",
+      "takes charge"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "assertive tone",
+      "eager tone",
+      "easily convinces others",
+      "enthusiastic responses",
+      "quickly excited",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am a very active person and have trouble sitting still.": [
+      "assertive tone",
+      "easily convinces others",
+      "high energy",
+      "keeps moving",
+      "restless",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "assertive tone",
+      "difficult to sit still",
+      "easily convinces others",
+      "highly energetic",
+      "keeps moving",
+      "restless",
+      "strong opinions"
+    ],
+    "I am a very influential person and often find it easy to persuade others. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "assertive tone",
+      "eager tone",
+      "easily convinces others",
+      "enthusiastic",
+      "excessive exclamation",
+      "high energy",
+      "strong opinions"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am a highly excitable person and often feel eager and enthusiastic about things.": [
+      "assertive leadership",
+      "dominant tone",
+      "eager tone",
+      "enthusiastic responses",
+      "guides conversations",
+      "quickly excited"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am a very active person and have trouble sitting still.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations",
+      "high energy",
+      "keeps moving",
+      "restless"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am an extremely high-energy person and often have trouble sitting still or relaxing.": [
+      "assertive leadership",
+      "difficult to sit still",
+      "dominant tone",
+      "guides conversations",
+      "highly energetic",
+      "keeps moving",
+      "restless"
+    ],
+    "I prefer to take charge and be the leader in most situations. I am an extremely enthusiastic person and often show a lot of energy and excitement in everything I do.": [
+      "assertive leadership",
+      "dominant tone",
+      "eager tone",
+      "enthusiastic",
+      "excessive exclamation",
+      "guides conversations",
+      "high energy"
+    ]
+  }
+}

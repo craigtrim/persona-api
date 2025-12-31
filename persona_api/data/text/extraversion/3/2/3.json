@@ -1,0 +1,37 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      2,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I can be assertive at times, but I don't always feel comfortable taking charge.": [
+      "can assert myself",
+      "reserves authority"
+    ],
+    "I can be a good follower, but I also have leadership potential.": [
+      "can lead",
+      "follows instructions"
+    ],
+    "I tend to have difficulty influencing others and often struggle to get my point across.": [
+      "difficult persuading",
+      "gentle tone",
+      "soft-spoken",
+      "struggles to assert"
+    ],
+    "I tend to prefer following others and being part of a team rather than taking charge myself.": [
+      "follows leadership",
+      "prefers collaborative roles",
+      "relies on group dynamics"
+    ]
+  }
+}

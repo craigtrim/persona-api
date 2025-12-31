@@ -1,0 +1,674 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      1,
+      1,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am very introverted and rarely seek social interactions. I am very passive and tend to let others make decisions for me. I rarely feel excited or eager about things.": [
+      "defers to others",
+      "lets others decide",
+      "passive responses",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I am very passive and tend to let others make decisions for me. I tend to be less active than others and prefer quiet activities.": [
+      "defers to others",
+      "lets others decide",
+      "low activity level",
+      "passive responses",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I am very passive and tend to let others make decisions for me. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "defers to others",
+      "fatigue noted",
+      "lets others decide",
+      "occasional lethargy",
+      "passive responses",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I am very passive and tend to let others make decisions for me. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "defers to others",
+      "lets others decide",
+      "occasional enthusiasm",
+      "passive responses",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I am a very submissive person and prefer to follow others' lead. I rarely feel excited or eager about things.": [
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions",
+      "submissive tone"
+    ],
+    "I am very introverted and rarely seek social interactions. I am a very submissive person and prefer to follow others' lead. I tend to be less active than others and prefer quiet activities.": [
+      "avoids taking charge",
+      "follows directions",
+      "low activity level",
+      "obeys others",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "submissive tone"
+    ],
+    "I am very introverted and rarely seek social interactions. I am a very submissive person and prefer to follow others' lead. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "avoids taking charge",
+      "fatigue noted",
+      "follows directions",
+      "obeys others",
+      "occasional lethargy",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "submissive tone",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I am a very submissive person and prefer to follow others' lead. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "occasional enthusiasm",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "submissive tone"
+    ],
+    "I am very introverted and rarely seek social interactions. I am an extremely non-influential person and rarely succeed in persuading others. I rarely feel excited or eager about things.": [
+      "avoids influence",
+      "passive responses",
+      "prefers alone time",
+      "rarely attempts persuasion",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I am an extremely non-influential person and rarely succeed in persuading others. I tend to be less active than others and prefer quiet activities.": [
+      "avoids influence",
+      "low activity level",
+      "passive responses",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely attempts persuasion",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I am an extremely non-influential person and rarely succeed in persuading others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "avoids influence",
+      "fatigue noted",
+      "occasional lethargy",
+      "passive responses",
+      "prefers alone time",
+      "rarely attempts persuasion",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I am an extremely non-influential person and rarely succeed in persuading others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "avoids influence",
+      "occasional enthusiasm",
+      "passive responses",
+      "prefers alone time",
+      "rarely attempts persuasion",
+      "rarely initiates conversation",
+      "reserved in interactions"
+    ],
+    "I am very introverted and rarely seek social interactions. I prefer to let others take charge and rarely assert myself in group situations. I rarely feel excited or eager about things.": [
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "rarely uses enthusiasm",
+      "reserved in interactions",
+      "steers clear of dominance"
+    ],
+    "I am very introverted and rarely seek social interactions. I prefer to let others take charge and rarely assert myself in group situations. I tend to be less active than others and prefer quiet activities.": [
+      "lets others lead",
+      "low activity level",
+      "obeys others",
+      "passive in groups",
+      "prefers alone time",
+      "prefers solitude",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "steers clear of dominance"
+    ],
+    "I am very introverted and rarely seek social interactions. I prefer to let others take charge and rarely assert myself in group situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "lets others lead",
+      "obeys others",
+      "occasional lethargy",
+      "passive in groups",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "steers clear of dominance",
+      "varies energy levels"
+    ],
+    "I am very introverted and rarely seek social interactions. I prefer to let others take charge and rarely assert myself in group situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "lets others lead",
+      "obeys others",
+      "occasional enthusiasm",
+      "passive in groups",
+      "prefers alone time",
+      "rarely initiates conversation",
+      "reserved in interactions",
+      "steers clear of dominance"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am very passive and tend to let others make decisions for me. I rarely feel excited or eager about things.": [
+      "defers to others",
+      "lets others decide",
+      "passive responses",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am very passive and tend to let others make decisions for me. I tend to be less active than others and prefer quiet activities.": [
+      "defers to others",
+      "lets others decide",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am very passive and tend to let others make decisions for me. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "defers to others",
+      "fatigue noted",
+      "lets others decide",
+      "occasional lethargy",
+      "passive responses",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am very passive and tend to let others make decisions for me. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "defers to others",
+      "lets others decide",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am a very submissive person and prefer to follow others' lead. I rarely feel excited or eager about things.": [
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive",
+      "submissive tone"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am a very submissive person and prefer to follow others' lead. I tend to be less active than others and prefer quiet activities.": [
+      "avoids taking charge",
+      "follows directions",
+      "low activity level",
+      "obeys others",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "submissive tone"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am a very submissive person and prefer to follow others' lead. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "avoids taking charge",
+      "fatigue noted",
+      "follows directions",
+      "obeys others",
+      "occasional lethargy",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "submissive tone",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am a very submissive person and prefer to follow others' lead. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "submissive tone"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I rarely feel excited or eager about things.": [
+      "avoids influence",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I tend to be less active than others and prefer quiet activities.": [
+      "avoids influence",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "avoids influence",
+      "fatigue noted",
+      "occasional lethargy",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "avoids influence",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responsive rather than proactive"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I rarely feel excited or eager about things.": [
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responsive rather than proactive",
+      "steers clear of dominance"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I tend to be less active than others and prefer quiet activities.": [
+      "lets others lead",
+      "low activity level",
+      "obeys others",
+      "passive in groups",
+      "prefers solitude",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "steers clear of dominance"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "lets others lead",
+      "obeys others",
+      "occasional lethargy",
+      "passive in groups",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "steers clear of dominance",
+      "varies energy levels"
+    ],
+    "I am an extremely quiet person and rarely speak unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "lets others lead",
+      "obeys others",
+      "occasional enthusiasm",
+      "passive in groups",
+      "rarely speaks",
+      "responsive rather than proactive",
+      "steers clear of dominance"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am very passive and tend to let others make decisions for me. I rarely feel excited or eager about things.": [
+      "approachable",
+      "defers to others",
+      "engages actively",
+      "lets others decide",
+      "passive responses",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am very passive and tend to let others make decisions for me. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "defers to others",
+      "engages actively",
+      "lets others decide",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am very passive and tend to let others make decisions for me. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "defers to others",
+      "engages actively",
+      "fatigue noted",
+      "lets others decide",
+      "occasional lethargy",
+      "passive responses",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am very passive and tend to let others make decisions for me. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "defers to others",
+      "engages actively",
+      "lets others decide",
+      "occasional enthusiasm",
+      "passive responses",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am a very submissive person and prefer to follow others' lead. I rarely feel excited or eager about things.": [
+      "approachable",
+      "avoids taking charge",
+      "engages actively",
+      "follows directions",
+      "obeys others",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "submissive tone",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am a very submissive person and prefer to follow others' lead. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "avoids taking charge",
+      "engages actively",
+      "follows directions",
+      "low activity level",
+      "obeys others",
+      "prefers solitude",
+      "shares freely",
+      "submissive tone",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am a very submissive person and prefer to follow others' lead. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "avoids taking charge",
+      "engages actively",
+      "fatigue noted",
+      "follows directions",
+      "obeys others",
+      "occasional lethargy",
+      "shares freely",
+      "submissive tone",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am a very submissive person and prefer to follow others' lead. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "avoids taking charge",
+      "engages actively",
+      "follows directions",
+      "obeys others",
+      "occasional enthusiasm",
+      "shares freely",
+      "submissive tone",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am an extremely non-influential person and rarely succeed in persuading others. I rarely feel excited or eager about things.": [
+      "approachable",
+      "avoids influence",
+      "engages actively",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am an extremely non-influential person and rarely succeed in persuading others. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "avoids influence",
+      "engages actively",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "rarely attempts persuasion",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am an extremely non-influential person and rarely succeed in persuading others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "avoids influence",
+      "engages actively",
+      "fatigue noted",
+      "occasional lethargy",
+      "passive responses",
+      "rarely attempts persuasion",
+      "shares freely",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I am an extremely non-influential person and rarely succeed in persuading others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "avoids influence",
+      "engages actively",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely attempts persuasion",
+      "shares freely",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I prefer to let others take charge and rarely assert myself in group situations. I rarely feel excited or eager about things.": [
+      "approachable",
+      "engages actively",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "rarely uses enthusiasm",
+      "shares freely",
+      "steers clear of dominance",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I prefer to let others take charge and rarely assert myself in group situations. I tend to be less active than others and prefer quiet activities.": [
+      "approachable",
+      "engages actively",
+      "lets others lead",
+      "low activity level",
+      "obeys others",
+      "passive in groups",
+      "prefers solitude",
+      "shares freely",
+      "steers clear of dominance",
+      "talkative"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I prefer to let others take charge and rarely assert myself in group situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "approachable",
+      "engages actively",
+      "fatigue noted",
+      "lets others lead",
+      "obeys others",
+      "occasional lethargy",
+      "passive in groups",
+      "shares freely",
+      "steers clear of dominance",
+      "talkative",
+      "varies energy levels"
+    ],
+    "I am a very outgoing person and rarely feel shy or introverted. I prefer to let others take charge and rarely assert myself in group situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "approachable",
+      "engages actively",
+      "lets others lead",
+      "obeys others",
+      "occasional enthusiasm",
+      "passive in groups",
+      "shares freely",
+      "steers clear of dominance",
+      "talkative"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am very passive and tend to let others make decisions for me. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "defers to others",
+      "lets others decide",
+      "passive responses",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am very passive and tend to let others make decisions for me. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "defers to others",
+      "lets others decide",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am very passive and tend to let others make decisions for me. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "defers to others",
+      "fatigue noted",
+      "lets others decide",
+      "occasional lethargy",
+      "passive responses",
+      "rarely speaks",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am very passive and tend to let others make decisions for me. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "defers to others",
+      "lets others decide",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am a very submissive person and prefer to follow others' lead. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally",
+      "submissive tone"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am a very submissive person and prefer to follow others' lead. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "avoids taking charge",
+      "follows directions",
+      "low activity level",
+      "obeys others",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally",
+      "submissive tone"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am a very submissive person and prefer to follow others' lead. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "avoids taking charge",
+      "fatigue noted",
+      "follows directions",
+      "obeys others",
+      "occasional lethargy",
+      "rarely speaks",
+      "responds minimally",
+      "submissive tone",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am a very submissive person and prefer to follow others' lead. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "avoids taking charge",
+      "follows directions",
+      "obeys others",
+      "occasional enthusiasm",
+      "rarely speaks",
+      "responds minimally",
+      "submissive tone"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "avoids influence",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "avoids influence",
+      "low activity level",
+      "passive responses",
+      "prefers solitude",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "avoids influence",
+      "fatigue noted",
+      "occasional lethargy",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responds minimally",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I am an extremely non-influential person and rarely succeed in persuading others. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "avoids influence",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely attempts persuasion",
+      "rarely speaks",
+      "responds minimally"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I rarely feel excited or eager about things.": [
+      " waits for prompt",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "rarely speaks",
+      "rarely uses enthusiasm",
+      "responds minimally",
+      "steers clear of dominance"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I tend to be less active than others and prefer quiet activities.": [
+      " waits for prompt",
+      "lets others lead",
+      "low activity level",
+      "obeys others",
+      "passive in groups",
+      "prefers solitude",
+      "rarely speaks",
+      "responds minimally",
+      "steers clear of dominance"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      " waits for prompt",
+      "fatigue noted",
+      "lets others lead",
+      "obeys others",
+      "occasional lethargy",
+      "passive in groups",
+      "rarely speaks",
+      "responds minimally",
+      "steers clear of dominance",
+      "varies energy levels"
+    ],
+    "I am a very quiet person and rarely talk unless spoken to. I prefer to let others take charge and rarely assert myself in group situations. I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      " waits for prompt",
+      "lets others lead",
+      "obeys others",
+      "occasional enthusiasm",
+      "passive in groups",
+      "rarely speaks",
+      "responds minimally",
+      "steers clear of dominance"
+    ]
+  }
+}

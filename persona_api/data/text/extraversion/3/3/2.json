@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      3,
+      2
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I rarely feel excited or eager about things.": [
+      "rarely uses enthusiasm"
+    ],
+    "I tend to be less active than others and prefer quiet activities.": [
+      "low activity level",
+      "prefers solitude"
+    ],
+    "I can be energetic at times, but I also have my share of laziness and fatigue.": [
+      "fatigue noted",
+      "occasional lethargy",
+      "varies energy levels"
+    ],
+    "I can be enthusiastic at times, but it is not a major characteristic of mine.": [
+      "occasional enthusiasm"
+    ]
+  }
+}

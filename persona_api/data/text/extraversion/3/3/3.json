@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {}
+}

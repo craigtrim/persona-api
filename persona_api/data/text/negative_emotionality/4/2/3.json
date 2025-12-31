@@ -1,0 +1,134 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      4,
+      2,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I can get stressed out at times, but I am generally able to cope with it. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "manages stress",
+      "occasional anxiety",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "manages stress",
+      "occasional anxiety",
+      "rarely questions info"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel sad at times, but it is not a major concern for me.": [
+      "manages stress",
+      "occasional anxiety",
+      "occasionally expresses sadness"
+    ],
+    "I can get stressed out at times, but I am generally able to cope with it. I can feel down or blue at times, but it is not a major concern for me.": [
+      "manages stress",
+      "mildly pessimistic",
+      "occasional anxiety",
+      "occasionally negative tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "encouraging tone",
+      "expresses anxiety",
+      "focuses on solutions",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "expresses anxiety",
+      "rarely questions info",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel sad at times, but it is not a major concern for me.": [
+      "expresses anxiety",
+      "occasionally expresses sadness",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to be a tense person and often feel anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me.": [
+      "expresses anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "talks about stress",
+      "tense tone"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "emphasizes negative feelings",
+      "encouraging tone",
+      "expresses concerns frequently",
+      "focuses on solutions",
+      "mentions anxiety",
+      "positive framing",
+      "rarely dwells on negatives",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "rarely questions info",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel sad at times, but it is not a major concern for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "occasionally expresses sadness",
+      "talks about stress"
+    ],
+    "I tend to worry a lot and often find myself feeling anxious or stressed out. I can feel down or blue at times, but it is not a major concern for me.": [
+      "emphasizes negative feelings",
+      "expresses concerns frequently",
+      "mentions anxiety",
+      "mildly pessimistic",
+      "occasionally negative tone",
+      "talks about stress"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I tend to be optimistic and can usually find a way to stay positive even after experiencing a setback.": [
+      "encouraging tone",
+      "focuses on solutions",
+      "mild anxiety",
+      "occasionally anxious",
+      "positive framing",
+      "rarely dwells on negatives"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I am a very secure and confident person and rarely doubt myself.": [
+      "assertive tone",
+      "confident responses",
+      "mild anxiety",
+      "occasionally anxious",
+      "rarely questions info"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel sad at times, but it is not a major concern for me.": [
+      "mild anxiety",
+      "occasionally anxious",
+      "occasionally expresses sadness"
+    ],
+    "I can feel anxious or afraid at times, but it is not a major concern for me. I can feel down or blue at times, but it is not a major concern for me.": [
+      "mild anxiety",
+      "mildly pessimistic",
+      "occasionally anxious",
+      "occasionally negative tone"
+    ]
+  }
+}

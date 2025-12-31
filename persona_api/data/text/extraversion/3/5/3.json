@@ -1,0 +1,40 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      5,
+      3
+    ]
+  },
+  "coherence": 2,
+  "texts": {
+    "I have an extremely assertive personality and am always the one in control.": [
+      "asserts opinions",
+      "dominates conversations",
+      "limits input",
+      "takes charge"
+    ],
+    "I am an extremely dominant person and often find myself in leadership positions.": [
+      "assertive tone",
+      "dominant interactions",
+      "leads discussions",
+      "takes charge"
+    ],
+    "I am a very influential person and often find it easy to persuade others.": [
+      "assertive tone",
+      "easily convinces others",
+      "strong opinions"
+    ],
+    "I prefer to take charge and be the leader in most situations.": [
+      "assertive leadership",
+      "dominant tone",
+      "guides conversations"
+    ]
+  }
+}

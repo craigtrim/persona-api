@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "domain": "extraversion",
+    "facets": [
+      "Sociability",
+      "Assertiveness",
+      "Energy_Level"
+    ],
+    "scores": [
+      3,
+      1,
+      4
+    ]
+  },
+  "coherence": 3,
+  "texts": {
+    "I am very passive and tend to let others make decisions for me. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "defers to others",
+      "eager tone sparingly",
+      "lets others decide",
+      "occasional enthusiasm",
+      "passive responses"
+    ],
+    "I am very passive and tend to let others make decisions for me. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "defers to others",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "lets others decide",
+      "participates actively",
+      "passive responses",
+      "prefers calm activities"
+    ],
+    "I am very passive and tend to let others make decisions for me. I tend to be full of energy and enjoy being active and productive.": [
+      "defers to others",
+      "highly energetic",
+      "keeps moving",
+      "lets others decide",
+      "passive responses",
+      "proactive responses"
+    ],
+    "I am very passive and tend to let others make decisions for me. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "defers to others",
+      "eager tone",
+      "excessive detail",
+      "lets others decide",
+      "passive responses",
+      "uses exclamation marks"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "avoids taking charge",
+      "eager tone sparingly",
+      "follows directions",
+      "obeys others",
+      "occasional enthusiasm",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "avoids taking charge",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "follows directions",
+      "obeys others",
+      "participates actively",
+      "prefers calm activities",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I tend to be full of energy and enjoy being active and productive.": [
+      "avoids taking charge",
+      "follows directions",
+      "highly energetic",
+      "keeps moving",
+      "obeys others",
+      "proactive responses",
+      "submissive tone"
+    ],
+    "I am a very submissive person and prefer to follow others' lead. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "avoids taking charge",
+      "eager tone",
+      "excessive detail",
+      "follows directions",
+      "obeys others",
+      "submissive tone",
+      "uses exclamation marks"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "avoids influence",
+      "eager tone sparingly",
+      "occasional enthusiasm",
+      "passive responses",
+      "rarely attempts persuasion"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "avoids influence",
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "participates actively",
+      "passive responses",
+      "prefers calm activities",
+      "rarely attempts persuasion"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I tend to be full of energy and enjoy being active and productive.": [
+      "avoids influence",
+      "highly energetic",
+      "keeps moving",
+      "passive responses",
+      "proactive responses",
+      "rarely attempts persuasion"
+    ],
+    "I am an extremely non-influential person and rarely succeed in persuading others. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "avoids influence",
+      "eager tone",
+      "excessive detail",
+      "passive responses",
+      "rarely attempts persuasion",
+      "uses exclamation marks"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I can get excited and eager at times, but it's not a common feeling for me.": [
+      "eager tone sparingly",
+      "lets others lead",
+      "obeys others",
+      "occasional enthusiasm",
+      "passive in groups",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I can be active at times, but I also enjoy quiet activities like reading or watching movies.": [
+      "engages in quiet hobbies",
+      "enjoys solitude",
+      "lets others lead",
+      "obeys others",
+      "participates actively",
+      "passive in groups",
+      "prefers calm activities",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I tend to be full of energy and enjoy being active and productive.": [
+      "highly energetic",
+      "keeps moving",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "proactive responses",
+      "steers clear of dominance"
+    ],
+    "I prefer to let others take charge and rarely assert myself in group situations. I tend to be quite enthusiastic and often get very excited about things that I am passionate about.": [
+      "eager tone",
+      "excessive detail",
+      "lets others lead",
+      "obeys others",
+      "passive in groups",
+      "steers clear of dominance",
+      "uses exclamation marks"
+    ]
+  }
+}

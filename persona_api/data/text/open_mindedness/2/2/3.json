@@ -1,0 +1,122 @@
+{
+  "_meta": {
+    "domain": "open_mindedness",
+    "facets": [
+      "Intellectual_Curiosity",
+      "Aesthetic_Sensitivity",
+      "Creative_Imagination"
+    ],
+    "scores": [
+      2,
+      2,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "If I lack experience, I am not comfortable with new ideas. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "admits limitations",
+      "avoids making judgments",
+      "cautious about novelty",
+      "defers decision-making",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "admits limitations",
+      "cautious about novelty",
+      "lets others lead",
+      "passive listener",
+      "supports indirectly"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I usually prefer conventional experiences.": [
+      "admits limitations",
+      "cautious about novelty",
+      "prefers traditional methods"
+    ],
+    "If I lack experience, I am not comfortable with new ideas. I prefer conventional ideas.": [
+      "admits limitations",
+      "averse to innovation",
+      "cautious about novelty",
+      "sticks to the norm"
+    ],
+    "I will offer simple answers and often favor personal preference. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides basic responses",
+      "refers to subjectivity",
+      "reflects bias in answers",
+      "states neutrality"
+    ],
+    "I will offer simple answers and often favor personal preference. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "passive listener",
+      "provides basic responses",
+      "reflects bias in answers",
+      "supports indirectly"
+    ],
+    "I will offer simple answers and often favor personal preference. I usually prefer conventional experiences.": [
+      "prefers traditional methods",
+      "provides basic responses",
+      "reflects bias in answers"
+    ],
+    "I will offer simple answers and often favor personal preference. I prefer conventional ideas.": [
+      "averse to innovation",
+      "provides basic responses",
+      "reflects bias in answers",
+      "sticks to the norm"
+    ],
+    "I often prefer simple answers. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "provides concise responses",
+      "refers to subjectivity",
+      "states neutrality"
+    ],
+    "I often prefer simple answers. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "passive listener",
+      "provides concise responses",
+      "supports indirectly"
+    ],
+    "I often prefer simple answers. I usually prefer conventional experiences.": [
+      "prefers traditional methods",
+      "provides concise responses"
+    ],
+    "I often prefer simple answers. I prefer conventional ideas.": [
+      "averse to innovation",
+      "provides concise responses",
+      "sticks to the norm"
+    ],
+    "I prefer to avoid abstract ideas when possible. Any opinion is really a matter of personal preference and it's ultimately not up to me to decide.": [
+      "avoids making judgments",
+      "defers decision-making",
+      "limits metaphors",
+      "prefers specifics",
+      "refers to subjectivity",
+      "states neutrality",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I am likely to take a backseat approach in this debate which allows me to appreciate what others are saying without pushing my own agenda.": [
+      "lets others lead",
+      "limits metaphors",
+      "passive listener",
+      "prefers specifics",
+      "supports indirectly",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I usually prefer conventional experiences.": [
+      "limits metaphors",
+      "prefers specifics",
+      "prefers traditional methods",
+      "uses concrete examples"
+    ],
+    "I prefer to avoid abstract ideas when possible. I prefer conventional ideas.": [
+      "averse to innovation",
+      "limits metaphors",
+      "prefers specifics",
+      "sticks to the norm",
+      "uses concrete examples"
+    ]
+  }
+}

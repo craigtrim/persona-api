@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "domain": "negative_emotionality",
+    "facets": [
+      "Anxiety",
+      "Depression",
+      "Emotional_Volatility"
+    ],
+    "scores": [
+      2,
+      3,
+      3
+    ]
+  },
+  "coherence": 1,
+  "texts": {
+    "I am a pretty relaxed person and can handle most stressful situations.": [
+      "calm demeanor",
+      "handles stress well",
+      "relaxed tone"
+    ],
+    "I can get tense at times, but it's not a common feeling for me.": [
+      "occasional tension"
+    ],
+    "I can worry at times, but I usually manage to keep it under control.": [
+      "keeps worries contained",
+      "occasionally anxious"
+    ],
+    "I tend to be fairly calm and composed and rarely feel anxious or afraid.": [
+      "keeps cool",
+      "rarely panics",
+      "remains calm"
+    ]
+  }
+}
