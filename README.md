@@ -8,7 +8,7 @@
 A FastAPI service for generating psychometrically-grounded personality profiles for LLM agents and chatbots. Built on the **Big Five Inventory-2 (BFI-2)** taxonomy with formal ontological foundations.
 
 <p align="center">
-  <em>Part of the Persona suite. See also: <a href="../persona-ui">persona-ui</a></em>
+  <em>Part of the Persona suite. See also: <a href="https://github.com/craigtrim/persona-ui">persona-ui</a></em>
 </p>
 
 ## Purpose
@@ -64,7 +64,7 @@ Real personalities exhibit systematic correlations (e.g., high Neuroticism corre
 
 ### Pre-Computed Training Data
 
-The system prompts consumed by [persona-ui](../persona-ui) were generated through a large-scale computation process:
+The system prompts consumed by [persona-ui](https://github.com/craigtrim/persona-ui) were generated through a large-scale computation process:
 
 - **3,125 Domain Combinations**: All permutations of (A, C, E, O, N) scores from 1-5
 - **500 Samples per Combination**: 100 runs × 5 length tiers (64, 128, 256, 512, unconstrained)
@@ -198,7 +198,7 @@ poetry run mypy persona_api/
 
 ## Related Projects
 
-- **[persona-ui](../persona-ui)**: Interactive web frontend for personality exploration
+- **[persona-ui](https://github.com/craigtrim/persona-ui)**: Interactive web frontend for personality exploration
 
 ## References
 
