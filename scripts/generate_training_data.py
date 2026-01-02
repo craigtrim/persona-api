@@ -43,7 +43,7 @@ DOMAIN_EMOJI_GRADIENT = {
 
 # Length tiers (None = no constraint)
 LENGTH_TIERS = [128, 256, None]
-RUNS_PER_TIER = 50
+RUNS_PER_TIER = 5
 
 # Total samples
 TOTAL_COMBINATIONS = 5 ** 5  # 3125
@@ -173,16 +173,9 @@ class TrainingDataGenerator:
         return self.output_dir / f"training_data_{combo_idx + 1:04d}.jsonl"
 
     def _is_combo_complete(self, combo_idx: int) -> bool:
-        """Check if a combo file exists and has expected line count."""
+        """Check if a combo file already exists (skip any existing file)."""
         combo_file = self._get_combo_file(combo_idx)
-        if not combo_file.exists():
-            return False
-
-        # Count lines in file
-        with open(combo_file) as f:
-            line_count = sum(1 for _ in f)
-
-        return line_count >= SAMPLES_PER_COMBINATION
+        return combo_file.exists()
 
     def _write_sample(self, combo_idx: int, sample: dict):
         """Write a sample to the combo's output file."""

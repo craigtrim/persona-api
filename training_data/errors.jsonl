@@ -25,3 +25,15 @@
 {"combo_idx": 878, "tier_idx": 1, "run_idx": 45, "scores": "A2,C3,E1,O1,N4", "length": 256, "seed": "878_1_45_878815", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
 {"combo_idx": 878, "tier_idx": 1, "run_idx": 46, "scores": "A2,C3,E1,O1,N4", "length": 256, "seed": "878_1_46_80140", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
 {"combo_idx": 878, "tier_idx": 1, "run_idx": 47, "scores": "A2,C3,E1,O1,N4", "length": 256, "seed": "878_1_47_482095", "error": "Command '['ssh', 'sparx', 'curl -s http://localhost:11434/api/generate -d @-']' timed out after 120 seconds"}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 4, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_4_972977", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 5, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_5_231562", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 3, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_3_861223", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 6, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_6_484363", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 8, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_8_829466", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 7, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_7_918388", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 9, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_9_228765", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 10, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_10_870025", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 14, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_14_266992", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 12, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_12_731154", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 13, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_13_842036", "error": "SSH/Ollama error: "}
+{"combo_idx": 1283, "tier_idx": 1, "run_idx": 11, "scores": "A3,C1,E2,O2,N4", "length": 256, "seed": "1283_1_11_925021", "error": "SSH/Ollama error: "}

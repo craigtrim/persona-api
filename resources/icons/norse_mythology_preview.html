@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Norse Mythology Icons - 20 Characters</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #0a0a14;
+            color: #ccc;
+            padding: 30px;
+            margin: 0;
+        }
+        h1 { color: #6a8aaa; margin-bottom: 4px; }
+        .subtitle { color: #4a6a8a; margin-bottom: 20px; font-size: 13px; }
+        h2 { color: #5a7a9a; font-size: 14px; margin: 30px 0 12px; border-bottom: 1px solid #1a2a3a; padding-bottom: 6px; }
+        .tier-label { color: #3a5a7a; font-size: 11px; margin-left: 8px; }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 12px;
+        }
+        .card {
+            background: #10121e;
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+            border: 1px solid #1a2a3a;
+        }
+        .card h3 { 
+            margin: 8px 0 4px; 
+            color: #8a9aaa; 
+            font-size: 11px; 
+            font-weight: 600;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+        .card .traits { 
+            font-size: 10px; 
+            font-family: monospace;
+            letter-spacing: 1px;
+            display: flex;
+            justify-content: center;
+            gap: 3px;
+        }
+        .trait-h { font-weight: bold; color: #8a9aaa; }
+        .trait-m { font-weight: normal; color: #5a6a7a; }
+        .trait-l { font-weight: normal; color: #2a3a4a; }
+        .icon-wrap { display: flex; justify-content: center; }
+        .icon-wrap svg { width: 80px; height: 80px; }
+        .tier-aesir .card { border-color: #2a3a4a; }
+        .tier-vanir .card { border-color: #2a3a2a; }
+        .tier-creatures .card { border-color: #2a2a3a; }
+    </style>
+</head>
+<body>
+    <h1>Norse Mythology Icons</h1>
+    <p class="subtitle">20 characters across 3 tiers · Nordic frost/silver palette</p>
+
+    <h2>Aesir <span class="tier-label">Frost Blue/Silver · 8 gods</span></h2>
+    <div class="grid tier-aesir">
+        <div class="card"><div class="icon-wrap" id="odin"></div><h3>Odin</h3><div class="traits"><span class="trait-l">A</span><span class="trait-h">C</span><span class="trait-m">E</span><span class="trait-m">N</span><span class="trait-h">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="thor"></div><h3>Thor</h3><div class="traits"><span class="trait-m">A</span><span class="trait-m">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-l">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="frigg"></div><h3>Frigg</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-m">E</span><span class="trait-m">N</span><span class="trait-h">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="loki"></div><h3>Loki</h3><div class="traits"><span class="trait-l">A</span><span class="trait-l">C</span><span class="trait-h">E</span><span class="trait-h">N</span><span class="trait-h">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="tyr"></div><h3>Tyr</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-m">E</span><span class="trait-l">N</span><span class="trait-l">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="baldur"></div><h3>Baldur</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="heimdall"></div><h3>Heimdall</h3><div class="traits"><span class="trait-m">A</span><span class="trait-h">C</span><span class="trait-l">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="freya"></div><h3>Freya</h3><div class="traits"><span class="trait-m">A</span><span class="trait-m">C</span><span class="trait-h">E</span><span class="trait-m">N</span><span class="trait-h">O</span></div></div>
+    </div>
+
+    <h2>Vanir & Others <span class="tier-label">Forest Green/Gold · 6 gods</span></h2>
+    <div class="grid tier-vanir">
+        <div class="card"><div class="icon-wrap" id="freyr"></div><h3>Freyr</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="njord"></div><h3>Njord</h3><div class="traits"><span class="trait-h">A</span><span class="trait-m">C</span><span class="trait-m">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="hel"></div><h3>Hel</h3><div class="traits"><span class="trait-l">A</span><span class="trait-h">C</span><span class="trait-l">E</span><span class="trait-m">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="skadi"></div><h3>Skadi</h3><div class="traits"><span class="trait-l">A</span><span class="trait-h">C</span><span class="trait-m">E</span><span class="trait-m">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="idunn"></div><h3>Idunn</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-m">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="bragi"></div><h3>Bragi</h3><div class="traits"><span class="trait-h">A</span><span class="trait-m">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-h">O</span></div></div>
+    </div>
+
+    <h2>Creatures & Forces <span class="tier-label">Dark Gray/Ice · 6 beings</span></h2>
+    <div class="grid tier-creatures">
+        <div class="card"><div class="icon-wrap" id="fenrir"></div><h3>Fenrir</h3><div class="traits"><span class="trait-l">A</span><span class="trait-l">C</span><span class="trait-h">E</span><span class="trait-h">N</span><span class="trait-l">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="jormungandr"></div><h3>Jörmungandr</h3><div class="traits"><span class="trait-l">A</span><span class="trait-m">C</span><span class="trait-m">E</span><span class="trait-h">N</span><span class="trait-l">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="valkyrie"></div><h3>Valkyrie</h3><div class="traits"><span class="trait-m">A</span><span class="trait-h">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="norns"></div><h3>Norns</h3><div class="traits"><span class="trait-m">A</span><span class="trait-h">C</span><span class="trait-l">E</span><span class="trait-l">N</span><span class="trait-h">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="huginnMuninn"></div><h3>Huginn & Muninn</h3><div class="traits"><span class="trait-m">A</span><span class="trait-h">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-h">O</span></div></div>
+        <div class="card"><div class="icon-wrap" id="sleipnir"></div><h3>Sleipnir</h3><div class="traits"><span class="trait-h">A</span><span class="trait-h">C</span><span class="trait-h">E</span><span class="trait-l">N</span><span class="trait-m">O</span></div></div>
+    </div>
+
+    <script src="norse_mythology_icons.js"></script>
+    <script>
+        Object.keys(NORSE_MYTHOLOGY_ICONS).forEach(key => {
+            const el = document.getElementById(key);
+            if (el) el.innerHTML = NORSE_MYTHOLOGY_ICONS[key];
+        });
+    </script>
+</body>
+</html>
